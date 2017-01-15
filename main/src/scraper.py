@@ -220,6 +220,9 @@ def parseGResults(myQS):
 
         print(br.open('http://www.pof.com/viewultramatches.aspx').read())
 
+        print("succesfully logged into pof")
+        sys.exit(1)
+
 
 
 
