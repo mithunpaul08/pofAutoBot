@@ -17,9 +17,12 @@ sys.setdefaultencoding('utf8')
 
 stubFilename='carIdHashTable.json'
 queryStringStubForTucson='http://tucson.craigslist.org/search/cto?'
+queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=23&agehigh=99&miles=10&contacted=2&cmdSearch=Refine+Matches'
 firstQueryString='http://www.pof.com/'
 numberOfGoogleResults=1000
+stubMessage='Hey, nice profile. Must say you have a very nice smile. Are you from Tucson originally?'
 startValue=1
+stubUrlForPof='http://www.pof.com/'
 stubUrlForTucsonCLInnerpages='http://tucson.craigslist.org/'
 stubUrlForPhxCLInnerpages='http://phoenix.craigslist.org/'
 username=""
@@ -218,35 +221,11 @@ def parseGResults(myQS):
         # Login
         br.submit()
 
-        print(br.open('http://www.pof.com/viewultramatches.aspx').read())
-
-        print("succesfully logged into pof")
-        sys.exit(1)
-
-
-
-
-
-
-
-
-
-        #3. read from file to hashtable
-        carIdHashTable = {}
-        # 1. store to hash table- in first pass
-        # if the file doesnt exist, create a new hashtable and add that to file
-        #  or if the bool flag firstTimeRun= true
-        carIdHashTable[445645423] = 1
-        if (firstTimeRun):
-            writeToFileAsJson(carIdHashTable, stubFilename)
-
-        carIdHashTable=readFromJsonToHashtable(stubFilename)
-        carObjectToBuildQuery = myCar()
-        fillSearchQueryAttributes(carObjectToBuildQuery)
-        queryStringToSearch=firstQueryString
-        #urrlib2 is a version of beautiful soup that raises a http request for you
         try:
-            url = urllib2.urlopen(queryStringToSearch)
+            #note:queryStringForViewMatches already contains the clause: havent contacted before. You dont want to spam
+            #someone you have already contacted and then get blocked
+            url=br.open(queryStringForViewMatches)
+            #url = urllib2.urlopen(queryStringToSearch)
         except urllib2.HTTPError, e:
             print('HTTPError = ' + str(e.code))
         except urllib2.URLError, e:
@@ -258,119 +237,57 @@ def parseGResults(myQS):
             print('generic exception: ' + traceback.format_exc())
         else:
             content = url.read()
-            #parse the content into a format that soup understands
-            soup = bs4.BeautifulSoup(content,"lxml")
-            listOfCars = []
-            #for each of the hyperlinks in the page
-            for link in soup.find_all('a'):
-                # get class of the link. In craigslist result, actual hyperlinks of results are in the :class="result-title hdrlnk"
-                classResult = link.get('class')
-                if (classResult != None):
-                    if ("result-title" in classResult):
-                        #if the class exists, get the link, if its not null
-                        linkToNextPage = link.get('href')
-                        if (linkToNextPage != None):
-                            print("\n")
-                            childurl = stubUrlForTucsonCLInnerpages + linkToNextPage
-                            #sometimes they find local nearby results also, but their url is different
-                            if("phoenix" in linkToNextPage):
-                                childurl = "http:" + linkToNextPage
-                            print(linkToNextPage)
-
-                            #to check if we have seen this ad before.
-                            # Store all the unique ids in a file in the first pass.
-
-                            # In second pass onwards, read this file, store into a hash table.
 
 
-
-                            uniquePageIdRoot = re.search('([0-9]+).html', linkToNextPage)
-                            uniquePageId=uniquePageIdRoot.group(1)
-                            print("uniquePageId is:"+uniquePageId)
-
-                            # Check for the unique id in a hashtable. Attach to email
-                            #only if it is new.
-
-
-
-
-
-
-                            #sys.exit(1)
-                            print("length of hashtable before checkAndadduidToHashtable is:"+`carIdHashTable.__len__()`)
-                            if uniquePageId in carIdHashTable:
-                                #if the uid already exists in the hashtable, dont do anything.
-                                print("uniquePageId is:"+uniquePageId)
-                                print("car details were already sent yday. Not adding to the mailing list.")
+        print("succesfully logged into pof")
+        # parse the content into a format that soup understands
+        soup = bs4.BeautifulSoup(content, "lxml")
+        # for each of the hyperlinks in the page
+        for link in soup.find_all('a'):
+            #print(link)
+            classResult = link.get('class')
+            if (classResult != None):
+                if ("mi" in classResult):
+                    # if the class exists, get the link, if its not null
+                    linkToNextPage = link.get('href')
+                    if (linkToNextPage != None):
+                        print("\n")
+                        profilePageUrl = stubUrlForPof + linkToNextPage
+                        print(profilePageUrl)
+                        # once you get the link to the person'as profile, open and go into that page.
 
 
-                            else:
-                                #Else add it to the hashtable and send it as an email
-                                carIdHashTable=AdduidToHashtable(uniquePageId, carIdHashTable)
-                                print("length of hashtable before checkAndadduidToHashtable is:"+`carIdHashTable.__len__()`)
+                        try:
+                            br.open(profilePageUrl)
+                            for f in br.forms():
+                                print f
 
-                                #once you get the link, open and go into that page.
-                                try:
-                                    secondChildurl = urllib2.urlopen(childurl)
-                                except urllib2.HTTPError, e:
-                                    print('HTTPError = ' + str(e.code))
-                                except urllib2.URLError, e:
-                                    print('URLError = ' + str(e.reason))
-                                except httplib.HTTPException, e:
-                                    print('HTTPException')
-                                except Exception:
-                                    import traceback
-                                    print('generic exception: ' + traceback.format_exc())
-                                else:
-                                    content = secondChildurl.read()
-                                    if(content != None):
-                                    # parse the content into a format that soup understands
-                                        childSoup = bs4.BeautifulSoup(content, "lxml")
-                                        #to find the attributes of the car, which is inside <div class="mapAndAttrs">
-                                        #find all div tags
-                                        listOfSpanValues = []
+                            # Select the first form (the first form is the quick message form)
+                            br.select_form(nr=0)
 
-                                        individualCarDetails = ""
-
-                                        carTitleSpan = childSoup.find("span", {"id": "titletextonly"})
-                                        if(carTitleSpan!=None):
-                                            carTitle = "Name:"+carTitleSpan.text+"\n"
-                                            individualCarDetails+=carTitle
+                            # User credentials
+                            br.form['message'] = stubMessage
 
 
-                                        carPriceSpan = childSoup.find("span", {"class": "price"})
-                                        if (carPriceSpan != None):
-                                            carPrice= "Price:"+carPriceSpan.text+"\n"
-                                            individualCarDetails+=carPrice
+                            # submit the text
+                            br.submit()
+
+                        except urllib2.HTTPError, e:
+                            print('HTTPError = ' + str(e.code))
+                        except urllib2.URLError, e:
+                            print('URLError = ' + str(e.reason))
+                        except httplib.HTTPException, e:
+                            print('HTTPException')
+                        except Exception:
+                            import traceback
+                            print('generic exception: ' + traceback.format_exc())
+                        #else:
+                            #profilePageDetails = profilePage.read()
+
+        sys.exit(1)
 
 
-                                        myDivTags=childSoup.find_all("div", {"class": "mapAndAttrs"})
-                                        for individualDivs in myDivTags:
-                                            if(len(individualDivs.find_all('span'))!=0):
-                                                for spanElements in individualDivs.find_all('span'):
-                                                    mySpanElementText=str(spanElements.text)
-                                                    #print spanElements.text
-                                                    #carAttributes= carAttributes+mySpanElementText
-                                                    listOfSpanValues.append(mySpanElementText)
-                                                #carAttributes=String.join(listOfSpanValues, '')
-                                                #print carAttributes
-                                                individualCarDetails=individualCarDetails+str(listOfSpanValues)
-                                                print individualCarDetails
-                                                print childurl
-                                                #print individualCarDetails
-                                                #sys.exit(1)
-                                                urlToThisCar="Link To This Car:"+childurl
-                                                listOfCars.append(individualCarDetails)
-                                                listOfCars.append(str(urlToThisCar))
 
-            #finalListOfCars = "\n\n".join(listOfCars)
-            #write updated hashtable to file at the end of every pass.
-            print("length of hashtable before adding to file is:"+`carIdHashTable.__len__()`)
-            writeToFileAsJson(carIdHashTable,stubFilename)
-
-
-            #sendEmail(finalListOfCars,carObjectToBuildQuery)
-            sendEmail(listOfCars,carObjectToBuildQuery)
     except:
         #print('generic exception: ')
         import traceback
