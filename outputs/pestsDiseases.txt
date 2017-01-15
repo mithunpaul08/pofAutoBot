@@ -1,0 +1,3265 @@
+﻿<!DOCTYPE html>
+
+<html class="no-js"><head>
+    <title>tucson cars &amp; trucks - by owner  - craigslist</title>
+
+    <meta name="description" content="tucson cars &amp; trucks - by owner  - craigslist">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+    <link rel="canonical" href="https://tucson.craigslist.org/search/cto">
+    <link rel="alternate" type="application/rss+xml" href="https://tucson.craigslist.org/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;format=rss&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" title="RSS feed for craigslist | tucson cars &amp; trucks - by owner  - craigslist ">
+    
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=ff447ec4e9b549c5805b8079a88d674f">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=d21abd36fdd1b978d79db7d07a333562">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=31607a98a2cb3fba2c70e3e66ecb4440">
+    <link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=70701df2d04d7c17ae6582c98790fcc5">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet.css?v=52966d0fad2afe8dd918e5f48abb0db3">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+<link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=4259680b6cc17285f073ccfd17b2ffeb">
+<!--[if IE]>
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+<![endif]-->
+    
+        <script type="text/javascript"><!--
+var areaCountry = "US";
+var areaID = "57";
+var areaRegion = "AZ";
+var catAbb = "cto";
+var countOfTotalText = "image {count} of {total}";
+var currencySymbol = "&#x0024;";
+var defaultView = "grid";
+var expiredFavIDs = null;
+var imageHost = "https://images.craigslist.org";
+var lessInfoText = "less info";
+var maptileBaseUrl = "//map{s}.craigslist.org/t09/{z}/{x}/{y}.png";
+var maxResults = 2500;
+var noImageText = "no image";
+var pID = null;
+var purveyorCategories = {"owner":"cto","dealer":"ctd","all":"cta"};
+var sectionAbb = "sso";
+var sectionBase = "sss";
+var showInfoText = "show info";
+var showMapTabs = 1;
+var showingBanished = 0;
+var showingFavorites = 0;
+var starHint = "save this post in your favorites list";
+var subarea = null;
+var zoomToPosting = null;
+--></script>
+    
+    <!--[if lt IE 9]>
+<script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+
+<script src="//www.craigslist.org/js/respond-fork.min.js?v=d7e1cb0d97ee0c0c9d84a7d4f1d03469" type="text/javascript" ></script>
+
+<![endif]-->
+<!--[if lte IE 7]>
+<script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+
+<![endif]-->
+</head>
+<body class="search en">
+    <script type="text/javascript"><!--
+    function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+    var pagetype, pagemode;
+    (function(){
+        var h = document.documentElement;
+        h.className = h.className.replace('no-js', 'js');
+        var b = document.body;
+        var bodyClassList = b.className.split(/\s+/);;
+        pagetype = bodyClassList[0]; // dangerous assumption
+        var fmt = C('cl_fmt');
+        if ( fmt === 'regular' || fmt === 'mobile' ) {
+            pagemode = fmt;
+        } else if (screen.width <= 480) {
+            pagemode = 'mobile';
+        } else {
+            pagemode = 'regular';
+        }
+        pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+        bodyClassList.push(pagemode);
+        if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+            bodyClassList.push('hide-search');
+        }
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        if (width > 1000) { bodyClassList.push('w1024'); }
+        if (typeof window.sectionBase !== 'undefined') {
+            var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+            if (mode) {
+                bodyClassList.push(mode);
+            }
+        }
+        b.className = bodyClassList.join(' ');
+    }());
+--></script>
+
+
+    <section id="pagecontainer">
+        <div class="bglogo"></div>
+        <header class="global-header">
+   <a class="header-logo" href="/">CL</a>
+
+    <nav class="breadcrumbs-container">
+<form id="breadcrumbform" class="breadcrumbs-form" method="get" action="/search/cto" data-action="/search/###/cto">
+    <input type="hidden" name="min_price" value="1"><input type="hidden" name="max_auto_year" value="2016"><input type="hidden" name="max_auto_miles" value="110000"><input type="hidden" name="max_price" value="6000"><input type="hidden" name="auto_make_model" value="honda | toyota"><input type="hidden" name="sort" value="priceasc"><input type="hidden" name="min_auto_miles" value="300"><input type="hidden" name="auto_title_status" value="1"><input type="hidden" name="min_auto_year" value="2001">
+    <ul class="breadcrumbs ">
+        <li class="crumb area">
+            
+            <span class="no-js">
+                <a href="/">tucson</a>
+            </span>
+                <select name="areaAbb" id="areaAbb" class="js-only">
+                    <option value="tucson">tucson</option>
+                        <option value="flagstaff">flagstaff</option>
+                        <option value="hermosillo">hermosillo</option>
+                        <option value="phoenix">phoenix</option>
+                        <option value="prescott">prescott</option>
+                        <option value="showlow">show low</option>
+                        <option value="sierravista">sierra vista</option>
+                        <option value="yuma">yuma</option>
+                </select>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb section">
+                    <select name="catAbb" id="catAbb">
+                        <option value="ccc">community</option>
+                        <option value="eee">events</option>
+                        <option value="sss" selected>for sale</option>
+                        <option value="ggg">gigs</option>
+                        <option value="hhh">housing</option>
+                        <option value="jjj">jobs</option>
+                        <option value="ppp">personals</option>
+                        <option value="rrr">resumes</option>
+                        <option value="bbb">services</option>
+                    </select>
+                <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb category">
+            <select id="subcatAbb" class="js-only">
+                <option value="sso">all</option>
+                    <option value="atq">antiques</option>
+                    <option value="app">appliances</option>
+                    <option value="art">arts+crafts</option>
+                    <option value="snw">atvs/utvs/snow</option>
+                    <option value="pts">auto parts</option>
+                    <option value="wto">auto wheels &amp; tires</option>
+                    <option value="bab">baby+kids</option>
+                    <option value="bar">barter</option>
+                    <option value="bop">bike parts</option>
+                    <option value="bik">bikes</option>
+                    <option value="bpo">boat parts</option>
+                    <option value="boa">boats</option>
+                    <option value="bks">books</option>
+                    <option value="bfs">business</option>
+                    <option value="cto" selected>cars+trucks</option>
+                    <option value="emd">cds/dvd/vhs</option>
+                    <option value="mob">cell phones</option>
+                    <option value="clo">clothes+acc</option>
+                    <option value="clt">collectibles</option>
+                    <option value="sop">computer parts</option>
+                    <option value="sys">computers</option>
+                    <option value="ele">electronics</option>
+                    <option value="grd">farm+garden</option>
+                    <option value="zip">free stuff</option>
+                    <option value="fuo">furniture</option>
+                    <option value="gms">garage sales</option>
+                    <option value="for">general</option>
+                    <option value="hab">beauty+hlth</option>
+                    <option value="hvo">heavy equipment</option>
+                    <option value="hsh">household</option>
+                    <option value="jwl">jewelry</option>
+                    <option value="mat">materials</option>
+                    <option value="mpo">motorcycle parts</option>
+                    <option value="mcy">motorcycles</option>
+                    <option value="msg">music instr</option>
+                    <option value="pho">photo+video</option>
+                    <option value="rvs">RVs</option>
+                    <option value="spo">sporting</option>
+                    <option value="tix">tickets</option>
+                    <option value="tls">tools</option>
+                    <option value="tag">toys+games</option>
+                    <option value="tro">trailers</option>
+                    <option value="vgm">video gaming</option>
+                    <option value="wan">wanted</option>
+            </select><span class="no-js">cars &amp; trucks - by owner</span>
+            <span class="breadcrumb-arrow">&gt;</span>
+        </li>
+        <li class="crumb no-js">
+            <input type="submit" value="go">
+        </li>
+    </ul>
+</form>
+    </nav>
+
+<div class="userlinks">
+    <ul class="user-actions">
+        <li class="user post">
+            <a href="https://post.craigslist.org/c/tus">post</a>
+        </li>
+        <li class="user account">
+            <a href="https://accounts.craigslist.org/login/home">account</a>
+        </li>
+    </ul>
+    <ul class="user-favs-discards">
+        <li class="user">
+            <div class="favorites">
+                <a href="#" class="favlink"><span class="icon icon-star fav" aria-hidden="true"></span><span class="fav-number">0</span><span class="fav-label"> favorites</span></a>
+            </div>
+        </li>
+        <li class="user discards">
+          <form class="unfavform js-only" method="POST" action="/favorites">
+            <div class="to-banish-page">
+              <input type="hidden" class="lastLink" name="lastLink" value="//tucson.craigslist.org/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc">
+              <input type="hidden" class="lastTitle" name="lastTitle" value="tucson cars &amp; trucks - by owner  - craigslist">
+              <input type="hidden" class="unfaves" name="fl">
+              <input type="hidden" name="uf" value="1">
+              <a href="#" class="to-banish-page-link">
+                <span class="icon icon-trash red" aria-hidden="true"></span>
+                <span class="banished_count">0</span>
+                <span class="discards-label"> hidden</span>
+              </a>
+            </div>
+          </form>
+        </li>
+    </ul>
+</div>
+</header>
+
+
+        <form id="searchform" class="search-form" action="/search/cto"  >
+           
+            <div class="querybox">
+                
+                <div class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></div>
+                
+                <input type="text" placeholder="search cars &amp; trucks - by owner" name="query"
+                    id="query" value="" autocorrect="off"
+                    autocapitalize="off" autocomplete="off" data-autocomplete="search" 
+                    class="flatinput ui-autocomplete-input">
+
+                <button type="submit" class="searchbtn">
+                    <span class="icon icon-search" aria-hidden="true"></span>
+                    <span class="screen-reader-text">press to search craigslist</span>
+                </button>
+                <div class="savealert">
+                            <a class="saveme" data-action="save"  href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Ftucson%252Ecraigslist%252Eorg%252Fsearch%252Fcto%253Fauto%255Fmake%255Fmodel%253Dhonda%252520%25257C%252520toyota%2526auto%255Ftitle%255Fstatus%253D1%2526max%255Fauto%255Fmiles%253D110000%2526max%255Fauto%255Fyear%253D2016%2526max%255Fprice%253D6000%2526min%255Fauto%255Fmiles%253D300%2526min%255Fauto%255Fyear%253D2001%2526min%255Fprice%253D1%2526sort%253Dpriceasc"  title="save this search" >save search</a>
+                        </div>
+            </div>
+
+            <div class="search-options-container">
+    <h2 class="search-options-header linklike">
+        <div class="icon icon-toggle-gear" aria-hidden="true"></div>
+        options<span class="options-close">close</span>
+    </h2>
+    <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="priceasc">
+    <div class="search-options">
+        <div class="searchgroup categories">
+            <div class="cattitle">
+                  <a href="/search/cto" title="clear all search parameters" class="reset">cars &amp; trucks - by owner</a>
+            </div>
+
+        </div>
+        <input type="hidden" name="userid" value="" />
+
+                <ul class="searchgroup buttongroup purveyor">
+                    <li class="button ">
+                        <a href="" data-val="all">all</a>
+                    </li><li class="button sel">
+                        <a href="" data-val="owner"> owner</a>
+                    </li><li class="button ">
+                        <a href="" data-val="dealer">dealer</a>
+                    </li>
+                </ul>
+
+
+
+
+        <div class="searchgroup">
+            <ul><li><label class="srchType"><input type="checkbox" name="srchType" class="autosubmit" value="T" >search titles only</label></li><li><label class="hasPic"><input type="checkbox" name="hasPic" class="autosubmit" value="1" >has image</label></li><li><label class="postedToday"><input type="checkbox" name="postedToday" class="autosubmit" value="1" >posted today</label></li><li><label class="bundleDuplicates"><input type="checkbox" name="bundleDuplicates" class="autosubmit" value="1" >bundle duplicates</label></li><li><label class="searchNearby"><input type="checkbox" name="searchNearby" class="autosubmit" value="1" >include nearby areas</label></li></ul>
+
+                <ul class="js-only nearbyAreas ">
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_9"
+                            value="511"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            ciudad juarez <small>(cjs)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_8"
+                            value="132"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            el paso, TX <small>(elp)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_4"
+                            value="244"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            flagstaff / sedona <small>(flg)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_5"
+                            value="506"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            hermosillo <small>(hrm)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_10"
+                            value="455"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            imperial county <small>(imp)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_7"
+                            value="334"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            las cruces, NM <small>(lcr)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_11"
+                            value="565"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            mohave county <small>(mhv)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_1"
+                            value="18"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            phoenix, AZ <small>(phx)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_3"
+                            value="419"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            prescott, AZ <small>(prc)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_2"
+                            value="651"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            show low, AZ <small>(sow)</small>
+                        </label>
+                        </li>
+                        <li class="">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_0"
+                            value="468"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            sierra vista, AZ <small>(fhu)</small>
+                        </label>
+                        </li>
+                        <li class="nearbyZone nearbyZone_1">
+                        <label class="nearby">
+                            <input
+                            type="checkbox"
+                            class="use-id nearbyArea"
+                            name="nearbyArea"
+                            id="nearbyArea_6"
+                            value="370"
+                            
+                             disabled=&quot;disabled&quot;
+                            />
+                            yuma, AZ <small>(yum)</small>
+                        </label>
+                        </li>
+
+                        <li>
+                        <span class="nextNearbyZone linklike" data-zone="1">
+                            + show <span id="nearbyNumber">12</span> more...
+                        </span>
+                        </li>
+                </ul>
+        </div>
+
+            <div class="searchgroup">
+                <span class="searchfieldlabel">miles from zip</span>
+                <input type="number" max="200" min="0" size="3" inputmode="numeric"
+                    class="flatinput searchInput search_distance" placeholder="miles"
+                    name="search_distance" 
+                    value=""
+                />
+                <input type="text" class="flatinput searchInput postal" placeholder="from zip"
+                    size="7" name="postal" value="">
+            </div>
+
+        
+    <div class="searchgroup minmax price">
+<span class="searchfieldlabel">price</span>
+    <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="1">
+    <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="6000">
+</div>
+
+
+
+        <div class="searchgroup"><span class="searchfieldlabel">make and model</span>
+    <input
+        type="text"
+        class="flatinput auto_make_model"
+        placeholder="make / model"
+        name="auto_make_model"
+        value="honda | toyota"
+        data-autocomplete="makemodel" />
+</div><div class="searchgroup">    <div class="minmax auto_year">
+<span class="searchfieldlabel">model year</span>
+    <input type="tel" name="min_auto_year" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="2001">
+    <input type="tel" name="max_auto_year" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="2016">
+</div>
+    <div class="minmax auto_miles">
+<span class="searchfieldlabel">odometer</span>
+    <input type="tel" name="min_auto_miles" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value="300">
+    <input type="tel" name="max_auto_miles" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="110000">
+</div>
+</div><div class="searchgroup">    <div id="headerattr_condition" data-checked-count="0" data-attr="condition"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_condition" class="plusminus">+</span>condition
+
+</div>
+
+    <ul id="ul_condition" class="attr_list hideme">
+
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="new_10" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="10" type="checkbox">
+            new
+            </label>
+        </li>
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="like_new_20" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="20" type="checkbox">
+            like new
+            </label>
+        </li>
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="excellent_30" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="30" type="checkbox">
+            excellent
+            </label>
+        </li>
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="good_40" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="40" type="checkbox">
+            good
+            </label>
+        </li>
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="fair_50" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="50" type="checkbox">
+            fair
+            </label>
+        </li>
+            <li class="attr_condition">
+            <label data-attr="condition">
+                <input id="salvage_60" name="condition" class="multi_checkbox multi_condition" data-attr="condition"
+                  value="60" type="checkbox">
+            salvage
+            </label>
+        </li>
+
+
+
+</ul>
+
+    <div id="headerattr_auto_cylinders" data-checked-count="0" data-attr="auto_cylinders"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_cylinders" class="plusminus">+</span>cylinders
+
+</div>
+
+    <ul id="ul_auto_cylinders" class="attr_list hideme">
+
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="3_cylinders_1" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="1" type="checkbox">
+            3 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="4_cylinders_2" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="2" type="checkbox">
+            4 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="5_cylinders_3" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="3" type="checkbox">
+            5 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="6_cylinders_4" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="4" type="checkbox">
+            6 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="8_cylinders_5" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="5" type="checkbox">
+            8 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="10_cylinders_6" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="6" type="checkbox">
+            10 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="12_cylinders_7" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="7" type="checkbox">
+            12 cylinders
+            </label>
+        </li>
+            <li class="attr_auto_cylinders">
+            <label data-attr="auto_cylinders">
+                <input id="other_8" name="auto_cylinders" class="multi_checkbox multi_auto_cylinders" data-attr="auto_cylinders"
+                  value="8" type="checkbox">
+            other
+            </label>
+        </li>
+
+            <li class="selectall js-only attr_auto_cylinders">
+            <label>
+                    <input type="checkbox" data-attr="auto_cylinders" class="selectallcb multi_checkbox" checked="checked">
+                <span class="all select_all_auto_cylinders">select all</span>
+                <span class="none deselect_all_auto_cylinders">deselect all</span>
+            </label>
+        </li>
+
+
+</ul>
+
+    <div id="headerattr_auto_drivetrain" data-checked-count="0" data-attr="auto_drivetrain"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_drivetrain" class="plusminus">+</span>drive
+
+</div>
+
+    <ul id="ul_auto_drivetrain" class="attr_list hideme">
+
+            <li class="attr_auto_drivetrain">
+            <label data-attr="auto_drivetrain">
+                <input id="fwd_1" name="auto_drivetrain" class="multi_checkbox multi_auto_drivetrain" data-attr="auto_drivetrain"
+                  value="1" type="checkbox">
+            fwd
+            </label>
+        </li>
+            <li class="attr_auto_drivetrain">
+            <label data-attr="auto_drivetrain">
+                <input id="rwd_2" name="auto_drivetrain" class="multi_checkbox multi_auto_drivetrain" data-attr="auto_drivetrain"
+                  value="2" type="checkbox">
+            rwd
+            </label>
+        </li>
+            <li class="attr_auto_drivetrain">
+            <label data-attr="auto_drivetrain">
+                <input id="4wd_3" name="auto_drivetrain" class="multi_checkbox multi_auto_drivetrain" data-attr="auto_drivetrain"
+                  value="3" type="checkbox">
+            4wd
+            </label>
+        </li>
+
+
+
+</ul>
+
+    <div id="headerattr_auto_fuel_type" data-checked-count="0" data-attr="auto_fuel_type"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_fuel_type" class="plusminus">+</span>fuel
+
+</div>
+
+    <ul id="ul_auto_fuel_type" class="attr_list hideme">
+
+            <li class="attr_auto_fuel_type">
+            <label data-attr="auto_fuel_type">
+                <input id="gas_1" name="auto_fuel_type" class="multi_checkbox multi_auto_fuel_type" data-attr="auto_fuel_type"
+                  value="1" type="checkbox">
+            gas
+            </label>
+        </li>
+            <li class="attr_auto_fuel_type">
+            <label data-attr="auto_fuel_type">
+                <input id="diesel_2" name="auto_fuel_type" class="multi_checkbox multi_auto_fuel_type" data-attr="auto_fuel_type"
+                  value="2" type="checkbox">
+            diesel
+            </label>
+        </li>
+            <li class="attr_auto_fuel_type">
+            <label data-attr="auto_fuel_type">
+                <input id="hybrid_3" name="auto_fuel_type" class="multi_checkbox multi_auto_fuel_type" data-attr="auto_fuel_type"
+                  value="3" type="checkbox">
+            hybrid
+            </label>
+        </li>
+            <li class="attr_auto_fuel_type">
+            <label data-attr="auto_fuel_type">
+                <input id="electric_4" name="auto_fuel_type" class="multi_checkbox multi_auto_fuel_type" data-attr="auto_fuel_type"
+                  value="4" type="checkbox">
+            electric
+            </label>
+        </li>
+            <li class="attr_auto_fuel_type">
+            <label data-attr="auto_fuel_type">
+                <input id="other_6" name="auto_fuel_type" class="multi_checkbox multi_auto_fuel_type" data-attr="auto_fuel_type"
+                  value="6" type="checkbox">
+            other
+            </label>
+        </li>
+
+
+
+</ul>
+
+    <div id="headerattr_auto_paint" data-checked-count="0" data-attr="auto_paint"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_paint" class="plusminus">+</span>paint color
+
+</div>
+
+    <ul id="ul_auto_paint" class="attr_list hideme">
+
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="black_1" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="1" type="checkbox">
+            black
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="blue_2" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="2" type="checkbox">
+            blue
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="brown_20" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="20" type="checkbox">
+            brown
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="green_3" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="3" type="checkbox">
+            green
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="grey_4" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="4" type="checkbox">
+            grey
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="orange_5" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="5" type="checkbox">
+            orange
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="purple_6" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="6" type="checkbox">
+            purple
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="red_7" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="7" type="checkbox">
+            red
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="silver_8" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="8" type="checkbox">
+            silver
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="white_9" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="9" type="checkbox">
+            white
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="yellow_10" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="10" type="checkbox">
+            yellow
+            </label>
+        </li>
+            <li class="attr_auto_paint">
+            <label data-attr="auto_paint">
+                <input id="custom_11" name="auto_paint" class="multi_checkbox multi_auto_paint" data-attr="auto_paint"
+                  value="11" type="checkbox">
+            custom
+            </label>
+        </li>
+
+            <li class="selectall js-only attr_auto_paint">
+            <label>
+                    <input type="checkbox" data-attr="auto_paint" class="selectallcb multi_checkbox" checked="checked">
+                <span class="all select_all_auto_paint">select all</span>
+                <span class="none deselect_all_auto_paint">deselect all</span>
+            </label>
+        </li>
+
+
+</ul>
+
+    <div id="headerattr_auto_size" data-checked-count="0" data-attr="auto_size"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_size" class="plusminus">+</span>size
+
+</div>
+
+    <ul id="ul_auto_size" class="attr_list hideme">
+
+            <li class="attr_auto_size">
+            <label data-attr="auto_size">
+                <input id="compact_1" name="auto_size" class="multi_checkbox multi_auto_size" data-attr="auto_size"
+                  value="1" type="checkbox">
+            compact
+            </label>
+        </li>
+            <li class="attr_auto_size">
+            <label data-attr="auto_size">
+                <input id="full-size_2" name="auto_size" class="multi_checkbox multi_auto_size" data-attr="auto_size"
+                  value="2" type="checkbox">
+            full-size
+            </label>
+        </li>
+            <li class="attr_auto_size">
+            <label data-attr="auto_size">
+                <input id="mid-size_3" name="auto_size" class="multi_checkbox multi_auto_size" data-attr="auto_size"
+                  value="3" type="checkbox">
+            mid-size
+            </label>
+        </li>
+            <li class="attr_auto_size">
+            <label data-attr="auto_size">
+                <input id="sub-compact_4" name="auto_size" class="multi_checkbox multi_auto_size" data-attr="auto_size"
+                  value="4" type="checkbox">
+            sub-compact
+            </label>
+        </li>
+
+
+
+</ul>
+
+    <div id="headerattr_auto_title_status" data-checked-count="1" data-attr="auto_title_status"
+      class="catfilter attr_picker multilink strong">
+
+      <span id="plusminus_auto_title_status" class="plusminus">&ndash;</span>title status
+
+</div>
+
+    <ul id="ul_auto_title_status" class="attr_list">
+
+            <li class="attr_auto_title_status">
+            <label data-attr="auto_title_status">
+                <input id="clean_1" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  checked="checked" value="1" type="checkbox">
+            clean
+            </label>
+        </li>
+            <li class="attr_auto_title_status hideme">
+            <label data-attr="auto_title_status">
+                <input id="salvage_2" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  value="2" type="checkbox">
+            salvage
+            </label>
+        </li>
+            <li class="attr_auto_title_status hideme">
+            <label data-attr="auto_title_status">
+                <input id="rebuilt_3" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  value="3" type="checkbox">
+            rebuilt
+            </label>
+        </li>
+            <li class="attr_auto_title_status hideme">
+            <label data-attr="auto_title_status">
+                <input id="parts_only_4" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  value="4" type="checkbox">
+            parts only
+            </label>
+        </li>
+            <li class="attr_auto_title_status hideme">
+            <label data-attr="auto_title_status">
+                <input id="lien_5" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  value="5" type="checkbox">
+            lien
+            </label>
+        </li>
+            <li class="attr_auto_title_status hideme">
+            <label data-attr="auto_title_status">
+                <input id="missing_6" name="auto_title_status" class="multi_checkbox multi_auto_title_status" data-attr="auto_title_status"
+                  value="6" type="checkbox">
+            missing
+            </label>
+        </li>
+
+
+        <li class="moreless">
+            <span id="more_auto_title_status" class="attr_picker_moreless linklike"
+              data-attr="auto_title_status" data-state="hiding">more...</span>
+        </li>
+        <li class="hideme moreless">
+           <span id="less_auto_title_status" class="attr_picker_moreless linklike"
+              data-attr="auto_title_status" data-state="showing">fewer...</span>
+        </li>
+
+</ul>
+
+    <div id="headerattr_auto_transmission" data-checked-count="0" data-attr="auto_transmission"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_transmission" class="plusminus">+</span>transmission
+
+</div>
+
+    <ul id="ul_auto_transmission" class="attr_list hideme">
+
+            <li class="attr_auto_transmission">
+            <label data-attr="auto_transmission">
+                <input id="manual_1" name="auto_transmission" class="multi_checkbox multi_auto_transmission" data-attr="auto_transmission"
+                  value="1" type="checkbox">
+            manual
+            </label>
+        </li>
+            <li class="attr_auto_transmission">
+            <label data-attr="auto_transmission">
+                <input id="automatic_2" name="auto_transmission" class="multi_checkbox multi_auto_transmission" data-attr="auto_transmission"
+                  value="2" type="checkbox">
+            automatic
+            </label>
+        </li>
+            <li class="attr_auto_transmission">
+            <label data-attr="auto_transmission">
+                <input id="other_3" name="auto_transmission" class="multi_checkbox multi_auto_transmission" data-attr="auto_transmission"
+                  value="3" type="checkbox">
+            other
+            </label>
+        </li>
+
+
+
+</ul>
+
+    <div id="headerattr_auto_bodytype" data-checked-count="0" data-attr="auto_bodytype"
+      class="catfilter attr_picker multilink">
+
+      <span id="plusminus_auto_bodytype" class="plusminus">+</span>type
+
+</div>
+
+    <ul id="ul_auto_bodytype" class="attr_list hideme">
+
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="bus_1" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="1" type="checkbox">
+            bus
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="convertible_2" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="2" type="checkbox">
+            convertible
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="coupe_3" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="3" type="checkbox">
+            coupe
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="hatchback_4" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="4" type="checkbox">
+            hatchback
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="mini-van_5" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="5" type="checkbox">
+            mini-van
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="offroad_6" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="6" type="checkbox">
+            offroad
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="pickup_7" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="7" type="checkbox">
+            pickup
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="sedan_8" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="8" type="checkbox">
+            sedan
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="truck_9" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="9" type="checkbox">
+            truck
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="SUV_10" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="10" type="checkbox">
+            SUV
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="wagon_11" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="11" type="checkbox">
+            wagon
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="van_12" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="12" type="checkbox">
+            van
+            </label>
+        </li>
+            <li class="attr_auto_bodytype">
+            <label data-attr="auto_bodytype">
+                <input id="other_13" name="auto_bodytype" class="multi_checkbox multi_auto_bodytype" data-attr="auto_bodytype"
+                  value="13" type="checkbox">
+            other
+            </label>
+        </li>
+
+            <li class="selectall js-only attr_auto_bodytype">
+            <label>
+                    <input type="checkbox" data-attr="auto_bodytype" class="selectallcb multi_checkbox" checked="checked">
+                <span class="all select_all_auto_bodytype">select all</span>
+                <span class="none deselect_all_auto_bodytype">deselect all</span>
+            </label>
+        </li>
+
+
+</ul>
+
+</div>
+
+
+        <div class="searchgroup resetsearch">
+            <a href="/search/cto" title="clear all search parameters" class="reset linklike">reset</a>
+            <button type="submit" class="searchlink linklike">update search</button>
+        </div>
+
+        <aside class="tsb">
+    <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+    </div>
+</div>
+
+
+            <div class="search-legend">
+                <div class="search-view js-only">
+    <div class="dropdown dropdown-icons dropdown-arrows" role="toolbar" aria-label="view options" aria-expanded="false">
+        <ul class="dropdown-list">
+            <li class="dropdown-item mode sel">
+                <button title="show results in a list" data-view="list" id="listview">
+                    <span class="view-list icon"></span>list
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results in a list with thumbnail pictures"  data-view="pic"  id="picview" >
+                    <span class="view-thumb icon"></span>thumb
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+            <li class="dropdown-item mode">
+                <button title="show results side-by-side with larger pictures" data-view="grid" id="gridview">
+                    <span class="view-gallery icon"></span>gallery
+                </button>
+                <span class="toggle-arrow"></span>
+            </li>
+                <li class="dropdown-item mode">
+                    <button title="show results on a map"  data-view="map"  id="mapview" >
+                        <span class="view-map icon"></span>map
+                    </button>
+                    <span class="toggle-arrow"></span>
+                </li>
+        </ul>
+    </div>
+</div>
+<div class="search-sort">
+    <div class="dropdown dropdown-arrows" role="toolbar" aria-label="sort options" aria-expanded="false">
+        <ul class="dropdown-list">
+
+            <li class="dropdown-item mode " aria-selected="false">
+                <a title="show newest matches first" href="/search/cto?sort=date&amp;auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1">newest <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode sel" aria-selected="false">
+                <a title="sort by price, lowest to highest" href="/search/cto?sort=priceasc&amp;auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1">price &uarr; <span class="toggle-arrow"></span></a>
+            </li>
+            <li class="dropdown-item mode " aria-selected="false">
+                <a title="sort by price, highest to lowest" href="/search/cto?sort=pricedsc&amp;auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1">price &darr; <span class="toggle-arrow"></span></a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+<div class="paginator buttongroup  firstpage lastpage"><span class="resulttotal"><span class="for-map">displaying <span class="displaycountShow">...</span> postings</span></span><span class="buttons"><a href="/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">6</span></span> <span class="of-total">of <span class="totalcount">6</span></span></span><a href="/search/cto?s=6&amp;auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+                
+            </div>
+            
+            <div class="content" id="sortable-results" >
+                <section class="favlistsection">
+                    <section class="favlistinfo">
+                        
+                        
+                    </section>
+                    <section class="banishlistinfo">
+                    </section>
+                </section>
+
+                <div class="searchHints">
+    <span class="prompt">ALSO TRY:</span>
+    <ul>
+<li><a href="/search/cto?auto_make_model=honda%20%7C%20toyota&auto_title_status=1&hints=mileage&max_auto_miles=110000&max_auto_year=2016&max_price=6000&min_auto_miles=1000&min_auto_year=2001&min_price=1&sort=priceasc"><strong>make and model: </strong>honda | toyota, <strong>title status: </strong>clean, <strong>max odometer: </strong>110000, <strong>max model year: </strong>2016, <strong>max price: </strong>6000, <strong>min odometer: </strong>1000, <strong>min model year: </strong>2001, <strong>min price: </strong>1</a></li>
+    </ul>
+</div>
+
+                
+
+                <div id="mapcontainer" data-arealat="32.221699" data-arealon="-110.926003">
+    <div id="noresult-overlay"></div>
+    <div id="noresult-text">
+        <span class="message">No mappable items found</span>
+    </div>
+    <div id="map" class="loading">
+        <div class="closeFS">close fullscreen</div>
+        <div class="shrinkMap">shrink map</div>
+    </div>
+</div>
+
+                <ul class="rows">
+                    
+                    
+                    
+         <li class="result-row" data-pid="5895016477">
+
+        <a href="/cto/5895016477.html" class="result-image gallery" data-ids="1:00909_aK0j8L00zjJ,1:00T0T_2KlW5RumXB9,1:01717_e8ISUDG7n2J">
+                <span class="result-price">$2850</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-27 15:59" title="Sun 27 Nov 03:59:36 PM">Nov 27</time>
+
+
+        <a href="/cto/5895016477.html" data-id="5895016477" class="result-title hdrlnk">2004 Honda Accord LX</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2850</span>
+
+
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5895016477">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5868418478" data-repost-of="5865271707">
+
+        <a href="/cto/5868418478.html" class="result-image gallery" data-ids="1:00p0p_as4nOgpI86T,1:00K0K_dPU8Hf0O9VP,1:00j0j_9rRyR2D0v75">
+                <span class="result-price">$3000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-09 09:43" title="Wed 09 Nov 09:43:52 AM">Nov  9</time>
+
+
+        <a href="/cto/5868418478.html" data-id="5868418478" class="result-title hdrlnk">Honda civic 01</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3000</span>
+
+
+                <span class="result-hood"> (Tucson)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5868418478">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5881416211">
+
+        <a href="/cto/5881416211.html" class="result-image gallery" data-ids="1:00909_kK6JUpA65cD,1:00W0W_8iwxIu9QpMs,1:00h0h_gsawXNES4bu,1:00N0N_kPT4GJUM3aZ,1:00J0J_km82D7YZvHb,1:00w0w_CIwDKzPmv4,1:00T0T_7BQfMQ8Im0v,1:00F0F_cPPlkfx7jnB,1:00P0P_3heGr44sPHm,1:00t0t_8jAYi07vM0J,1:00202_jBylVZvZ8rf,1:00909_4TiiN8ssqOl,1:00z0z_4yyZkTyxUU9">
+                <span class="result-price">$4500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-17 18:38" title="Thu 17 Nov 06:38:58 PM">Nov 17</time>
+
+
+        <a href="/cto/5881416211.html" data-id="5881416211" class="result-title hdrlnk">2002 Honda Accord EX</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4500</span>
+
+
+                <span class="result-hood"> (southeast)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5881416211">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5904250274">
+
+        <a href="/cto/5904250274.html" class="result-image gallery" data-ids="1:00S0S_4ZAjbQHLvXf,1:00v0v_1tD3v1KANva,1:00g0g_9da1462Ohe0,1:00d0d_dtRQO1lQMlN,1:00q0q_hqCiSX0PruG,1:00k0k_56DGMNkJNOe,1:00q0q_7SaHeogyuLv,1:00E0E_4dpI7dutZHE,1:00a0a_hXX2fImOaTo,1:00R0R_dVu6VtP9zJP,1:00404_iCpuzPWijeR,1:00I0I_bmn9QJfoOZU,1:00k0k_8Dd32MtHws7,1:00Z0Z_9jxKf0gGXgM,1:00F0F_hTBKVqHD049,1:00404_72tP34h2Va1,1:01111_k8oSelKM6El,1:00J0J_38gtcZNnqH2,1:01111_jkBbimrez3b,1:00B0B_k918jfkpbc9,1:00606_cZ55z93Sfew,1:00W0W_hBK10wbeTXg">
+                <span class="result-price">$4995</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 16:20" title="Sat 03 Dec 04:20:40 PM">Dec  3</time>
+
+
+        <a href="/cto/5904250274.html" data-id="5904250274" class="result-title hdrlnk">2003 Toyota Camry</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4995</span>
+
+
+                <span class="result-hood"> (Tucson)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5904250274">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5869370126">
+
+        <a href="/cto/5869370126.html" class="result-image gallery" data-ids="1:00C0C_9AkruCzLX4Z,1:01212_hkuYVlekCEC,1:00T0T_kVkG7WT18Pj,1:00d0d_ihqJfhg1esC,1:00u0u_iejdTWY7kdg">
+                <span class="result-price">$5000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-09 20:40" title="Wed 09 Nov 08:40:41 PM">Nov  9</time>
+
+
+        <a href="/cto/5869370126.html" data-id="5869370126" class="result-title hdrlnk">Honda Civic Coupe 2006 stick</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5000</span>
+
+
+                <span class="result-hood"> (Tucson)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5869370126">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5904229840">
+
+        <a href="/cto/5904229840.html" class="result-image gallery" data-ids="1:01010_oSolCMoSC1,1:01616_duiRzq94dW6,1:01313_8vEAEPoPgHo,1:00F0F_4oZcUuuwwOT,1:00m0m_gLRn1ZFzbdd,1:00b0b_htLw1ByABxt,1:00X0X_lO8ln842vGh,1:01515_lzqu6aKY1kl,1:00F0F_fdJn2yV4zES,1:00F0F_fdJn2yV4zES">
+                <span class="result-price">$5300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 16:03" title="Sat 03 Dec 04:03:39 PM">Dec  3</time>
+
+
+        <a href="/cto/5904229840.html" data-id="5904229840" class="result-title hdrlnk">Toyota camry 68k miles</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5300</span>
+
+
+                <span class="result-hood"> (Foothills)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5904229840">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                    <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking 'include nearby areas' will expand your search.</span></h4>
+                    
+         <li class="result-row" data-pid="5831297836">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5831297836.html" class="result-image gallery" data-ids="1:00h0h_aaQ1mUTwzOq,1:01111_k31bSllhQmz,1:00B0B_gpLqdYCbHio,1:00C0C_2R8Rpnr3mQN,1:00T0T_dqz2N5GAQdB,1:00j0j_ce8W7H4rhu5,1:00U0U_3op3QYXifMR,1:00S0S_aNV6pCz82VM,1:00K0K_dUS2CfTHsgS,1:00202_9eSpRAPxX8G,1:00X0X_5A54HCGYpuc,1:00U0U_bAx7Lci1VIT,1:01010_7AnnTWOl3al,1:00E0E_2O6GuF81XNk,1:00808_14ZTodtaZ9j,1:00202_4aBCgDEIlTT,1:00J0J_16Cd0hs1L3l,1:00D0D_goMdgW8F1aF,1:00a0a_3puiJ71bfXo,1:00o0o_h6epzDGfZfn,1:00Y0Y_1GBHEBMEnPk,1:00A0A_6d5TF1WKD9f">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-03 10:59" title="Thu 03 Nov 10:59:31 AM">Nov  3</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5831297836.html" data-id="5831297836" class="result-title hdrlnk">2007 TOYOTA YARIS SEDAN - 87K - AUTO - GREEN - SALE/TRADE</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; PHX METRO)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5831297836">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5866263619">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5866263619.html" class="result-image gallery" data-ids="1:00M0M_gZ8TTz7DZgM,1:00808_hbXc4aed9kW,1:00w0w_l2pO63yb559,1:00z0z_cmLADVi7l2F">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-07 18:37" title="Mon 07 Nov 06:37:17 PM">Nov  7</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5866263619.html" data-id="5866263619" class="result-title hdrlnk">2010 Honda Accord LX-S</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Avondale)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5866263619">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5876349921">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5876349921.html" class="result-image gallery" data-ids="1:00b0b_gIu4GRatcLc,1:00j0j_arvIY84LUKj">
+                <span class="result-price">$1</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-14 13:11" title="Mon 14 Nov 01:11:00 PM">Nov 14</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5876349921.html" data-id="5876349921" class="result-title hdrlnk">Toyota Yaris</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Scottsdale)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5876349921">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5880247960" data-repost-of="5863080313">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5880247960.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-17 00:36" title="Thu 17 Nov 12:36:04 AM">Nov 17</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5880247960.html" data-id="5880247960" class="result-title hdrlnk">honda</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1500</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    <span class="maptag" data-pid="5880247960">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5876129150">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5876129150.html" class="result-image gallery" data-ids="1:00c0c_hqbKMsHu5ax,1:00F0F_aABsRDvvyxK">
+                <span class="result-price">$1800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-14 11:19" title="Mon 14 Nov 11:19:14 AM">Nov 14</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5876129150.html" data-id="5876129150" class="result-title hdrlnk">2002 Honda Accord</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$1800</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5876129150">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5859868425">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5859868425.html" class="result-image gallery" data-ids="1:00c0c_hqbKMsHu5ax,1:00F0F_aABsRDvvyxK">
+                <span class="result-price">$2000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-03 13:54" title="Thu 03 Nov 01:54:37 PM">Nov  3</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5859868425.html" data-id="5859868425" class="result-title hdrlnk">2002 Honda accord</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5859868425">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5883877293">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5883877293.html" class="result-image gallery" data-ids="1:00l0l_4Bn8rp39W2n,1:00h0h_iRwioQcE5hz,1:00J0J_6o3jLw90eRD,1:00101_gkChTY5rVJL">
+                <span class="result-price">$2299</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-19 12:38" title="Sat 19 Nov 12:38:44 PM">Nov 19</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5883877293.html" data-id="5883877293" class="result-title hdrlnk">FOR SALE - HONDA ACCORD LX 2001, GREAT CONDITION</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2299</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5883877293">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5889819334">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5889819334.html" class="result-image gallery" data-ids="1:00r0r_liA7wEkmXcE,1:00k0k_5OM3Cdq1RPl,1:00z0z_1UHritkjAzp,1:00K0K_6zOBmkIlKko,1:00y0y_6A3S8No59Fs,1:00101_hi2pxlI8dSW,1:00E0E_2XcSBSGTxRb,1:00I0I_7CYWJN30KM6">
+                <span class="result-price">$2300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-23 13:48" title="Wed 23 Nov 01:48:46 PM">Nov 23</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5889819334.html" data-id="5889819334" class="result-title hdrlnk">Civic 2003</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2300</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; West Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5889819334">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5897468484">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5897468484.html" class="result-image gallery" data-ids="1:00s0s_13FrtenyAUc,1:00s0s_c2x3Am33pNz">
+                <span class="result-price">$2300</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-29 09:19" title="Tue 29 Nov 09:19:51 AM">Nov 29</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5897468484.html" data-id="5897468484" class="result-title hdrlnk">Toyota corrola01</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2300</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5897468484">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5880619905" data-repost-of="5853794038">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5880619905.html" class="result-image gallery" data-ids="1:00e0e_2ZPf8yTBhog,1:00k0k_hm9yAI8L0kX,1:00C0C_8vfcGI2HwYg">
+                <span class="result-price">$2400</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-17 09:47" title="Thu 17 Nov 09:47:41 AM">Nov 17</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5880619905.html" data-id="5880619905" class="result-title hdrlnk">toyota  corrolla 01</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2400</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5880619905">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5881765021" data-repost-of="5460234780">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5881765021.html" class="result-image gallery" data-ids="1:00303_31tENrKGzF9,1:00H0H_glH0NbOgl8l,1:00N0N_5xr6ZAkTdRs,1:00n0n_4Yx9Sqe0Czy,1:00O0O_819x1RBPpS,1:00F0F_9gbcIzIlrqI,1:00r0r_4ebVO9L2nvv,1:00404_dISfGmpMlQn,1:01313_fbqMyyAeKeK,1:00H0H_fSbjiNJADlQ,1:00T0T_71QJRtigXvp">
+                <span class="result-price">$2500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 17:45" title="Sat 03 Dec 05:45:43 PM">Dec  3</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5881765021.html" data-id="5881765021" class="result-title hdrlnk">2002 Honda Insight</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2500</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; North Phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5881765021">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5897776231" data-repost-of="5435857374">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5897776231.html" class="result-image gallery" data-ids="1:00505_aOsEHfZT9pn,1:00G0G_aG4mDueidN8,1:00y0y_9c5juL5ucCk,1:00202_hIZtIkv2Wb,1:00Q0Q_49ONfEgXXLX,1:00L0L_MdDMagGZha,1:00707_44gSDY1OmVv,1:00M0M_9pxe0lERfFc,1:01616_2bvhfYGd0CN,1:00K0K_i50oUWcXcJJ,1:00b0b_42FSIvg57vg,1:00D0D_84XaLI3pMVP,1:01212_iA3CsDwTZzP">
+                <span class="result-price">$2800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-29 11:10" title="Tue 29 Nov 11:10:32 AM">Nov 29</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5897776231.html" data-id="5897776231" class="result-title hdrlnk">2006 Dodge stratus</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2800</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Scottsdale)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5897776231">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5903937186">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5903937186.html" class="result-image gallery" data-ids="1:00Q0Q_fOChtV1EHga,1:00q0q_1LVJkZHZCZP,1:01313_d0tAquudp6d,1:00H0H_e26W62Fu9v1,1:00d0d_lR9db3v8eDD,1:00303_eQR4LvHxRDI,1:00t0t_gCqv7B1eL7Y,1:00R0R_aP4Ei4Uc1h6,1:00505_AZqlro2aDh,1:00Q0Q_8MVIe1s8lKA,1:00p0p_j7L34erg2cT,1:00x0x_gdRjBj5c9WS,1:00l0l_6YVRxYR2lDq">
+                <span class="result-price">$2900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 12:40" title="Sat 03 Dec 12:40:38 PM">Dec  3</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5903937186.html" data-id="5903937186" class="result-title hdrlnk">2003 Toyota Prius</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2900</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Chandler)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5903937186">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5895415820">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5895415820.html" class="result-image gallery" data-ids="1:00B0B_8GfhUxznEhi,1:01515_ifPPkvgV5hD,1:00i0i_341MLHddyM,1:00W0W_9JGX2KXAlG0,1:00K0K_id1PqJ58Moy">
+                <span class="result-price">$3200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-27 22:30" title="Sun 27 Nov 10:30:08 PM">Nov 27</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5895415820.html" data-id="5895415820" class="result-title hdrlnk">Toyota corolla</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3200</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5895415820">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5902899785">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5902899785.html" class="result-image gallery" data-ids="1:00101_duZMROJAN2T,1:00y0y_7ULaQxdskh3,1:00o0o_5K9wXKoK42N,1:00J0J_9tdzvHVCew3,1:00m0m_jaQOM1gRRjh,1:00e0e_4uxtJr8OVu4,1:00b0b_f8BprSTwAkX">
+                <span class="result-price">$3700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-02 18:58" title="Fri 02 Dec 06:58:00 PM">Dec  2</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5902899785.html" data-id="5902899785" class="result-title hdrlnk">2008 Toyota Prius</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3700</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; 25thandvanburen)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5902899785">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5868940147">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5868940147.html" class="result-image gallery" data-ids="1:00U0U_aSppDmXbiqO,1:00h0h_42zjHBiPTw1,1:00K0K_a9acNpWgWEm,1:00P0P_hQn6N88MjNx,1:00J0J_1dz34n7G4T3,1:00Q0Q_i7MjEPHB4IY,1:00j0j_cI1xKKu6J6q">
+                <span class="result-price">$4000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-09 14:38" title="Wed 09 Nov 02:38:53 PM">Nov  9</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5868940147.html" data-id="5868940147" class="result-title hdrlnk">2007 Honda Civic Hybrid For Sale 97k Miles</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Chandler)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5868940147">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5899040121" data-repost-of="5813021420">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5899040121.html" class="result-image gallery" data-ids="1:00H0H_6lejDf39LQk,1:01616_lK1Lhl14hzd,1:00Q0Q_7qFzfuuJgAQ,1:00v0v_5pPyr2QC1TI,1:00z0z_dGZstVqpNb4,1:00808_fEoNhMcXFhg,1:00v0v_isfaBxbj8SZ">
+                <span class="result-price">$4000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-30 08:12" title="Wed 30 Nov 08:12:16 AM">Nov 30</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5899040121.html" data-id="5899040121" class="result-title hdrlnk">2003 Honda Civic LX</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Downtown Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5899040121">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5900509828">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5900509828.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-01 07:00" title="Thu 01 Dec 07:00:16 AM">Dec  1</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5900509828.html" data-id="5900509828" class="result-title hdrlnk">This Weekend Only!!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    <span class="maptag" data-pid="5900509828">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5890303808">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5890303808.html" class="result-image gallery" data-ids="1:00v0v_7QeRhllnEOg,1:00d0d_g36SIORQp03,1:00n0n_1AkFEc1c2Tr,1:00404_3aTOvxCzsDv,1:00g0g_eeziYpseAPZ,1:00R0R_cUKURSOHD6P,1:00p0p_3Ghgc5RcnXZ,1:01111_brPdAavjXtF,1:00909_9Myx8XNHZER,1:01414_dhwQiWvjHU8">
+                <span class="result-price">$4200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-23 22:56" title="Wed 23 Nov 10:56:53 PM">Nov 23</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5890303808.html" data-id="5890303808" class="result-title hdrlnk">For sale or trade for smart car</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4200</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; San tan valley)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5890303808">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5897443694">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5897443694.html" class="result-image gallery" data-ids="1:00u0u_auIRF3RXhyi,1:01515_hLNezE9OOLo,1:00909_kXftTv6MAbp,1:00303_hAPHeWVf882,1:00808_3Jl9OAWAavC,1:00m0m_h3a6zWDwrii,1:00f0f_3MaEVaL2823,1:00O0O_leR3Qjc539D,1:00F0F_aWRAKPZ8KnQ,1:00v0v_1MadjMwvssL,1:00g0g_ffyuutdNjX7,1:00l0l_944HHtcm52,1:00E0E_abLjeUm3p1N,1:00H0H_dM21QgMkYsy,1:00s0s_amrfwPjjUxL">
+                <span class="result-price">$4600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-02 08:46" title="Fri 02 Dec 08:46:05 AM">Dec  2</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5897443694.html" data-id="5897443694" class="result-title hdrlnk">2006 TOYOTA SOLARA,  2dr coupe, v6, 82k miles Automatic Trans.</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4600</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; By 303 and Bell Rd, Surprise AZ)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5897443694">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5870199966">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5870199966.html" class="result-image gallery" data-ids="1:00c0c_ffpDEqF9YV0,1:00d0d_4326PQD3OUC,1:00B0B_koja7LJRRFr,1:00202_8aUJx3n3YtU,1:01212_edn8RRA8WG2,1:00M0M_8P844OwK8EX,1:00a0a_jeXU5uLn7Hg,1:00909_hMJAv0wowUt,1:00k0k_9dxIrsqjJKp,1:00N0N_79Jzl0LBQNL,1:00F0F_8xYpigos3Zk,1:00i0i_8aofXYkq9rF">
+                <span class="result-price">$4700</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-10 11:56" title="Thu 10 Nov 11:56:51 AM">Nov 10</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5870199966.html" data-id="5870199966" class="result-title hdrlnk">Honda Accord</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4700</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5870199966">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5873181278">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5873181278.html" class="result-image gallery" data-ids="1:00N0N_jb6BkOQqR3e,1:00L0L_bsNkdvKn04y,1:00o0o_4Sq8xfrZ0w8,1:00707_eEPa90zoZQv,1:00c0c_9E9GCqPRI8M">
+                <span class="result-price">$5000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-12 10:40" title="Sat 12 Nov 10:40:05 AM">Nov 12</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5873181278.html" data-id="5873181278" class="result-title hdrlnk">2009 Toyota Yaris</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; South Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5873181278">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5880175091" data-repost-of="5533300347">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5880175091.html" class="result-image gallery" data-ids="1:00G0G_6UI0SKY6Y4F,1:00I0I_3qodLPHKCJH,1:00000_gz0tOgFhQlO,1:00V0V_icKneZvnQHB,1:00V0V_lexDxVSm5tF,1:00Z0Z_2hl46GPBPJc">
+                <span class="result-price">$5000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-16 22:04" title="Wed 16 Nov 10:04:23 PM">Nov 16</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5880175091.html" data-id="5880175091" class="result-title hdrlnk">Toyota Yaris</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5880175091">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5904321913">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5904321913.html" class="result-image gallery" data-ids="1:00808_kVDHv0xwgBX,1:00E0E_hPMWga5zOtN,1:00s0s_iuwavBhZAEF,1:00303_7f8u8Nww24V">
+                <span class="result-price">$5200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 17:26" title="Sat 03 Dec 05:26:32 PM">Dec  3</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5904321913.html" data-id="5904321913" class="result-title hdrlnk">2001 Toyota Camry Solara</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5200</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5904321913">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5895431337">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5895431337.html" class="result-image gallery" data-ids="1:00707_4EV4hiX98GH">
+                <span class="result-price">$5500</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-27 22:56" title="Sun 27 Nov 10:56:32 PM">Nov 27</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5895431337.html" data-id="5895431337" class="result-title hdrlnk">2010 Toyota Yaris Hachback</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5500</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5895431337">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5896314017">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5896314017.html" class="result-image gallery" data-ids="1:00k0k_7v7mPpBssmz,1:01010_akt7fkaFlOp,1:00x0x_hvRhdTeGA0u,1:00c0c_85dawNPvmNH,1:00909_94shC0hGCWl,1:00Y0Y_1UG0tTJsGGe,1:00505_SqJSblUTGr">
+                <span class="result-price">$5600</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-02 15:16" title="Fri 02 Dec 03:16:35 PM">Dec  2</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5896314017.html" data-id="5896314017" class="result-title hdrlnk">*** 2004 Honda Accord Coupe EX-L 92K miles ***</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5600</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; i17 and Northern)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5896314017">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5883063065">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5883063065.html" class="result-image gallery" data-ids="1:00d0d_cExU6Da15oD,1:00F0F_lbqljgIjl24,1:00x0x_j7Bx4bHUPk6,1:00505_6DQjWBWSS8o,1:00A0A_ltxN5HZIdFB,1:00d0d_efDZXVRPGI,1:00l0l_7yMsU8rwBkU,1:01313_7zmxR3iQxin">
+                <span class="result-price">$5800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-24 14:19" title="Thu 24 Nov 02:19:11 PM">Nov 24</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5883063065.html" data-id="5883063065" class="result-title hdrlnk">2005 Toyota corolla</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5800</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Mesa)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5883063065">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5898658029">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5898658029.html" class="result-image gallery" data-ids="1:00u0u_ha9IHt6xYI8,1:00c0c_jZU4VOZB6FA,1:00W0W_lIAUoFGfvRC,1:01010_es6S8507eJS,1:00c0c_kybG3UrW5Cw,1:00c0c_dwiiac4j1SN,1:00P0P_j5WRotwSYYz,1:00B0B_5pHxa5dFgtG,1:01313_b9lfRVFn3cS,1:00q0q_7QD15XEwT2B,1:00909_km5WWsmRToS,1:00Z0Z_193W0TNBnN0,1:00h0h_jzMXYvtc0ox">
+                <span class="result-price">$5800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-29 21:40" title="Tue 29 Nov 09:40:29 PM">Nov 29</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5898658029.html" data-id="5898658029" class="result-title hdrlnk">2010 TOYOTA COROLLA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5800</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; PHOENIX)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5898658029">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5903599413">
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5903599413.html" class="result-image gallery" data-ids="1:00u0u_ha9IHt6xYI8,1:00c0c_jZU4VOZB6FA,1:00W0W_lIAUoFGfvRC,1:01010_es6S8507eJS,1:00c0c_kybG3UrW5Cw,1:00c0c_dwiiac4j1SN,1:00P0P_j5WRotwSYYz,1:00q0q_7QD15XEwT2B,1:00909_km5WWsmRToS,1:00Z0Z_193W0TNBnN0,1:00h0h_jzMXYvtc0ox">
+                <span class="result-price">$5800</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-03 09:22" title="Sat 03 Dec 09:22:43 AM">Dec  3</time>
+
+
+        <a href="//phoenix.craigslist.org/wvl/cto/5903599413.html" data-id="5903599413" class="result-title hdrlnk">2010 TOYOTA COROLLA</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5800</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; PHOENIX)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5903599413">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5865435567" data-repost-of="5772459397">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5865435567.html" class="result-image gallery" data-ids="1:00909_2JeOWH1Pto4,1:01010_6Gad9iMPuOf,1:00U0U_7BKgHaqbnV3,1:00707_kJgL5Hh8uuc,1:00F0F_8Z48Q1azJPg">
+                <span class="result-price">$5900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-01 12:51" title="Thu 01 Dec 12:51:18 PM">Dec  1</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5865435567.html" data-id="5865435567" class="result-title hdrlnk">Honda Accord 2003</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5900</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; 51st Ave)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5865435567">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5867967006">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5867967006.html" class="result-image gallery" data-ids="1:01717_2xkFvU4xpPA,1:00z0z_Fra4sv3fuO,1:00d0d_ekO9aK1SOnV,1:00H0H_3fnhEKPVBQF,1:00d0d_ekO9aK1SOnV,1:00808_eMyKVqaYKRE,1:00W0W_i3IMieVJZIa,1:00s0s_cSM2Neo2yqU,1:00h0h_gksKAvsUymn,1:00M0M_bivU14k1nZC,1:00707_7lHQJInVO8H,1:00J0J_ile4R8uteYo,1:00202_6IO9hBbR1JU,1:00606_ajEImfT4gKm,1:00T0T_kmrjWEIPCDN,1:00202_6dNebO26upu,1:00A0A_ls4mvUrtrKm,1:00Z0Z_dtLV1bv0GOV,1:00Y0Y_cJKy4rFRTBg,1:00m0m_dgSvsWVXv7k,1:00m0m_MafDzZ22kO,1:00i0i_btCPiIpmtTP,1:00M0M_bivU14k1nZC">
+                <span class="result-price">$5900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-27 22:05" title="Sun 27 Nov 10:05:58 PM">Nov 27</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5867967006.html" data-id="5867967006" class="result-title hdrlnk">2004 HONDA ODYSSEY</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5900</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; Phoenix)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5867967006">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5879721028">
+
+        <a href="//phoenix.craigslist.org/cph/cto/5879721028.html" class="result-image gallery" data-ids="1:00606_hLdZpJwE5PB,1:00j0j_8e9sXbmpQke,1:01515_2PFL5IMhSvJ,1:00404_QUjovwUnNG,1:00303_7hmCOKSHuKe,1:00404_jurA9ocMpB9,1:00B0B_fM17BQJJprw,1:00v0v_49Li0s7CW4k,1:00d0d_1ynvbOrZhm2,1:00K0K_ga4AYotvn5p,1:00202_8dS58KvbOhh,1:00909_7SKInqSDFdh,1:00505_2uODJzFFDVz,1:00g0g_gsQ5tjlUMcR,1:00j0j_h0WVkwNljxY,1:01616_4pj6tP5nSMv">
+                <span class="result-price">$5900</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-02 13:14" title="Fri 02 Dec 01:14:13 PM">Dec  2</time>
+
+
+        <a href="//phoenix.craigslist.org/cph/cto/5879721028.html" data-id="5879721028" class="result-title hdrlnk">2008 Toyota Corolla LE REDUCED</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5900</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5879721028">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5901683402" data-repost-of="5872148828">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5901683402.html" class="result-image gallery" data-ids="1:00J0J_aJ6wdhqgHpu,1:00P0P_1743lku4fDN,1:01212_90cFOntCd3U,1:00E0E_OkU6CuYaJO,1:00909_kFoMEsZPXUj,1:00n0n_6jvltH2RIQO,1:00u0u_llIWsRIHKQD,1:00101_gXM1goX0Ak3,1:00F0F_byamA1BcUCb,1:00q0q_1YucT4IaCni,1:00h0h_fSIBReQi9gZ">
+                <span class="result-price">$5950</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-01 22:40" title="Thu 01 Dec 10:40:11 PM">Dec  1</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5901683402.html" data-id="5901683402" class="result-title hdrlnk">2008 honda civic lx</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5950</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; mesa)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5901683402">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5877475873">
+
+        <a href="//phoenix.craigslist.org/nph/cto/5877475873.html" class="result-image gallery" data-ids="1:00M0M_cihJRplL4db,1:00p0p_2qx70Srbrkk,1:00U0U_1aXz0szccaj,1:01212_6jedCXL7ElO">
+                <span class="result-price">$6000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-15 09:00" title="Tue 15 Nov 09:00:41 AM">Nov 15</time>
+
+
+        <a href="//phoenix.craigslist.org/nph/cto/5877475873.html" data-id="5877475873" class="result-title hdrlnk">Honda</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5877475873">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5892534345">
+
+        <a href="//phoenix.craigslist.org/evl/cto/5892534345.html" class="result-image gallery" data-ids="1:01616_6PSzuw6vKBZ,1:00H0H_c0cPzmlm7d1,1:00b0b_1i3kiJlZ37,1:00A0A_iiPyZoSrLI9,1:00I0I_un6EaSEk0,1:01515_1T8arBcH768,1:00c0c_jpF1L9kEdtZ,1:01414_bdfgmDrlMdZ,1:00a0a_iF6Pt8aap1J,1:00Y0Y_fIiFeA4xllL,1:00L0L_4XYlhV4KTZv,1:00M0M_gb0QTYSDplZ,1:00404_adHe7nrQxMO">
+                <span class="result-price">$6000</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-25 21:34" title="Fri 25 Nov 09:34:11 PM">Nov 25</time>
+
+
+        <a href="//phoenix.craigslist.org/evl/cto/5892534345.html" data-id="5892534345" class="result-title hdrlnk">2010 TOYOTA COROLLA HAS 55,218 MILES</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$6000</span>
+
+
+                <span class="nearby" title="phoenix, AZ">(phx &gt; PHOENIX)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5892534345">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5897171144">
+
+        <a href="//showlow.craigslist.org/cto/5897171144.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-29 01:43" title="Tue 29 Nov 01:43:43 AM">Nov 29</time>
+
+
+        <a href="//showlow.craigslist.org/cto/5897171144.html" data-id="5897171144" class="result-title hdrlnk">2005 toyota corolla</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$5900</span>
+
+
+                <span class="nearby" title="show low, AZ">(sow &gt; show-low)</span>
+
+                <span class="result-tags">
+                    <span class="maptag" data-pid="5897171144">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5901409433">
+
+        <a href="//prescott.craigslist.org/cto/5901409433.html" class="result-image gallery" data-ids="1:00X0X_6HMJm5NRjMX,1:00R0R_foud1tajFWv,1:01212_7XKhEd4w3aG,1:00j0j_2WLvMQiZJIi,1:00J0J_aACSDpHQnqh,1:00k0k_4pKR35yzs5a,1:00C0C_b3ObQXSvevz">
+                <span class="result-price">$200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-01 16:45" title="Thu 01 Dec 04:45:57 PM">Dec  1</time>
+
+
+        <a href="//prescott.craigslist.org/cto/5901409433.html" data-id="5901409433" class="result-title hdrlnk">truck topper</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$200</span>
+
+
+                <span class="nearby" title="prescott, AZ">(prc &gt; prescott valley)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5901409433">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5902357347" data-repost-of="5808436418">
+
+        <a href="//prescott.craigslist.org/cto/5902357347.html" class="result-image gallery empty"></a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-12-02 11:15" title="Fri 02 Dec 11:15:21 AM">Dec  2</time>
+
+
+        <a href="//prescott.craigslist.org/cto/5902357347.html" data-id="5902357347" class="result-title hdrlnk">NEW HONDA CIVIC</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$4400</span>
+
+
+                <span class="nearby" title="prescott, AZ">(prc)</span>
+
+                <span class="result-tags">
+                    <span class="maptag" data-pid="5902357347">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5859655285">
+
+        <a href="//flagstaff.craigslist.org/cto/5859655285.html" class="result-image gallery" data-ids="1:00C0C_hkE0qhc2Auy">
+                <span class="result-price">$2250</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-03 11:51" title="Thu 03 Nov 11:51:16 AM">Nov  3</time>
+
+
+        <a href="//flagstaff.craigslist.org/cto/5859655285.html" data-id="5859655285" class="result-title hdrlnk">2001 Honda Odyssey EX LOW miles!!</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$2250</span>
+
+
+                <span class="nearby" title="flagstaff / sedona">(flg &gt; Sedona)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5859655285">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+         <li class="result-row" data-pid="5855622787">
+
+        <a href="//flagstaff.craigslist.org/cto/5855622787.html" class="result-image gallery" data-ids="1:00z0z_affj4zp7Si3,1:00F0F_jrjrORJU57I,1:00f0f_cpQoqahmzVT,1:01414_hRutdqi94HW,1:01414_hRutdqi94HW,1:01212_5T1SVMKHU2v">
+                <span class="result-price">$3200</span>
+        </a>
+
+    <p class="result-info">
+        <span class="icon icon-star" role="button">
+            <span class="screen-reader-text">favorite this post</span>
+        </span>
+
+            <time class="result-date" datetime="2016-11-27 09:06" title="Sun 27 Nov 09:06:14 AM">Nov 27</time>
+
+
+        <a href="//flagstaff.craigslist.org/cto/5855622787.html" data-id="5855622787" class="result-title hdrlnk">2001 HONDA CIVIC LX</a>
+
+
+        <span class="result-meta">
+                <span class="result-price">$3200</span>
+
+
+                <span class="nearby" title="flagstaff / sedona">(flg &gt; FLG)</span>
+
+                <span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="5855622787">map</span>
+                </span>
+
+                <span class="banish icon icon-trash" role="button">
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+
+            <span class="unbanish icon icon-trash red" role="button" aria-hidden="true"></span>
+            <a href="#" class="restore-link">
+                <span class="restore-narrow-text">restore</span>
+                <span class="restore-wide-text">restore this posting</span>
+            </a>
+
+        </span>
+    </p>
+</li>
+
+                </ul>
+                
+            </div>
+
+            <div class="search-legend bottom">
+                <div class="search-view">
+                    <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+                </div>
+                <div class="search-sort">
+                    <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+                </div>
+                <div class="paginator buttongroup  firstpage lastpage"><span class="resulttotal"><span class="for-map">displaying <span class="displaycountShow">...</span> postings</span></span><span class="buttons"><a href="/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">6</span></span> <span class="of-total">of <span class="totalcount">6</span></span></span><a href="/search/cto?s=6&amp;auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></div>
+            </div>
+
+            <section class="blurbs">
+                
+            </section>
+
+            <div id="floater">
+                <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+            </div>
+        </form>
+
+        <aside class="tsb">
+    <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+    </ul>
+</aside>
+
+        
+
+        <div class="slidemessage">
+    <span class="fave">
+        <span class="star"></span>
+        favorited
+    </span>
+    <span class="unfave">
+        <span class="star"></span>
+        no longer favorited
+    </span>
+    <span class="hide">
+        <span class="trash"></span>
+        hidden
+    </span>
+    <span class="unhide">
+        <span class="trash"></span>
+        no longer hidden
+    </span>
+</div>
+
+        <footer>
+        <span class="rss">
+            <a class="l" href="https://tucson.craigslist.org/search/cto?auto_make_model=honda%20%7C%20toyota&amp;auto_title_status=1&amp;format=rss&amp;max_auto_miles=110000&amp;max_auto_year=2016&amp;max_price=6000&amp;min_auto_miles=300&amp;min_auto_year=2001&amp;min_price=1&amp;sort=priceasc">RSS</a>
+            <a href="//www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+    <ul class="clfooter">
+        <li>&copy;  <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="//www.craigslist.org/about/help/">help</a></li>
+        <li><a href="//www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use.en">terms</a></li>
+        <li><a href="//www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+    </ul>
+</footer>
+
+    </section>
+
+    <template id="gallerycarousel">
+        <div class="slider-info"></div><div class="slider-back arrow">&lt;</div><div class="slider-forward arrow">&gt;</div>
+    </template>
+
+    <script src="//www.craigslist.org/js/general-concat.min.js?v=e82b9c2b188293bea5bfdb5318579daf" type="text/javascript" ></script>
+
+    <script type="text/javascript"><!--
+        var iframe = document.createElement('iframe');
+        iframe.style.display = 'none';
+        iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+        document.body.insertBefore(iframe, null);
+    --></script>
+    <script type="text/template" id="clustertemplate">
+    <li class="posting {visited}" data-pid="{PostingID}">
+        <img src="{ImageThumb}">
+        <div class="housing_bubble_banner">
+            <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+            <span class="bedrooms">{BedroomsContent}</span>
+            <span class="postingtitle"><a>{PostingTitle}</a></span>
+            <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                <span class="banish">
+                    <span class="icon icon-trash" role="button"></span>
+                    <span class="screen-reader-text">hide this posting</span>
+                </span>
+                <span class="unbanish">
+                    <span class="icon icon-trash red" role="button"></span>
+                    unhide
+                </span>
+            </span>
+        </div>
+    </li>
+</script>
+<script type="text/template" id="postingtemplate">
+    <div class="viewcontainer pics loading">
+        <div class="backtolist">
+            &laquo; back to posting list
+        </div>
+        <div class="title">
+            <span class="icon icon-star" data-pid="{PostingID}" role="button">
+                <span class="screen-reader-text">favorite this post</span>
+            </span>
+            <span class="postingtitle">
+                <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+            </span>
+            <div>
+                <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                <span class="bedrooms">{BedroomsContent}</span>
+                <span class="js-only map-banish-unbanish" data-pid="{PostingID}">
+                    <span class="banish">
+                        <span class="icon icon-trash" role="button"></span>
+                        <span class="screen-reader-text">hide this posting</span>
+                    </span>
+                    <span class="unbanish">
+                        <span class="icon icon-trash red" role="button"></span>
+                        <span class="screen-reader-text">unhide</span>
+                        unhide
+                    </span>
+                </span>
+            </div>
+        </div>
+        <hr style="clear:both">
+        <div class="picscontainer gallery">
+            <span class="slider-back arrow">&lt;</span><span class="slider-info"></span><span class="slider-forward arrow">&gt;</span>
+            <div class="swipe">
+                <div class="swipe-wrap">
+                    <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="infocontainer"></div>
+        <hr style="clear:both">
+        <time class="date timeago"  datetime="{isoPostedDate}">{humanPostedDate}</time>
+        <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+        <div class="contenttoggle">
+            <a class="moreinfo">more info</a>
+            <a class="showpics">show images</a>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="popuptemplate">
+    <div id="mapbubble" class="posting">
+        <ul id="clusterbubble"></ul>
+        <div id="postbubble"></div>
+    </div>
+</script>
+<script src="//www.craigslist.org/js/leaflet-concat.min.js?v=f4faf8765460443bb2f7cd6288845915" type="text/javascript" ></script>
+
+    <script src="//www.craigslist.org/js/search-concat.min.js?v=a3e913bf126fe740163bd3903cdea238" type="text/javascript" ></script>
+
+</body>
+</html>

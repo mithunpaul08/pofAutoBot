@@ -1,0 +1,938 @@
+![](//in-
+gmtdmp.mookie1.com/t/v2/learn?tagid=V2_2454&src.rand=\[timestamp\]&src.id=BusinessStd)
+
+  * [Home](/)
+  * [Markets](/markets)
+  * [Companies](/companies)
+  * [Opinion](/opinion)
+  * [Politics](/politics)
+  * [Technology](/technology)
+  * [Specials](/specials)
+  * [PF](/pf)
+  * [Portfolio](/portfolio)
+  * [My Page](/user/my-page)
+  * [Gallery](/photo-gallery/list)
+
+  * [Today's Paper](/todays-paper/)
+  * [Latest News](/latest-news/)
+  * [Economy](/economy-policy)
+  * [Finance](/finance)
+  * [Current Affairs](/current-affairs)
+  * [International](/international)
+  * [Management](/management)
+  * [The Strategist](/category/specials-strategist-10903.htm)
+  * [Weekend](/category/specials-weekend-10904.htm)
+  * [Data Stories](/category/specials-data-stories-10908.htm)
+  * [Chat](/chat/home)
+
+  * [News](/markets-news)
+  * [Stocks](/markets-stocks)
+  * [Commodities](/markets-commodities)
+  * [IPOs](/markets-ipos)
+  * [Mutual Funds](/markets-mutual-funds)
+  * [Mutual Fund Tools](/live-market/mutual-fund/mf-tools)
+  * [Derivatives](/derivatives/dashboard/)
+  * [BS Fund Manager](/category/markets-bs-fund-manager-2013-1062001.htm)
+
+  * [News](/companies-news)
+  * [Results](/companies-results)
+  * [Auto](/sector/display-article/Auto)
+  * [Engineering](/sector/display-article/Engineering)
+  * [Financials](/sector/display-article/Financials)
+  * [Infra](/sector/display-article/Infrastructure)
+  * [IT](/sector/display-article/IT)
+  * [Oil & Gas](/sector/display-article/Oil%20%26%20Gas)
+  * [Telecom](/sector/display-article/Telecom)
+  * [Services](/sector/display-article/Services)
+  * [All Sectors](/category/companies-all-sectors-10117.htm)
+
+  * [Punditry](/punditry)
+  * [Editorial Comment](/opinion-editorial)
+  * [Columnists](/opinion-columns)
+  * [Have Your Say](/discussion-forum/)
+  * [Financial X-Ray](/opinion-financial-x-ray)
+  * [Business Law & Tax](/opinion-business-law-taxation)
+  * [Breakingviews](/opinion-breakingviews)
+  * [Lunch](/category/opinion-lunch-10507.htm)
+  * [Poll](/poll/list)
+
+  * [North](/category/politics-news-north-1550102.htm)
+  * [East](/category/politics-news-east-1550104.htm)
+  * [West](/category/politics-news-south-1550103.htm)
+  * [South](/category/politics-news-south-1550103.htm#414)
+  * [Election](/elections#415)
+
+  * [News](/technology-news)
+  * [Mobiles & Tablets](/category/technology-news-mobiles-tablets-1080101.htm)
+  * [Apps](/category/technology-news-apps-1080102.htm)
+  * [People](/category/technology-news-people-1080107.htm)
+  * [Computers](/category/technology-news-computers-1080103.htm)
+
+  * [Weekend](/category/specials-weekend-10904.htm#188)
+  * [Digital Consumer](/category/specials-digital-c-1090701.htm)
+  * [PE/VC](/category/specials-pe-vc-10976.htm)
+  * [Brand World](/category/specials-brand-w-10906.htm)
+  * [SME](/category/sme-111.htm)
+  * [Start-ups](/category/companies-start-ups-10113.htm)
+  * [Defence](/category/specials-defence-10974.htm)
+  * [B2B Connect](/b2b-connect)
+  * [Power & Energy](/category/specials-power-10927.htm)
+  * [Sponsored Content](/category/sponsored-content-158.htm)
+
+  * [News](/pf-news)
+  * [Features](/pf-features)
+  * [Investments](/pf-news-investments)
+  * [Loans & Credit Cards](/pf-news-loans)
+  * [Tax](/pf-news-tax)
+  * [Insurance](/pf-news-insurance)
+  * [Financial Tools](/personal-finance/financial-tools/)
+
+  * [Photo Gallery](/photo-gallery/list#418)
+  * [Video Gallery](/video-gallery/list/)
+
+  * [Home](/)
+    * [Today's Paper](/todays-paper/)
+    * [Latest News](/latest-news/)
+    * [Economy](/economy-policy)
+    * [Finance](/finance)
+    * [Current Affairs](/current-affairs)
+    * [International](/international)
+    * [Management](/management)
+    * [The Strategist](/category/specials-strategist-10903.htm)
+    * [Weekend](/category/specials-weekend-10904.htm)
+    * [Data Stories](/category/specials-data-stories-10908.htm)
+    * [Chat](/chat/home)
+  * [Markets](/markets)
+    * [News](/markets-news)
+    * [Stocks](/markets-stocks)
+    * [Commodities](/markets-commodities)
+    * [IPOs](/markets-ipos)
+    * [Mutual Funds](/markets-mutual-funds)
+    * [Mutual Fund Tools](/live-market/mutual-fund/mf-tools)
+    * [Derivatives](/derivatives/dashboard/)
+    * [BS Fund Manager](/category/markets-bs-fund-manager-2013-1062001.htm)
+  * [Companies](/companies)
+    * [News](/companies-news)
+    * [Results](/companies-results)
+    * [Auto](/sector/display-article/Auto)
+    * [Engineering](/sector/display-article/Engineering)
+    * [Financials](/sector/display-article/Financials)
+    * [Infra](/sector/display-article/Infrastructure)
+    * [IT](/sector/display-article/IT)
+    * [Oil & Gas](/sector/display-article/Oil%20%26%20Gas)
+    * [Telecom](/sector/display-article/Telecom)
+    * [Services](/sector/display-article/Services)
+    * [All Sectors](/category/companies-all-sectors-10117.htm)
+  * [Opinion](/opinion)
+    * [Punditry](/punditry)
+    * [Editorial Comment](/opinion-editorial)
+    * [Columnists](/opinion-columns)
+    * [Have Your Say](/discussion-forum/)
+    * [Financial X-Ray](/opinion-financial-x-ray)
+    * [Business Law & Tax](/opinion-business-law-taxation)
+    * [Breakingviews](/opinion-breakingviews)
+    * [Lunch](/category/opinion-lunch-10507.htm)
+    * [Poll](/poll/list)
+  * [Politics](/politics)
+    * [North](/category/politics-news-north-1550102.htm)
+    * [East](/category/politics-news-east-1550104.htm)
+    * [West](/category/politics-news-south-1550103.htm)
+    * [South](/category/politics-news-south-1550103.htm#414)
+    * [Election](/elections#415)
+  * [Technology](/technology)
+    * [News](/technology-news)
+    * [Mobiles & Tablets](/category/technology-news-mobiles-tablets-1080101.htm)
+    * [Apps](/category/technology-news-apps-1080102.htm)
+    * [People](/category/technology-news-people-1080107.htm)
+    * [Computers](/category/technology-news-computers-1080103.htm)
+  * [Specials](/specials)
+    * [Weekend](/category/specials-weekend-10904.htm#188)
+    * [Digital Consumer](/category/specials-digital-c-1090701.htm)
+    * [PE/VC](/category/specials-pe-vc-10976.htm)
+    * [Brand World](/category/specials-brand-w-10906.htm)
+    * [SME](/category/sme-111.htm)
+    * [Start-ups](/category/companies-start-ups-10113.htm)
+    * [Defence](/category/specials-defence-10974.htm)
+    * [B2B Connect](/b2b-connect)
+    * [Power & Energy](/category/specials-power-10927.htm)
+    * [Sponsored Content](/category/sponsored-content-158.htm)
+  * [PF](/pf)
+    * [News](/pf-news)
+    * [Features](/pf-features)
+    * [Investments](/pf-news-investments)
+    * [Loans & Credit Cards](/pf-news-loans)
+    * [Tax](/pf-news-tax)
+    * [Insurance](/pf-news-insurance)
+    * [Financial Tools](/personal-finance/financial-tools/)
+  * [Portfolio](/portfolio)
+  * [My Page](/user/my-page)
+  * [Gallery](/photo-gallery/list)
+    * [Photo Gallery](/photo-gallery/list#418)
+    * [Video Gallery](/video-gallery/list/)
+
+  * [Home](/)
+
+    * [Today's Paper](/todays-paper/)
+    * [Latest News](/latest-news/)
+    * [Economy](/economy-policy)
+    * [Finance](/finance)
+    * [Current Affairs](/current-affairs)
+    * [International](/international)
+    * [Management](/management)
+    * [The Strategist](/category/specials-strategist-10903.htm)
+    * [Weekend](/category/specials-weekend-10904.htm)
+    * [Data Stories](/category/specials-data-stories-10908.htm)
+    * [Chat](/chat/home)
+
+  * [Markets](/markets)
+
+    * [News](/markets-news)
+    * [Stocks](/markets-stocks)
+    * [Commodities](/markets-commodities)
+    * [IPOs](/markets-ipos)
+    * [Mutual Funds](/markets-mutual-funds)
+    * [Mutual Fund Tools](/live-market/mutual-fund/mf-tools)
+    * [Derivatives](/derivatives/dashboard/)
+    * [BS Fund Manager](/category/markets-bs-fund-manager-2013-1062001.htm)
+
+  * [Companies](/companies)
+
+    * [News](/companies-news)
+    * [Results](/companies-results)
+    * [Auto](/sector/display-article/Auto)
+    * [Engineering](/sector/display-article/Engineering)
+    * [Financials](/sector/display-article/Financials)
+    * [Infra](/sector/display-article/Infrastructure)
+    * [IT](/sector/display-article/IT)
+    * [Oil & Gas](/sector/display-article/Oil%20%26%20Gas)
+    * [Telecom](/sector/display-article/Telecom)
+    * [Services](/sector/display-article/Services)
+    * [All Sectors](/category/companies-all-sectors-10117.htm)
+
+  * [Opinion](/opinion)
+
+    * [Punditry](/punditry)
+    * [Editorial Comment](/opinion-editorial)
+    * [Columnists](/opinion-columns)
+    * [Have Your Say](/discussion-forum/)
+    * [Financial X-Ray](/opinion-financial-x-ray)
+    * [Business Law & Tax](/opinion-business-law-taxation)
+    * [Breakingviews](/opinion-breakingviews)
+    * [Lunch](/category/opinion-lunch-10507.htm)
+    * [Poll](/poll/list)
+
+  * [Politics](/politics)
+
+    * [North](/category/politics-news-north-1550102.htm)
+    * [East](/category/politics-news-east-1550104.htm)
+    * [West](/category/politics-news-south-1550103.htm)
+    * [South](/category/politics-news-south-1550103.htm#414)
+    * [Election](/elections#415)
+
+  * [Technology](/technology)
+
+    * [News](/technology-news)
+    * [Mobiles & Tablets](/category/technology-news-mobiles-tablets-1080101.htm)
+    * [Apps](/category/technology-news-apps-1080102.htm)
+    * [People](/category/technology-news-people-1080107.htm)
+    * [Computers](/category/technology-news-computers-1080103.htm)
+
+  * [Specials](/specials)
+
+    * [Weekend](/category/specials-weekend-10904.htm#188)
+    * [Digital Consumer](/category/specials-digital-c-1090701.htm)
+    * [PE/VC](/category/specials-pe-vc-10976.htm)
+    * [Brand World](/category/specials-brand-w-10906.htm)
+    * [SME](/category/sme-111.htm)
+    * [Start-ups](/category/companies-start-ups-10113.htm)
+    * [Defence](/category/specials-defence-10974.htm)
+    * [B2B Connect](/b2b-connect)
+    * [Power & Energy](/category/specials-power-10927.htm)
+    * [Sponsored Content](/category/sponsored-content-158.htm)
+
+  * [PF](/pf)
+
+    * [News](/pf-news)
+    * [Features](/pf-features)
+    * [Investments](/pf-news-investments)
+    * [Loans & Credit Cards](/pf-news-loans)
+    * [Tax](/pf-news-tax)
+    * [Insurance](/pf-news-insurance)
+    * [Financial Tools](/personal-finance/financial-tools/)
+
+  * [Portfolio](/portfolio)
+
+  * [My Page](/user/my-page)
+
+  * [Gallery](/photo-gallery/list)
+
+    * [Photo Gallery](/photo-gallery/list#418)
+    * [Video Gallery](/video-gallery/list/)
+
+  * [Home](/)
+
+    * [Today's Paper](/todays-paper/)
+    * [Latest News](/latest-news/)
+    * [Economy](/economy-policy)
+    * [Finance](/finance)
+    * [Current Affairs](/current-affairs)
+    * [International](/international)
+    * [Management](/management)
+    * [The Strategist](/category/specials-strategist-10903.htm)
+    * [Weekend](/category/specials-weekend-10904.htm)
+    * [Data Stories](/category/specials-data-stories-10908.htm)
+    * [Chat](/chat/home)
+
+  * [Markets](/markets)
+
+    * [News](/markets-news)
+    * [Stocks](/markets-stocks)
+    * [Commodities](/markets-commodities)
+    * [IPOs](/markets-ipos)
+    * [Mutual Funds](/markets-mutual-funds)
+    * [Mutual Fund Tools](/live-market/mutual-fund/mf-tools)
+    * [Derivatives](/derivatives/dashboard/)
+    * [BS Fund Manager](/category/markets-bs-fund-manager-2013-1062001.htm)
+
+  * [Companies](/companies)
+
+    * [News](/companies-news)
+    * [Results](/companies-results)
+    * [Auto](/sector/display-article/Auto)
+    * [Engineering](/sector/display-article/Engineering)
+    * [Financials](/sector/display-article/Financials)
+    * [Infra](/sector/display-article/Infrastructure)
+    * [IT](/sector/display-article/IT)
+    * [Oil & Gas](/sector/display-article/Oil%20%26%20Gas)
+    * [Telecom](/sector/display-article/Telecom)
+    * [Services](/sector/display-article/Services)
+    * [All Sectors](/category/companies-all-sectors-10117.htm)
+
+  * [Opinion](/opinion)
+
+    * [Punditry](/punditry)
+    * [Editorial Comment](/opinion-editorial)
+    * [Columnists](/opinion-columns)
+    * [Have Your Say](/discussion-forum/)
+    * [Financial X-Ray](/opinion-financial-x-ray)
+    * [Business Law & Tax](/opinion-business-law-taxation)
+    * [Breakingviews](/opinion-breakingviews)
+    * [Lunch](/category/opinion-lunch-10507.htm)
+    * [Poll](/poll/list)
+
+  * [Politics](/politics)
+
+    * [North](/category/politics-news-north-1550102.htm)
+    * [East](/category/politics-news-east-1550104.htm)
+    * [West](/category/politics-news-south-1550103.htm)
+    * [South](/category/politics-news-south-1550103.htm#414)
+    * [Election](/elections#415)
+
+  * [Technology](/technology)
+
+    * [News](/technology-news)
+    * [Mobiles & Tablets](/category/technology-news-mobiles-tablets-1080101.htm)
+    * [Apps](/category/technology-news-apps-1080102.htm)
+    * [People](/category/technology-news-people-1080107.htm)
+    * [Computers](/category/technology-news-computers-1080103.htm)
+
+  * [Specials](/specials)
+
+    * [Weekend](/category/specials-weekend-10904.htm#188)
+    * [Digital Consumer](/category/specials-digital-c-1090701.htm)
+    * [PE/VC](/category/specials-pe-vc-10976.htm)
+    * [Brand World](/category/specials-brand-w-10906.htm)
+    * [SME](/category/sme-111.htm)
+    * [Start-ups](/category/companies-start-ups-10113.htm)
+    * [Defence](/category/specials-defence-10974.htm)
+    * [B2B Connect](/b2b-connect)
+    * [Power & Energy](/category/specials-power-10927.htm)
+    * [Sponsored Content](/category/sponsored-content-158.htm)
+
+  * [PF](/pf)
+
+    * [News](/pf-news)
+    * [Features](/pf-features)
+    * [Investments](/pf-news-investments)
+    * [Loans & Credit Cards](/pf-news-loans)
+    * [Tax](/pf-news-tax)
+    * [Insurance](/pf-news-insurance)
+    * [Financial Tools](/personal-finance/financial-tools/)
+
+  * [Portfolio](/portfolio)
+  * [My Page](/user/my-page)
+  * [Gallery](/photo-gallery/list)
+
+    * [Photo Gallery](/photo-gallery/list#418)
+    * [Video Gallery](/video-gallery/list/)
+
+  * BS APPS 
+    * [iPad](/ipad "Download BS IPAD App" )
+    * [iPhone](/iphone "Download BS IPHONE App" )
+    * [Android](/android "Download BS ANDROID App" )
+    * [Wap](/wap "Business Standard on Mobile" )
+  * BS PRODUCTS 
+    * [Smart Investor](http://smartinvestor.business-standard.com/)
+    * [BS Hindi](http://hindi.business-standard.com/)
+    * [BS Motoring](http://www.bsmotoring.com/)
+    * [BS Books](http://books.business-standard.com/)
+    * [Today's Paper](/todays-paper)
+    * [Economy &amp; Industry](http://books.business-standard.com/magazine.php#eco)
+  * BS SPECIALS 
+    * [B2B Connect](/b2b-connect)
+    * [Power & Energy](/category/specials-power-10927.htm)
+    * [SME](/category/sme-111.htm)
+  * [BS E-Paper](http://epaper.business-standard.com)
+
+  * Hi, 
+    * [Change Password](/user/change-password)
+    * [Subscribe](/subscription-cart)
+    * [ Sign out](/user/sign-out)
+    * [Change Password](/user/change-password)
+    * [Manage My Account](/subscription-cart/manage)
+    * [](/subscription-cart/product)
+    * [ Sign out](/user/sign-out)
+  * [SIGN IN](javascript:void\(0\);)
+  * [Subscribe](/subscription-cart)
+
+  * [ ](http://www.facebook.com/bsindia "Find Us on Facebook" )
+  * [ ](https://plus.google.com/105513640026823338822 "Follow on Google Plus" )
+  * [ ](https://in.linkedin.com/company/business-standard "Connect on Linkedin" )
+  * [ ](http://twitter.com/bsindia "Follow Us on Twitter" )
+  * [ ](https://www.youtube.com/user/BusinessStandardLtd "Subscribe Us on Youtube" )
+  * [ ](/rss-feeds/listing/ "RSS Feed" )
+
+[![Business Standard](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/business-standard-logo.png)](/)
+
+TRENDING ON BS
+
+  * [ #CauveryDispute](http://www.business-standard.com/search?q=cauvery&company-code=)
+
+  *   * News Stock Quote Authors
+  * [](javascript:void\(0\);)
+
+ News |    Stock Quote |    Authors  
+---|---|---  
+  
+[PTI Stories](/category/pti-stories-139.htm) » [National](/category/pti-
+stories-national-13902.htm) » [News](/category/pti-stories-national-
+news-1390201.htm)
+
+# Possibility of outbreak of pests and diseases in rice crop
+
+Due to abnormal weather coupled with depression in different districts of
+Tamil Nadu, there is the possibility for the outbreak of various pests and
+diseases in rice crop and [Tamil Nadu
+](/search?type=news&q=Tamil+Nadu)Agricultural University (TNAU) has come out
+with a special forecast for the benefit of farmers  
+  
+This was to create awareness among the farmers, who can monitor and manage the
+insect pests and diseases on the crop, Directorate of Centre for Plant
+Protection Studies, TNAU, said.  
+  
+Farmers can monitor the rice crops for these diseases, symptoms of which
+appear as spindle-shaped lesions with white to gray-green darker borders.  
+  
+Older lesions are whitish to grey with necrotic borders, it said.  
+  
+Farmers are advised to do delayed application of nitrogenous fertilizer and
+spray immediately after observing initial infection of the blast disease with
+carbendazim 50WP @500 g/ha or tricyclazole 75WP @ 500g/ha or metominostrobin
+20 SC @ 500ml/ha or azoxystrobin 25 SC @ 500ml/ha, it said.  
+  
+To control brown spot disease, they can spray mancozeb (2.0g/lit) 2 to 3 times
+at 10-15 day intervals, based on the intensity of disease.  
+  
+Farmers should be insisted that before spraying chemicals for the management
+of brown plant hopper, water should be drained from the field.  
+  
+Already the incidence of leaf folder was recorded around 1,000 ha in the rice
+fields of Tirupur district The larvae feed on the leaves of rice by rolling
+eaves and leaving scrapping symptoms which will appear white in colour from
+distance.  
+  
+The affected leaves will dry and in severe cases plants will wilt.
+
+![image]()
+
+Press Trust of India
+
+Business Standard
+
+http://bsmedia.business-standard.com/_media/bs/wap/images/bs_logo_amp.png 177
+22
+
+[![](http://bsmedia.business-
+standard.com/_media/bs/img/banner/2016-09/thumb/Todays_paper_super_728x90_fis-1473150529.png)](http://www.fisglobal.com/)[![](http://bsmedia
+.business-
+standard.com/advertisement/images/kotak_728x90.jpg)](http://www.kotak.com/)[![](http://bsmedia
+.business-
+standard.com/_media/bs/img/banner/2016-09/thumb/Todays_paper_super_728x90_capgemini-1473150530.jpg)](https://www.capgemini.com/)
+
+[Business Standard](https://plus.google.com/105513640026823338822?rel=author)
+
+# Possibility of outbreak of pests and diseases in rice crop
+
+Press Trust of India  |  Coimbatore  April 20, 2015 Last Updated at 13:22 IST
+
+[ ![Tiny URL](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/icon/link-icon.png)
+](javascript:void\(0\);) [ ![Add to My Page](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/addto_mypage.jpg) ](/user/my-page
+/add-article/item-id/115042000310) [ ![Print](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/print.jpg) ](http://www.business-
+standard.com/article/printer-friendly-version?article_id=115042000310_1) [
+![Email](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/email.jpg) ](javascript:void\(0\);
+"Email this page" )
+
+[![](/include/_mod/site/images/close_img.png)](javascript:showhideEmailBox\('article','n'\);)
+
+## email this article
+
+Message: |  | Recipients' Email: |  Type address separated by commas  
+---|---|---|---  
+Your Email:|  |  | ![](/include/_mod/site/images/refresh_btn.png)Enter the
+characters shown in the image.  
+Send me a copy:  |  
+  |  |  
+  
+http://mybs.in/2RufpBo
+
+  
+
+Copy tiny URL to save and share articles.
+
+  * ## ALSO READ
+
+[Tamil Nadu Newsprint &amp; Papers standalone net profit rises 2.09% in the
+December 2014 quarter](/article/news-cm/tamil-nadu-newsprint-papers-
+standalone-net-profit-rises-2-09-in-the-december-2014-quarter-
+115021300188_1.html) [Tamil Nadu Newsprint &amp; Papers standalone net profit
+declines 23.82% in the September 2014 quarter](/article/news-cm/tamil-nadu-
+newsprint-papers-standalone-net-profit-declines-23-82-in-the-september-2014
+-quarter-114111300302_1.html) [CCI dismisses case against Tamil Nadu's tax
+authorities](/article/pti-stories/cci-dismisses-case-against-tamil-nadu-s-tax-
+authorities-114103100764_1.html) [Tata Docomo looking to double turnover from
+rural Tamil Nadu](/article/pti-stories/tata-docomo-looking-to-double-turnover-
+from-rural-tamil-nadu-115041001093_1.html) [Professional mourner from Tamil
+Nadu exhibits grief show](/article/pti-stories/professional-mourner-from-
+tamil-nadu-exhibits-grief-show-115020500638_1.html)
+
+  * 
+
+Due to abnormal weather coupled with depression in different districts of
+Tamil Nadu, there is the possibility for the outbreak of various pests and
+diseases in rice crop and [Tamil Nadu
+](/search?type=news&q=Tamil+Nadu)Agricultural University (TNAU) has come out
+with a special forecast for the benefit of farmers  
+  
+This was to create awareness among the farmers, who can monitor and manage the
+insect pests and diseases on the crop, Directorate of Centre for Plant
+Protection Studies, TNAU, said.
+
+  
+  
+Farmers can monitor the rice crops for these diseases, symptoms of which
+appear as spindle-shaped lesions with white to gray-green darker borders.  
+  
+Older lesions are whitish to grey with necrotic borders, it said.  
+  
+Farmers are advised to do delayed application of nitrogenous fertilizer and
+spray immediately after observing initial infection of the blast disease with
+carbendazim 50WP @500 g/ha or tricyclazole 75WP @ 500g/ha or metominostrobin
+20 SC @ 500ml/ha or azoxystrobin 25 SC @ 500ml/ha, it said.  
+  
+To control brown spot disease, they can spray mancozeb (2.0g/lit) 2 to 3 times
+at 10-15 day intervals, based on the intensity of disease.  
+  
+Farmers should be insisted that before spraying chemicals for the management
+of brown plant hopper, water should be drained from the field.  
+  
+Already the incidence of leaf folder was recorded around 1,000 ha in the rice
+fields of Tirupur district The larvae feed on the leaves of rice by rolling
+eaves and leaving scrapping symptoms which will appear white in colour from
+distance.  
+  
+The affected leaves will dry and in severe cases plants will wilt.
+
+  * Read More On
+  * ## [National News](/search?type=news&q=National+News)
+
+|
+
+## [Tamil Nadu](/search?type=news&q=Tamil+Nadu)
+
+|
+
+## [Pti Stories](/category/pti-stories-139.htm)
+
+|
+
+## [News](/category/pti-stories-national-news-1390201.htm)
+
+PREVIOUS STORY
+
+NEXT STORY
+
+![](http://bsmedia.business-standard.com/include/_mod/site/html5/images/icon
+/prev-icon.jpg) ![](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/icon/next-icon.jpg)
+
+##
+
+##### RECOMMENDED FOR YOU
+
+  
+
+Advertisements
+
+  * [Should You Rely Only on Your Corporate Health Insurance?](/click-tracker/textlink/id/1361)
+  * [MIT Sloan Executive Program in General Management](/click-tracker/textlink/id/1359)
+  * [New to the stock market? Take your FirstStep](/click-tracker/textlink/id/1355)
+  * [Super Saver Health Insurance for Whole Family](/click-tracker/textlink/id/1352)
+  * [Buy New Age Health Insurance with Added Benefits](/click-tracker/textlink/id/1351)
+  * [Serve the next wave-bring mobile broad band to everyone](/click-tracker/textlink/id/1362)
+  * [Open Free Demat A/c with low brokerage fee](/click-tracker/textlink/id/1356)
+  * [MIT Sloan EPGM: Get Alumni benefits, Apply Now](/click-tracker/textlink/id/1360)
+
+## Possibility of outbreak of pests and diseases in rice crop
+
+###
+
+Due to abnormal weather coupled with depression in different districts of
+Tamil Nadu, there is the possibility for the outbreak of various pests and
+diseases in rice crop and Tamil Nadu Agricultural University (TNAU) has come
+out with a special forecast for the benefit of farmers This was to create
+awareness among the farmers, who can monitor and manage the insect pests and
+diseases on the crop, Directorate of Centre for Plant Protection Studies,
+TNAU, said. Farmers can monitor the rice crops for these diseases, symptoms of
+which appear as spindle-shaped lesions with white to gray-green darker
+borders. Older lesions are whitish to grey with necrotic borders, it said.
+Farmers are advised to do delayed application of nitrogenous fertilizer and
+spray immediately after observing initial infection of the blast disease with
+carbendazim 50WP @500 g/ha or tricyclazole 75WP @ 500g/ha or metominostrobin
+20 SC @ 500ml/ha or azoxystrobin 25 SC @ 500ml/ha, it said. To ... Due to
+abnormal weather coupled with depression in different districts of Tamil Nadu,
+there is the possibility for the outbreak of various pests and diseases in
+rice crop and [Tamil Nadu ](/search?type=news&q=Tamil+Nadu)Agricultural
+University (TNAU) has come out with a special forecast for the benefit of
+farmers  
+  
+This was to create awareness among the farmers, who can monitor and manage the
+insect pests and diseases on the crop, Directorate of Centre for Plant
+Protection Studies, TNAU, said.  
+  
+Farmers can monitor the rice crops for these diseases, symptoms of which
+appear as spindle-shaped lesions with white to gray-green darker borders.  
+  
+Older lesions are whitish to grey with necrotic borders, it said.  
+  
+Farmers are advised to do delayed application of nitrogenous fertilizer and
+spray immediately after observing initial infection of the blast disease with
+carbendazim 50WP @500 g/ha or tricyclazole 75WP @ 500g/ha or metominostrobin
+20 SC @ 500ml/ha or azoxystrobin 25 SC @ 500ml/ha, it said.  
+  
+To control brown spot disease, they can spray mancozeb (2.0g/lit) 2 to 3 times
+at 10-15 day intervals, based on the intensity of disease.  
+  
+Farmers should be insisted that before spraying chemicals for the management
+of brown plant hopper, water should be drained from the field.  
+  
+Already the incidence of leaf folder was recorded around 1,000 ha in the rice
+fields of Tirupur district The larvae feed on the leaves of rice by rolling
+eaves and leaving scrapping symptoms which will appear white in colour from
+distance.  
+  
+The affected leaves will dry and in severe cases plants will wilt. ![image]()
+
+Press Trust of India
+
+Business Standard
+
+http://bsmedia.business-standard.com/_media/bs/wap/images/bs_logo_amp.png 177
+22
+
+[![](http://bsmedia.business-
+standard.com/_media/bs/img/banner/2016-06/thumb/Todays_paper_footer_728x90_fis-1465558769.png)](http://www.fisglobal.com/)[![](http://bsmedia
+.business-
+standard.com/advertisement/images/kotak_728x90.jpg)](http://www.kotak.com/)[![](http://bsmedia
+.business-
+standard.com/_media/bs/img/banner/2016-06/thumb/Todays_paper_footer_728x90_capgemini-1465558769.jpg)](https://www.capgemini.com/)
+
+## MORE ON MARKETS:
+
+##### Quick Links
+
+  * ###### [Stock Market Live](/markets-stocks)
+
+  * ###### [Portfolio ](/portfolio)
+
+  * ###### [Commodity Market](/markets-commodities)
+
+  * ###### [Upcoming IPO](/markets-ipos)
+
+  * ###### [Personal Finance](/pf)
+
+  * ###### [Stock Market News](/markets-news)
+
+  * ###### [Derivatives](/markets-derivatives)
+
+  * ###### [Mutual Funds](/markets-mutual-funds)
+
+  * ###### [Gold Price](/live-market/commodity/search/symbol/GOLD/exchng/mcx)
+
+  * ###### [Sensex](/stocks/market-statistics/bse/index-components?indices=1001)
+
+##### Browse STOCK Companies
+
+  * [A](/stocks/stock-quote-list/a)
+  * [B](/stocks/stock-quote-list/b)
+  * [C](/stocks/stock-quote-list/c)
+  * [D](/stocks/stock-quote-list/d)
+  * [E](/stocks/stock-quote-list/e)
+  * [F](/stocks/stock-quote-list/f)
+  * [G](/stocks/stock-quote-list/g)
+  * [H](/stocks/stock-quote-list/h)
+  * [I](/stocks/stock-quote-list/i)
+  * [J](/stocks/stock-quote-list/j)
+  * [K](/stocks/stock-quote-list/k)
+  * [L](/stocks/stock-quote-list/l)
+  * [M](/stocks/stock-quote-list/m)
+  * [N](/stocks/stock-quote-list/n)
+  * [O](/stocks/stock-quote-list/o)
+  * [P](/stocks/stock-quote-list/p)
+  * [Q](/stocks/stock-quote-list/q)
+  * [R](/stocks/stock-quote-list/r)
+  * [S](/stocks/stock-quote-list/s)
+  * [T](/stocks/stock-quote-list/t)
+  * [U](/stocks/stock-quote-list/u)
+  * [V](/stocks/stock-quote-list/v)
+  * [W](/stocks/stock-quote-list/w)
+  * [X](/stocks/stock-quote-list/x)
+  * [Y](/stocks/stock-quote-list/y)
+  * [Z](/stocks/stock-quote-list/z)
+
+  * [1](/stocks/stock-quote-list/1)
+  * [2](/stocks/stock-quote-list/2)
+  * [3](/stocks/stock-quote-list/3)
+  * [4](/stocks/stock-quote-list/4)
+  * [5](/stocks/stock-quote-list/5)
+  * [6](/stocks/stock-quote-list/6)
+  * [7](/stocks/stock-quote-list/7)
+  * [8](/stocks/stock-quote-list/8)
+  * [9](/stocks/stock-quote-list/9)
+
+##### Browse Mutual Funds
+
+  * [A](/live-market/mutual-fund/mutual-fund-list/a)
+  * [B](/live-market/mutual-fund/mutual-fund-list/b)
+  * [C](/live-market/mutual-fund/mutual-fund-list/c)
+  * [D](/live-market/mutual-fund/mutual-fund-list/d)
+  * [E](/live-market/mutual-fund/mutual-fund-list/e)
+  * [F](/live-market/mutual-fund/mutual-fund-list/f)
+  * [G](/live-market/mutual-fund/mutual-fund-list/g)
+  * [H](/live-market/mutual-fund/mutual-fund-list/h)
+  * [I](/live-market/mutual-fund/mutual-fund-list/i)
+  * [J](/live-market/mutual-fund/mutual-fund-list/j)
+  * [K](/live-market/mutual-fund/mutual-fund-list/k)
+  * [L](/live-market/mutual-fund/mutual-fund-list/l)
+  * [M](/live-market/mutual-fund/mutual-fund-list/m)
+  * [N](/live-market/mutual-fund/mutual-fund-list/n)
+  * [O](/live-market/mutual-fund/mutual-fund-list/o)
+  * [P](/live-market/mutual-fund/mutual-fund-list/p)
+  * [Q](/live-market/mutual-fund/mutual-fund-list/q)
+  * [R](/live-market/mutual-fund/mutual-fund-list/r)
+  * [S](/live-market/mutual-fund/mutual-fund-list/s)
+  * [T](/live-market/mutual-fund/mutual-fund-list/t)
+  * [U](/live-market/mutual-fund/mutual-fund-list/u)
+  * [V](/live-market/mutual-fund/mutual-fund-list/v)
+  * [W](/live-market/mutual-fund/mutual-fund-list/w)
+  * [X](/live-market/mutual-fund/mutual-fund-list/x)
+  * [Y](/live-market/mutual-fund/mutual-fund-list/y)
+  * [Z](/live-market/mutual-fund/mutual-fund-list/z)
+
+##### Index Stocks
+
+  * [ ACC ](/company/acc-6.html)
+  * [ Adani Ports ](/company/adany-ports-21281.html)
+  * [ Ambuja Cem. ](/company/ambuja-chem-218.html)
+  * [ Asian Paints ](/company/asian-paints-34.html)
+  * [ Aurobindo Pharma ](/company/aurobindo-pharma-4666.html)
+  * [ Axis Bank ](/company/axis-bank-5554.html)
+  * [ B H E L ](/company/b-h-e-l-2306.html)
+  * [ B P C L ](/company/b-p-c-l-2290.html)
+  * [ Bajaj Auto ](/company/bajaj-auto-28074.html)
+  * [ Bank of Baroda ](/company/bank-of-baroda-5456.html)
+  * [ Bharti Airtel ](/company/bharti-airtel-15542.html)
+  * [ Bharti Infra. ](/company/bharti-infra-40279.html)
+  * [ Bosch ](/company/bosch-378.html)
+  * [ Cipla ](/company/cairn-india-114.html)
+  * [ Coal India ](/company/coal-india-12019.html)
+  * [ Dr Reddy's Labs ](/company/dr-reddy-s-labs-815.html)
+  * [ Eicher Motors ](/company/eicher-motors-151.html)
+  * [ GAIL (India) ](/company/gail-india-12350.html)
+  * [ Grasim Inds ](/company/grasim-inds-227.html)
+  * [ H D F C ](/company/h-d-f-c-230.html)
+  * [ HCL Technologies ](/company/hcl-technologies-5656.html)
+  * [ HDFC Bank ](/company/hdfc-bank-4987.html)
+  * [ Hero Motocorp ](/company/hero-motocorp-237.html)
+  * [ Hind. Unilever ](/company/hind-unilever-255.html)
+  * [ Hindalco Inds. ](/company/hindalco-inds-252.html)
+  * [ ICICI Bank ](/company/icici-bank-5418.html)
+  * [ Idea Cellular ](/company/idea-cellular-23040.html)
+  * [ IndusInd Bank ](/company/indusInd-bank-5531.html)
+  * [ Infosys ](/company/infosys-2806.html)
+  * [ ITC ](/company/itc-301.html)
+  * [ Kotak Mah. Bank ](/company/kotak-mah-bank-2330.html)
+  * [ Larsen &amp; Toubro ](/company/larsen-toubro-348.html)
+  * [ Lupin ](/company/lupin-3026.html)
+  * [ M &amp; M ](/company/m-m-365.html)
+  * [ Maruri Suzuki ](/company/maruti-suzuki-5496.html)
+  * [ NTPC ](/company/ntpc-12001.html)
+  * [ O N G C ](/company/o-n-g-c-6068.html)
+  * [ Power Grid Corpn ](/company/power-grid-corpn-5455.html)
+  * [ Reliance Inds. ](/company/reliance-inds-476.html)
+  * [ St Bk of India ](/company/st-bk-of-india-5654.html)
+  * [ Sun Pharma. Inds. ](/company/sun-pharma-inds-4325.html)
+  * [ Tata Motors ](/company/tata-motors-560.html)
+  * [ Tata Motors-DVR ](/company/tata-motors-dvr-36014.html)
+  * [ Tata Power Co. ](/company/tata-power-co-554.html)
+  * [ Tata Steel ](/company/tata-steel-566.html)
+  * [ TCS ](/company/tcs-5400.html)
+  * [ Tech Mahindra ](/company/tech-mahindra-17215.html)
+  * [ UltraTech Cement Ltd ](/company/ultratech-cem-24951.html)
+  * [ Wipro ](/company/wipro-614.html)
+  * [ Yes Bank ](/company/yes-bank-25267.html)
+  * [ Zee Entertainment ](/company/zee-entertainmen-3126.html)
+
+![Business Standard](http://bsmedia.business-
+standard.com/include/_mod/site/html5/images/bs-footer-logo.jpg)
+
+Copyrights © 2015 Business Standard Private Ltd. All rights reserved.
+
+  *     * #### From BS Website
+
+    * [Home](/home-page)
+    * [Companies](/companies)
+    * [Markets](/markets)
+    * [Opinion](/opinion)
+    * [Politics](/politics)
+    * [Technology](/technology)
+    * [Specials](/specials)
+    * [Personal Finance](/pf)
+    * [Budget](/budget2016)
+    * [Latest News](/latest-news/)
+    * [Today's Paper](/todays-paper)
+    * [RBI Policy](/category/specials-rbi-policy-10931.htm)
+    * [General News](/general-news)
+    * [General Videos](/general-video/list)
+    * [General Photo Gallery](/photo-gallery/general-list)
+    * [Events](/category/sponsored-content-events-15802.htm)
+    * [Authors](/author)
+  *     * #### About us
+
+    * [About Us](/about-us)
+    * [Code of Conduct](/code-of-conduct)
+    * [Terms &amp; Conditions](/terms-conditions)
+    * [Disclaimer](/disclaimer)
+    * [Investor Communication](/investor-communication.html)
+
+    * #### Support &amp; Contact
+
+    * [Partner with Us](/partner-with-us)
+    * [Careers](/careers)
+    * [Advertise with Us](/advertise-with-us)
+    * [Contact Us](/contact-us)
+    * [Feedback](/feedback)
+    * [Browser Support](/browser-support)
+    * [Sitemap](/sitemap.html)
+  *     * #### Subscribe
+
+    * [E-Paper](http://epaper.business-standard.com/bsepaper/login.php)
+    * [BS Magazines](http://books.business-standard.com/magazine.php)
+    * [Portfolio Tracker](/portfolio)
+
+    * #### BS Products
+
+    * [Smart Investor](http://smartinvestor.business-standard.com/)
+    * [BS Hindi](http://hindi.business-standard.com/)
+    * [BS Motoring](http://www.bsmotoring.com/index2.php)
+    * [BS Books](http://books.business-standard.com/)
+    * [B2B Connect](/b2b-connect)
+    * [iPhone](/iphone)
+    * [iPad](/ipad)
+    * [android](/android)
+    * [wap](/wap)
+    * [BS Fund Cafe 2016](/category/events-business-standard-fund-cafe-2016-1750301.htm)
+
+  * #### Elections 2016
+
+  * [Assam Elections](http://www.business-standard.com/category/elections-assam-assembly-2016-11711.htm)
+  * [Kerala Elections](http://www.business-standard.com/category/elections-kerala-assembly-2016-11714.htm)
+  * [Tamil Nadu Elections](http://www.business-standard.com/category/elections-tamil-nadu-assembly-2016-11712.htm)
+  * [West Bengal Elections](http://www.business-standard.com/category/elections-west-bengal-assembly-2016-11713.htm)
+
+#### Connect with BS
+
+  * [Facebook](http://www.facebook.com/bsindia "Find Us on Facebook" )
+  * [Google+](https://plus.google.com/+businessstandard/posts "Follow on Google Plus" )
+  * [Linkedin](https://in.linkedin.com/company/business-standard "Connect on Linkedin" )
+  * [Twitter](https://twitter.com/bsindia "Follow Us on Twitter" )
+  * [Youtube](https://www.youtube.com/user/BusinessStandardLtd "Subscribe Us on Youtube" )
+  * [RSS](/rss-feeds/listing/ "RSS Feed" )
+
+![](http://bsmedia.business-standard.com/include/_mod/site/html5/images
+/business-standard-logo.png)
+
+**Upgrade To Premium Services**  
+  
+---  
+  
+Welcome User
+
+Business Standard is happy to inform you of the launch of "Business Standard
+Premium Services"
+
+As a premium subscriber you get an across device unfettered access to a range
+of services which include:
+
+  * Access Exclusive content - articles, features & opinion pieces
+  * Weekly Industry/Genre specific newsletters - Choose multiple industries/genres
+  * Access to 17 plus years of content archives
+  * Set Stock price alerts for your portfolio and watch list and get them delivered to your e-mail box
+  * End of day news alerts on 5 companies (via email)
+  * **NEW**: Get seamless access to WSJ.com at a great price. No additional sign-up required.
+
+  
+---  
+  
+![](http://bsmedia.business-standard.com/include/_mod/site/html5/images
+/business-standard-logo.png)
+
+**Premium Services **
+
+**In Partnership with ![](http://bsmedia.business-standard.com/include/_mod/site/html5/images/fis logo 130x58.png)**  
+  
+---  
+  
+  
+  
+**Dear Guest,**  
+  
+  
+  
+Welcome to the premium services of Business Standard brought to you courtesy
+FIS.  
+Kindly visit the [Manage my subscription page](/subscription-cart/manage) to
+discover the benefits of this programme.  
+  
+Enjoy Reading!  
+Team Business Standard
+
+  
+---  
+  
+![](http://b.scorecardresearch.com/p?c1=2&c2=8021726&cv=2.0&cj=1)
+

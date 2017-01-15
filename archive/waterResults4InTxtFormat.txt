@@ -1,0 +1,2759 @@
+1  Is 
+the 
+current land use pattern 
+in crop agriculture 
+is 
+sustainable in 
+the 
+Bhavani Basin 
+of So
+uthern India?
+: Application of 
+a Bi
+o-economic model
+   K. R. Karunakaran
+ Associate Professor (Agricultural Economics)
+ Tamil Nadu Rice Research Institute (TRRI)
+ Aduth
+urai, Tamil Nadu, India
+ (Corresponding author:  krkaruna@gmail.com
+)  S. Nedumaran
+ Research Program 
+Œ Markets, Institutions and Policies
+ International Crop Research Insitute for the Semi
+-Arid Tropics (ICRISAT)
+ Patancheru, Hyderabad, India
+ (s.nedumaran@cgiar
+.org)
+   M. Chandrasekaran
+ Professor 
+(Agricultural Economics)
+ Center for Agricultural and Rural Development Studies (CARDS)
+ Tamil Nadu Agricultural University
+ Coimbatore, India
+ (mcsekaran@gmail.com)
+ 1  Is 
+the 
+current land use pattern 
+in crop agriculture 
+is 
+sustainable in 
+the 
+Bhavani Basin 
+of So
+uthern India?
+: Application of 
+a Bi
+o-economic model
+   K. R. Karunakaran
+ Associate Professor (Agricultural Economics)
+ Tamil Nadu Rice Research Institute (TRRI)
+ Aduth
+urai, Tamil Nadu, India
+ (Corresponding author:  krkaruna@gmail.com
+)  S. Nedumaran
+ Research Program 
+Œ Markets, Institutions and Policies
+ International Crop Research Insitute for the Semi
+-Arid Tropics (ICRISAT)
+ Patancheru, Hyderabad, India
+ (s.nedumaran@cgiar
+.org)
+   M. Chandrasekaran
+ Professor 
+(Agricultural Economics)
+ Center for Agricultural and Rural Development Studies (CARDS)
+ Tamil Nadu Agricultural University
+ Coimbatore, India
+ (mcsekaran@gmail.com)
+ 2  Is 
+the 
+current land use
+ pattern 
+in crop agriculture 
+is 
+sustainable in 
+the 
+Bhavani 
+Sub
+-Basin of So
+uthern India?
+: Application of 
+a Bi
+o-economic model
+  Abstract
+ Efficient and sustainable utilization of resources
+, particularly land and water resource
+s for agriculture 
+have
+ occupied the centre stage in the economic ag
+enda of a nation. The regional resource availability
+ and the 
+ biotic, abiotic and socio
+-economic constraints 
+are 
+largely 
+varied in the any crop production system of 
+that
+ region. The integration of sustainable resource use with the production 
+programs 
+and i
+ncome as objective
+s of farming 
+thus
+, 
+leads to a multiple objective
+-planning framework. 
+Attaining sustainable 
+increase in 
+agriculture production by considering the biophysical variability of the region without affecting the natural 
+resources base is 
+therefo
+re 
+very important to 
+achieve
+ food security for 
+the growing population
+ in a 
+developing country situation
+. The current study is to develop appropriate 
+land use pattern in crop agriculture
+ for sustainable land and water use to the agricultural 
+development in the 
+Bavani Basin
+ of 
+western zone of 
+Tamil Nadu
+ state 
+in southern India
+, 
+using 
+a multiple goal 
+linear programming approach.
+ Bhavani basin in the 
+western zone of Tamil Nadu
+ - one of the most diversified in bio physical feature
+s, was evaluated 
+in this study.
+ The 
+land use model 
+ employed in the study following 
+ the bio
+-economic model by Shiferaw and Holden, 
+(2003) 
+who 
+incorporated 
+the 
+important variations in the biophysical system (land and soils) and 
+market characteristics. 
+This study 
+traced th
+e alternative cropping pattern which 
+would 
+maximize
+s the farm 
+net income 
+at a relatively lower water requirement, 
+lower land requirement (
+hectare days to ensure 
+relatively more fallow period 
+to lower land exhaustion rate) 
+and that would lower the environme
+nt damage 
+in-terms of lower Environmental Impact Quotient (EIQ) 
+with the given land and ground water availability of 
+each identified ten homogen
+eous land units
+ beside the len
+gth of growing period determined on the basis of 
+quantum
+ and distribution of rainf
+all and temperature
+.  The major biophysical factor
+s considered 
+beside
+ the 
+land availability, ground and surface water availability
+ were;
+ crop suitability for the particular soil type, crop 
+sequence and climatic variations and these factors were specified a
+s constrain
+ts in the land use model. The 
+input data for the model 
+were collected from 
+the 
+sample respondents in the 
+delineated homogen
+eous land 
+units. The actual water availability for each standard week (t) was estimated after adjusting the effective 
+
+rainfall received during the period of crop stand from the total water requirement of each crop activity.  
+ The land use model 
+estimats 
+reveal
+ed the
+ possibility of increasing the crop income fr
+om 
+the 
+current level of 
+INR
+ 6.14 billion to 
+INR 
+8.25 b
+illion annually
+. This alternative crop plan also helped to reduce the area under 
+high water consuming crop
+s in water deficit area
+s.  3   INTRODUCTION
+ Economic development and human welfare largely depend on optimum utilization of natural resources. 
+There exist
+s a wide spatial diversity in quantity and quality of land and water resources 
+available 
+and 
+their 
+efficiency in use for agricultural and non
+-agricultural purposes. Efficiency and sustainability paradigms have 
+therefore occupied the centre stage in the econ
+omic agenda of a nation. A large proportion of India™s land 
+shows clear evidence of advanced and continuous degradation, threatening to undermine the capacity to 
+
+increase food production and alleviate rural poverty (Abrol, 1994). Despite the critical situa
+tion, the increase 
+
+in population led to decline the per capita availability of net sown area from 1.76 ha in 1950
+-51 to 0.
+11 ha
+ in 
+Tamil Nadu in India
+ in 
+2007
+-200
+8. On the other hand, the water availability for agriculture from both surface 
+and ground wate
+r sources 
+was 
+not able to meet the increasing demand by the changing cropping pattern and 
+climatic variability. Annual internal renewable water resources in India fell by 652 cubic meter (cum)  per 
+
+capita  in about 12 years i.e., from 1896 cum in 1988 to 1
+244 cum in 2000 (HDR, 2000). The ground water 
+estimation committee (1994) estimated the annual replenishable ground water potential to be 431 bcm and 
+
+the ultimate irrigation potential in terms of area was estimated to be 80.38 mha. During the period from 
+1984
+-85 to 1998
+-99, the number of dark
+1 blocks (administrative unit consists of few villages) had increased 
+from 253 to 428 at the national level. If this trend continues, the number of overexploited blocks would be 
+doubled over a period of every twelve and
+ half years (Swaminathan, 2002). In the State of Tamil Nadu the 
+groundwater was over exploited in 54 bocks
+ out of a total of 
+385
+-blocks
+ which spread over in 16 districts 
+(CWC, 2000). 
+ 
+The integration of sustainable resource use with the production programs
+ and income as objectives of 
+farming thus, leads to a multiple objective
+-planning framework. Attaining sustainable increase in agriculture 
+production by considering the biophysical variability of the region without affecting the natural resources 
+
+base is t
+herefore very important to 
+achieve
+ food security for the growing population in a developing country 
+situation. 
+In 
+such a 
+situation
+, there is an urgent need to identify concrete policy measures that would permit 
+a simultaneous improvement of agricultural pr
+oduction and conservation of natural resource base especially 
+
+land and water resources. 
+ Tamil Nadu 
+state in 
+southern 
+India 
+is divided into seven agro climatic zones based on rainfall distribution, 
+irrigation pattern, soil characteristics, cropping pattern
+, ecological and social characteristics. Among these 
+seven zones, the Western zone consisting of Coimbatore and Erode districts 
+covering Bhavani basin
+ occupies 
+12.03 per cent of the state
+™s
+ geographical area and 11.45 per cent of the state
+™s
+ net sown area.
+ This zone 
+accounts for 
+close to 15 per cent of degraded land in the State. The western zone receives the lowest annual 
+
+rainfall of 700 mm compared to the 959 mm for the State. Beside
+s, well irrigation is 
+the pre
+domina
+nt source 
+of irrigation in this zone a
+ccounting 
+for 
+about 53 per
+ cent of total irrigated area. The depth of the water 
+in 
+this zone however, 
+has fallen between 6 meters and 49.3 m
+eters
+ in the 
+rainfall deficit years
+ when the
+ annual 
+                                                 1 Dark block are were the groundwater extraction is more than recharge
+ 4  rainfall 
+was 
+around 450 mm. Due to poor maintenance and reductio
+n 
+in 
+storage capacity of tanks, ponds and 
+other small reservoirs 
+also 
+affect the groundwater recharge in th
+is zone. The over extraction of groundwater 
+and inefficient use of irrigation
+ water
+ for crops 
+also 
+leads to faster reduction in groundwater table. 
+The current study therefore
+ aims 
+to answer the 
+following 
+question confronting the stakeholders in the region 
+namely:
+ 1. What would be the optimal land allocation to different crop activities 
+that will maximize the net 
+farm income
+ with the available 
+land, 
+water 
+and environmental resources 
+in 
+the region?
+  The overall objective of the study is to develop appropriate 
+land use pattern in crop agriculture
+ for 
+sustainable land and water use to the agricultural development in the 
+Bhavani basin of the 
+west
+ern zone of 
+Tamil Nadu. 
+ 2. METHODOLOGY
+ In India, private property right for land will leads to over exploitation of land, water other resources which 
+causing spatial and temporal damages.  This study is indent to identify the land allocation pattern to th
+e different crops and how the different resources or inputs like labour, water and credit are judiciously used to 
+
+reach the maximum net return with the available production activities in the context of sustainability. In 
+order to achieve the sustainability
+ in land and water resources use, the spatial variability on bio
+-physical 
+characters must be considered. This would be achieved by 
+identifying
+ the homogeneous land which having 
+same bio
+-physical features of surface water availability, ground water status a
+nd climatic feature like 
+temperature, rainfall and Length of Growing period (LGP). 
+ Land Use Model
+ Land use studies dealing with the future prospects are generally of two types
+ - predictive and explorative. 
+The 
+explorative land use studies focus more on de
+fining the range of developmental possibilities at different 
+scale (Van Ittersum 
+et al
+., 1998). These studies emphasized the biophysical possibilities, assuming that 
+socioeconomic constraints could be managed in the long run (Van Keulen et al., 2000). Bio
+-economic 
+modeling (BEM) approach was used to analyze the combined effect of land degradation, population growth, 
+market imperfections and increased risk of drought on household production, welfare and food security 
+(Holden and Shiferaw, 2002). They used dy
+namic non
+-separable household model which maximized the 
+household welfare. 
+ The 
+land use model
+ employed in this study following 
+the bio
+-economic model by Shiferaw and Holden, 
+(2003) 
+which 
+incorporated 
+the 
+important variations in the biophysical system (lan
+d and soils) and market 
+characteristics. 
+Loborte et. al.(2009) dev
+eloped and evaluated the methodology for exploring the lan
+ds use 
+option at s
+ub national level to improve the scientific basis for lands use planning which 
+provide
+d the 
+facilities 
+for land ev
+aluation for resource availability, scenario construction and land use optimization. 
+Following the 
+methodology t
+his study
+ would 
+trace the alternative cropping pattern which maximizes the farm net income 
+5  with the given land and ground water availability of
+ each identified ten homogen
+eous land units
+ (HLUs)
+.  The 
+land and water availability of the each 
+HLU
+s were taken as constrain
+ts. The actual crop water availability for 
+each standard week (t) was estimated after adjusting the effective 
+rainfall received during the period of crop 
+stand from the total crop water requirement of each crop activity. 
+ Input
+-output coefficients
+ The input
+-output coefficients for the land use model were estimated from
+ a sample
+ of 
+330 farm households  
+spread in 22
+ villages covering all identified 10 land units. 
+The distribution of the sample households among 
+the 10 
+HLU
+s is presented in Table 1. 
+ Table 1 Distribution of Sample village in different land units
+ Land Unit Classification
+ Land units
+ Geo area
+ Selected villages
+ ID Number
+ area (ha)
+ % share
+ CBE
+ Erode
+ WZ Non ayacut critical average LGP
+ 0CA
+ 1 128370
+ 10.92
+ 1  1 Non ayacut over
+-exploited average LGP
+ 0OA
+ 2 303836
+ 25.84
+ 2 3 5 Non ayacut 
+Œsemi
+-critical
+- average LGP
+ 0RA
+ 3 182576
+ 15.53
+  3 3 Non ayacut semi
+-critical good LGP
+ 0RG
+ 4 32893
+ 2.80
+  1 1 Non ayacut safe average LGP
+ 0SA
+ 5 46785
+ 3.98
+  1 1 Ayacut critical average LGP
+ 1CA
+ 6 39362
+ 3.35
+ 1  1 Ayacut critical good LGP
+ 1CG
+ 7 36016
+ 3.06
+ 1  1 Ayacut over exploited average LGP
+ 1OA
+ 8 78946
+ 6.72
+ 2  2 Ayacut semi
+-critical average LGP
+ 1RA
+ 9 280800
+ 23.88
+ 2 3 5 Ayacut safe average LGP
+ 1SA
+ 10 46061
+ 3.92
+  2 2 Total  map area
+ 1175645
+ (75.40)
+ 100
+ 9 13 22 Reserved Forest (RF)
+ 387625
+ (24.60)
+     Total Geographical area
+ 1563270
+ (100)
+      The land uni
+t 0OA
+- Non ayacut 
+over exploited with average LGP less than 70 days of LGP without surface 
+water facility is spread over 3.
+03 lakh ha which constituted 
+25.84 per cent of the total geographical area of 
+the western zone (11,75, 645 ha which excluded 
+the reserved forest area). This is followed by the land unit 
+1RA
+- Ayacut 
+semi
+-critical with average LGP with surface water facility which occupied about 2.80 lakh ha 
+(23.88 per cent of total area).
+ The field survey was conducted during 2006 and the farm da
+ta were collected on recall basis for the normal 
+year 
+(2004
+-05).  Primary data covering land use, cropping pattern, cultivation practices, irrigation, depth of 
+water table in the tube and open wells, well output, human
+ labour
+, animal and machine 
+power 
+used
+, 
+chemical and other inputs used, crop outputs, input and output prices 
+paid and 
+received by farmers 
+respectively 
+and other household and farm details were collected from the selected sample farms through 
+a well
+-structured pre tested questionnaire. The inp
+ut use and outputs 
+obtained 
+for different crop activities 
+were varying for each 
+of the 
+HLUs
+ and 
+over seasons
+. The inputs required for cropping activities such as 
+fertilizer (N, P and K
+ nutrients
+), water, pesticides and other expenses 
+on labour, bullock and 
+ 6   Figure 
+1: Homogenous land units of Bhavani basin in Western zone of Tamil Nadu, southern India
+ Note: The land 
+units are designated with three character codes.  The first character 1 or 0 indicates ayacut (irrigated) 
+and non
+-ayacut (un
+-irrigated); the second character O, C, R & S  refer to grounds water categories namely; over
+-exploited, critical, semi
+-critical and
+ safe, respectively; the third character A or G represents Length of growing period
+ with < 70 and >70 Days, respectively.
+   7  machine power were considered.   From this 
+data set, 
+cost (operational cost) and returns were estimated for 
+the crops
+ raised in the 
+identified 
+HLUs
+.  2.2 Static Land Use model
+ The indices used in the land use model are given in Table 
+2. Table 
+2 Indices and Abbreviations used in defining Land Use Model
+ Index
+ types 
+ Characters considered
+ z Homogenous land units
+ (HL
+U)
+ (10
+ HLUs
+) LGP, ground water, surface water 
+availability and length of growing 
+period 
+used to delineate  HLU
+s  t Time (52 standard weeks)
+ Land and ground water availability for each HLU were estimated for 
+each standard week. 
+ c crops (26)
+ 19 irrigated 
+crops (i)
+ 7 rainfed crops (r)
+ Crop
+s in the different 
+HLUs
+: The composition of different crops in 
+vary spaciously
+ depend
+ing
+ on the agro
+-climatic suitability, 
+marketing feasibility and technology availability for the region. 
+However, 26 crop
+s covering cereal
+s (5), pulses (
+1), oilseeds (3), 
+fiber
+(1)
+, tuber (1), sugar crop (1), spices (2)
+, fruits (1),
+ vegetables 
+(3) and narcotics were considered in the model.
+ Cereals: Kuruvai and samba rice,  maize (
+I & r)   finger millet  and 
+grain 
+sorghum (
+i & r)
+, 
+fodder 
+sorg
+hum ( r)
+ Pulses: Pulses (
+ i & r) 
+ Oilseeds: groundnut (
+I & r), gingelly (i& r) and sunflower
+ Fiber: Cotton (
+I & r)
+ Fruits: banana;                       Tuber: tapioca
+ Sugar: sugarcane;                   Spices: turmeric and chilly
+ Vegetables: onion, Brinj
+al, tomato
+ Narcotics: tobacco
+ (Note: 
+Trees :coconut and other tree cropped area excluded from 
+the land availability
+) Note: 
+I - irrigated; r
+- rainfed
+ 2.2.1 Objective Functions: Maximizing Net Income
+ In this 
+study a
+ regional level explorative land allocatio
+n model
+ was
+ developed 
+which 
+would 
+maximize  net 
+income from crop enterprise
+s in the region. Income from each 
+crop 
+activity was the major factor that would 
+determine the selection of crops. Thus, the objective function was maximization of net income from cr
+op 
+enterprise in the model. 
+  Max  
+,,x zczc
+zccincNIvArc
+    ,,,
+zczczc
+NIGIopC
+
+ Where 
+  cinc
+      
+: Crop enterprise net income
+  ,zcvArc
+: The level of crop activity ‚c™  in HLU ‚z™
+  GI
+z,c
+         : Gross 
+revenue from crop activity ‚c™ in HLU ‚z™
+  ,zcopC :  Operational cost for crop activity ‚c™ in HLU ‚z™ and
+ 8  ,zcNI : Net crop income per hectare from crop activity (difference between the gross revenue and 
+operational
+ expenditure of crop production). The operational cost per ha did not include the fixed costs and 
+land rent.
+ 2.2.2 Constraints
+ The net arable land availability (excluding area under coconut and other tree crops) and the availability of 
+ground water were co
+nsidered as constraints besides the fodder production in the model. The surface water 
+feature was incorporated in the HLU classification through GIS technique.
+ Agricultural Land Area:         
+  , x ztzcz
+ctacvArca
+ Where
+ ztac: The land area requirement for each crop ‚c™ in HLU ‚z™ at time period ‚t™. The land requirement was 
+derived considering the crop suitability and sowing season conditional matrices derived from the 
+
+discussion from the experts and secondary sources.
+ ,zcvArc
+: The level of crop activity ‚c™ in each HLU ‚z™ and
+ za total land availability in each HLU ‚z™ after adjusting the area for perennial 
+trees 
+like coconut and 
+other tree
+s not included as crop activities.
+ Water availa
+bility constraint:
+ ,,x ziczic
+zt
+ctwnnvArctw
+ Where
+ ,zcArc
+: The level of crop activity
+ ‚c™ 
+in each HLU ‚z™
+  ,zic
+wnn
+: The total actual water need for irrigated crop activity ‚ic™ in each HLU ‚z™. The water need was 
+cal
+culated considering the availability of weekly effective rainfall and ground water availability and 
+
+recommended water requirement of each crop activity.
+ tWzt          
+:  zone wise water availability for standard week t
+, considering both surface and groundw
+ater 
+availability for each HLUs for each standard weeks.
+ Actual Crop Water Requirement
+ The actual water needs for each crop was calculated considering the moisture availability through the 
+effective rainfall during the stand of the particular crop. The equ
+ation is given as
+ ,zcc
+zcwnnWreffRf
+
+ where
+ ,zcwnn
+: Actual water required for each crop ‚c™ in HLU ‚z™
+ cWr : recommended water requirement for crop ‚c™ and
+ 9  zceffRf
+ : Total soil moisture a
+vailable through effective rainfall for zone‚z™ for crop ‚c™.
+ Effective Rainfall
+ The moisture availability through effective rainfall (
+zteffRft
+) for each HLU ‚z™ in time period ‚t™ was 
+calculated by adding the daily rainfall in each HLU ‚
+z™ (more than 2.5 mm and less than 50 mm per day). It 
+was assumed that only 60 per cent of total rainfall reaches soil profile and the remaining 40 per cent drained 
+out through runoff and seepage. Then, the crop wise moisture availability through effective
+ rainfall was 
+estimated by adding these for respective weeks of crop stand in that location. The equation is as follows:
+ ,,,zc
+zttceffRfeffRf
+ Bio-physical Constraints: Soil Series and Crop Suitability
+ Soil quality based crop suitability was incorpora
+ted in each HLU, based on the soil characters as constraint. 
+The crop suitability constraint is specified as follows:
+ ,,,
+ x  zczczc
+ArcBpSuit
+ where
+ Arc
+zc
+   :decision variable; area to be allocated for crop ‚c™ in zone ‚z™
+ BP
+zc
+  :Crop ‚c™ can be cultiva
+ted in zone ‚z™ as 1 and 0 other wise; included as land suitability matrix
+ Suit
+zc
+ :  total area suitable for crop ‚c™ in HLU ‚z™
+ 2.3 Land and Water Resources Efficiency Analysis
+ Cropping Intensity (CI)
+ was calculated as the perc
+entage of gross cropped area (GCA) to the total cultivable 
+land area available for cultivation (LA).
+  *100GCA
+CILA  Based on Subbian et al. (1999) Cumulative Land Utilization Index (CLUI) 
+was calculated by summing the 
+products of land area pl
+anted to each crop and the actual duration of that crop in weeks and dividing this by 
+the total cultivable land area times weeks. 
+ 1*52
+nii
+iadCULI
+LA*100
+ where 
+ CLUI
+ - Cumulative land utilization index in per cent
+  ai - area occupied by the i
+th cro
+p di -  weeks that i
+th crop occupied
+ n - total number of crops
+ LA - total 
+cultivatble 
+land area available in a year 
+ 10  The CLUI 
+would 
+reach 
+the 
+maximum of 100 per cent when all 
+the 
+available land area was occupied by 
+different
+ crops throughout the year. 
+Lesser CLUI with low level of water use that could generate maximum 
+net income is preferred for 
+land and water resources sustainability.
+  Water Use Efficiency (WUE)
+ is the ratio between the total net return realized from the irr
+igated crop to total 
+water used by the crop plan. 
+  WUE
+NIWU Where
+  WUE
+ - Water use efficiency rupees per thousand liter of water
+ NI
+ - Total net income realized from the irrigated crops in the optimal plan in 
+INR
+ WU
+ - Total water used 
+by the crop plan in thousand liters
+ Considering the complexity of the present static land use model for 10 different 
+HLU
+s, the General Algebraic 
+Modeling System (GAMS 22.9, 2009) was used for developing the land use model. The model con
+sist
+ed of 
+260 (10x26) crop activities with 520 (10x 26 x 2) equations each for land and water resources, 260 (10x24) 
+equations for crop suitability constraints. Thus, totally 260 activities and 1040 constraints besides the non
+-zero equations were used in f
+ormulating the land use model and solved 
+using
+ GAMS. 
+ 3. Results and Discussion
+ The results and discussions 
+included
+; the 
+descri
+ption
+ the land area availability, delineation of the 
+homogenous land units
+, followed by the model results
+.   The 
+Bhavani 
+basin of 
+western zone of Tamil Nadu was divided into 10 agro
+-ecological 
+HLU
+s by overlaying the 
+three spatial attributes 
+namely;
+ (i)
+availability of surface irrigation, (command area map)
+; (ii)
+ ground water 
+categorization based on the ext
+raction 
+levels of ground water; 
+and 
+(iii) 
+the climatic feature (by developing 
+the length of growing period 
+- LGP) using GIS overlay technique and the same is presented in the map (Figure 
+1). 
+ 3.1 
+General 
+Characteristics
+ of the sample farms
+ identified 
+in th
+e HLUs 
+ The farm and famer™s 
+general 
+characters such as
+; farm size, family size, main and secondary occupation, 
+family labour availability for farm operation were analyzed fr
+om the sample data collected for each 
+of the 
+HLUs.
+ The average farm size was 0.72, 1.64 and 4.95 ha for marginal, small and medium to large size farm 
+categories, respectively. The marginal and small farmers constituted about 59 per cent of the total number
+ of 
+sample operational holdings in the 
+Bhvani basin of 
+western zone 
+in Tamil Nadu 
+and they operated only 15 
+per cent of the cultivable area. The average family size in different farm size groups ranged from 4.00 
+
+(marginal farms) to 4.68 members per family 
+(in large farms) in which children constituted 15.19 per cent of 
+
+the family size. Male members engaged in agricultural operations constituted 73 per cent, whereas, two 
+thirds of the females were engaged in the agricultural operations. 
+ 11  3.2 Operational Expe
+nditure for Major Crops 
+under Homogenous Land Units 
+ The operational expenditure for cultivating major crops in the western zone was estimated from the sample 
+farms 
+(Table 3) 
+to derive the net income per hectare realized from each crop in each 
+of the HLUs
+. The 
+operational expenditure includes all the paid out cost on inputs except the fixed cost
+. The results indicated 
+that the operational cost was the highest for sugarcane (
+INR
+ 59484 per ha.) followed by 
+INR
+ 58385, 
+INR
+ 51864, 
+INR
+ 43893 and 
+INR
+ 28528 per ha for banana, turmeric, tapioca and groundnut, respectively. The 
+cultivation expenses of kharif paddy was 
+INR
+ 19027 while for rabi paddy it was 
+INR
+17840 per ha. Among 
+different homogenous land units, farmers incurred marginally higher operatio
+nal expenses in ayacut land 
+units
+ (irrigated) 
+such as; 1CA, 1OA, 1RA, 1SA and ICG for most of the crops; this may be due to higher use of 
+inputs to achieve the targeted yield with the limited resources
+. Table 
+3 Operational Expenditure for cultivating diffe
+rent crops under different land units
+            (INR
+/ha)
+ Crop
+ Non
+ Ayacut Land units
+ Ayacut Land units
+ ALL
+ CV %
+  0CA
+ 0OA
+ 0RA
+ 0RG
+ 0SA
+ All
+ 1CA
+ 1CG
+ 1OA
+ 1RA
+ 1SA
+ All
+   PADk
+ 17900
+ 18683
+ 18579
+ 19597
+ 17600
+ 18472
+ 18300
+ 2280
+0 19560
+ 18248
+ 19002
+ 19582
+ 19027
+ 7.76
+ PADr
+ 19248
+ 18579
+ 16579
+ 16579
+ 16579
+ 17513
+ 19001
+ 1600
+2 1900
+2 18579
+ 18248
+ 18166
+ 17840
+ 7.01
+ RAG 6570
+ 6800
+ 5740
+       6370
+ 6300
+       5800
+    6050
+ 6242
+ 7.47
+ MAZ
+ 10400
+ 8400
+ 9490
+ 9620
+ 10300
+ 9642
+ 10900
+ 11100
+ 10960
+ 10650
+ 10200
+ 10762
+ 10202
+ 8.14
+ PUL
+ 7420
+ 8940
+ 7680
+ 8400
+    8110
+ 9400
+ 8670
+ 9420
+ 8720
+ 8470
+ 8936
+ 8569
+ 7.97
+ GNT
+ 27694
+ 28577
+ 27274
+ 29274
+ 27274
+ 28019
+ 27373
+ 28311
+ 27229
+ 32694
+ 29577
+ 29037
+ 28527
+ 5.95
+ GIN
+ 11200
+ 8400
+ 9490
+ 12590
+ 11300
+ 10596
+ 12000
+    10900
+ 11100
+ 11400
+ 11350
+ 10931
+ 11.59
+ COT
+ 24894
+ 28894
+ 28894
+ 25416
+ 25416
+ 26703
+ 25416
+    31838
+ 31838
+ 31838
+ 30233
+ 28272
+ 10.82
+ SCN
+ 62721
+ 61752
+ 62760
+ 63617
+ 63617
+ 62893
+ 62550
+ 57749
+ 51759
+ 56874
+ 51443
+ 56075
+ 59484
+ 8.01
+ TUR
+ 57010
+ 54142
+ 62017
+ 51877
+ 48900
+ 54789
+ 49190
+    53928
+ 41148
+ 48560
+ 48207
+ 51864
+ 11.42
+ TOB
+ 18330
+ 13356
+ 19500
+    17867
+ 17263
+ 18900
+    19720
+ 18718
+ 19503
+ 19210
+ 18237
+ 11.36
+ TAP
+ 40014
+ 40241
+ 44100
+ 43821
+ 37560
+ 41147
+ 44604
+   48096
+ 48092
+ 48506
+ 47325
+ 43893
+ 9.03
+ ONI
+ 25776
+ 24426
+ 22446
+ 25668
+ 23850
+ 24433
+ 20466
+   22284
+ 20502
+ 21006
+ 21065
+ 22936
+ 9.12
+ BAN
+ 53997
+ 49778
+ 58993
+ 60668
+ 60668
+ 56821
+ 58993
+ 59707
+ 60668
+ 59707
+ 60668
+ 59949
+ 58385
+ 6.21
+ SFL
+ 13200
+    12400
+ 13600
+    13067
+ 14200
+       11400
+ 12300
+ 12633
+ 12850
+ 7.87
+ BRJ
+ 24370
+ 24370
+ 23900
+ 22590
+ 24500
+ 23946
+ 21500
+ 23600
+ 21700
+ 2320
+0 21500
+ 22300
+ 23123
+ 5.28
+ TOM
+ 17600
+ 16800
+ 16200
+ 15690
+ 17400
+ 16738
+ 16500
+ 15690
+ 14620
+ 13000
+ 16500
+ 15262
+ 16000
+ 8.54
+ CHI
+ 23800
+ 24900
+ 22420
+ 21300
+ 22700
+ 23024
+ 24000
+ 23000
+ 22100
+ 25420
+ 21300
+ 23164
+ 23094
+ 6.13
+ r_GN
+ 6590
+ 5175
+ 5687
+ 5144
+ 5125
+ 5544
+ 5233
+ 5061
+ 5175
+ 5687
+ 5144
+ 5260
+ 5402
+ 8.79
+ r_GI
+ 4908
+ 4740
+ 4460
+ 4600
+    4677
+ 4678
+ 4897
+ 4960
+ 3670
+ 3987
+ 4438
+ 4544
+ 9.75
+ r_CO
+ 7830
+ 6530
+ 6520
+    5900
+ 6695
+       6590
+ 5860
+ 4984
+ 5811
+ 6316
+ 13.88
+ r_MZ
+ 6700
+ 5800
+ 5060
+ 5902
+    5866
+ 5830
+ 5740
+ 5120
+ 6200
+ 6300
+ 5838
+ 5850
+ 9.01
+ r_fC
+    3900
+ 2800 3400
+    3367
+       3800
+ 2750
+    3275
+ 3330
+ 16.23
+ r_CH
+ 4200
+ 3800
+ 4280
+ 4300
+    4145
+ 4140
+ 4300
+ 4300
+ 4800
+    4385
+ 4265
+ 6.43
+ r_PL
+ 5621
+ 5556
+ 4956
+ 6090
+ 5402
+ 5525
+ 4981
+ 5291
+ 5417
+ 5290
+ 5920
+ 5380
+ 5452
+ 6.66
+ Source: Estimated from farm sample
+   12  3.3 Productivity of
+ major Crops u
+nder Homogenous Land Units 
+ The productivity of major crops was estimated and the results would reveal that the average productivity of 
+kharif paddy, rabi paddy, ragi and maize was 
+52, 40, 30 and 29 qt
+l/ha,
+ respectively. The district average
+ yield 
+of these crops were 
+33.11,
+ 29.06, 23.8 and 11.25 qtl per 
+ha 
+in Coimbatore district and 39.6, 41.65, 23.8 and 
+22.8 qtl per ha f
+or Erode district, respectively. The average yield of sugarcane (as main crop) was 108
+0 qtl
+/ha. 
+While, the district average
+ productivity of sugarcane was 87
+0 and 102
+0 qtl
+/ha in Coimbatore and Erode 
+districts
+, respectively
+. The variation in crop productivity among the land units was however less as revealed 
+from the coefficient of variation with exception of 37 per cent of CV f
+or rainfed maize
+. 3.4 Net Income of Major Crops in Different Homogenous Land Unit Categories 
+ The net income over the operational cost was estimated for the major crops in each 
+of the HLUs 
+and the 
+
+result showed that turmeric recorded the maximum net income
+ of 
+INR 
+71848 per ha over operational cost, 
+followed by banana (
+INR
+. 70827) and sugarcane (
+INR
+. 46767). The low water consuming crops 
+yielded net 
+returns 
+as follows
+; cotton (
+INR
+. 13265), groundnut (
+INR
+. 44181), maize (
+INR
+. 10021) and onion (
+INR
+. 55762). 
+In the ayacut land units (1CA, 1OA, 1RA, 1SA and ICG), the net return realized were comparatively higher at 
+INR
+ 16679 vs 11296 for kharif paddy, 
+INR
+ 8842 vs 
+INR
+. 6899 for rabi paddy, 
+INR
+ 48433 vs 39928 for 
+groundnut, 79050  vs 66086 for turmeric and 
+INR
+. 581
+23 vs 35411 for sugarcane. The net income realized in 
+each crop activity 
+was considered in the land use model.
+ 3.5 Current Cropping Pattern in Different 
+HLUs
+  The alternative crop sets were optimize using the static land use model by using linear programmi
+ng 
+(LP) approach for each homogeneous land units with given land and water resource availability. In the land 
+
+availability constraints 1.92 
+lakh
+ ha was excluded which covers area under Tamarind, Guava, Mango, 
+Coconut, Tea and Coffee. Similarly, the net gro
+und water availability was estimated with the average pump 
+output, well output in liter per second in each homogeneous land units for 52 standard weeks. 
+The current 
+
+cropping pattern revealed,
+ after excluding area under perennial crops
+/trees
+, 17 major crops
+ were cultivated 
+in different 
+HLUs
+ of about 4.45 lakh ha in 2004
+-05. In order to understand the current status of the present 
+cropping pattern, various efficiency indicators such as cropping intensity, cumulative land utilization index, 
+share of the high a
+nd low water consuming crops, commercial crops, rainfed crops and area under vegetable
+ crops
+ were 
+aggregated 
+for each 
+HLU
+ and the results are presented in Table 
+4. The analysis presented in 
+Table 
+4 would show that
+ paddy was cultivated 
+in 
+little
+ over 
+58,000
+ ha followed by 
+maize and sugarcane 
+with
+ 30281
+ ha
+ and 25831 ha, respectively under irrigated condition. Groundnut, 
+sorghum, pulses and fodder sorghum were the major rainfed crops 
+that 
+constituted 43
+-57 per cent of 
+cropped area. Groundnut cover
+ed 47530 ha, 
+next to sorghum
+ with 91500 ha
+. The fodder sorghum occupied 
+52300 
+ha. The cropping intensity was relatively high in 1OA, 1CA followed by 1CG under ayacut land units 
+(133, 120 and 119 per cent
+, respectively) 
+whereas;
+ it was 123, 128 and 105 under Non
+-Ayacut (0RG, 0CA, 
+0RA) land units. However cumulative land utilization index was relatively less in irrigated land units 
+at 
+38 per 
+13  cent compared to 46 per cent in Non
+-ayacut units. It 
+would also be surprising
+ to note that the area under 
+high water consumi
+ng crop
+s (paddy, banana, turmeric
+, tobacco 
+and sugarcane) constituted almost 65 per 
+cent of the area in non
+-ayacut land units but it was around 31 per cent in ayacut land units. This need
+ed 
+ to 
+be 
+watched 
+in terms
+ of changes 
+in the alternative crop set
+ as we aim at a sustainable cropping pattern in this 
+analysis
+. Rainfed crops normally dominated in non ayacut land units. 
+ Table 
+4 Distribution of crops under current cropping pattern in ha*
+ Crops
+ Non Ayacut area
+ land unit
+ Ayacut area
+ land units
+ WZ 0CA
+ 0OA
+ 0RA
+ 0RG
+ 0SA
+ All 
+ 1CA
+ 1CG
+ 1OA
+ 1RA
+ 1SA
+ All
+ PADk
+ 2076
+ 3977
+ 1504
+ 181
+ 553
+ 8291
+ 183
+  185
+ 4004
+ 424
+ 4796
+ 13087
+ PADr
+ 12738
+ 9142
+ 8080
+ 665
+ 1242
+ 31867
+ 2655
+ 468
+ 1024
+ 8685
+ 290
+ 13122
+ 44989
+ RAG
+ 15 18 84   117
+ 5   70  75 191
+ MAZ
+ 1757
+ 2130
+ 5589
+ 44 146
+ 9666
+ 6553
+ 434
+8 1005
+ 7668
+ 1042
+ 20616
+ 30281
+ PUL
+ 236
+ 785
+ 351
+ 37  1409
+ 58  168
+ 336
+ 139
+ 701
+ 2110
+ GNT
+ 899
+ 2357
+ 3679
+ 189
+ 348
+ 7472
+ 369
+ 685
+ 1345
+ 5207
+ 1198
+ 8804
+ 16276
+ GIN
+ 2552
+ 5107
+ 1605
+ 98 793
+ 10155
+   183
+ 2653
+ 1288
+ 4124
+ 14280
+ COT
+ 143
+ 1454
+ 1142
+ 56 297
+ 3092
+ 4  249
+ 1937
+ 1329
+ 3519 6610
+ SCN
+ 4128
+ 4763
+ 7636
+ 260
+ 789
+ 17576
+ 715
+ 1238
+ 194
+ 5733
+ 375
+ 8255
+ 25831
+ TUR
+ 2369
+ 3664
+ 1692
+ 71 264
+ 8060
+ 114
+  128
+ 1449
+ 96 1787
+ 9847
+ TOB
+ 1564
+ 206
+ 794
+  454
+ 3018
+   9 459
+ 112
+ 580
+ 3599
+ TAP
+ 280
+ 1379
+ 600
+  273
+ 2532
+   44 825
+ 287
+ 1156
+ 3687
+ ONI
+ 306
+ 1043
+ 625
+ 6 23 2003
+ 433
+  119
+ 621
+ 38 1211
+ 3212
+ BAN
+ 3787
+ 4413
+ 1208
+ 31 1212
+ 10651
+ 231
+ 30 119
+ 1054
+ 151
+ 1585
+ 12236
+ SFL 170
+  580
+ 37  787
+ 45   1043
+ 34 1122
+ 1909
+ BRJ
+ 75 389
+ 132
+ 7 1 604
+ 16 55 22 127
+ 54 274
+ 878
+ TOM
+ 237
+ 1328
+ 220
+ 8 2 1795
+ 85 119
+ 607
+ 352
+ 114
+ 1277
+ 3072
+ CHI
+ 254
+ 447 331
+ 18 73 1123
+ 120
+ 31 174
+ 364
+ 5 694
+ 1817
+ r_GN
+ 8408
+ 8703
+ 10861
+ 800
+ 3766
+ 32538
+ 6  3261
+ 11607
+ 118
+ 14992
+ 47530
+ r_GI
+ 38 1826
+ 705
+   2569
+ 19 155
+ 276
+ 973
+  1423
+ 3991
+ r_CO
+ 618
+ 7019
+ 44   7681
+ 213
+  1790
+ 555
+  2558
+ 10239
+ r_MZ
+ 692
+ 1267
+ 3277
+ 13  5249
+ 160
+ 398
+ 1269
+ 3088
+  4915
+ 10164
+ r_FC
+ 10484
+ 13627
+ 14068
+   38179
+   701
+ 13422
+  14123
+ 52302
+ r_CH
+ 12043
+ 40524
+ 8289
+ 206
+  61062
+ 1955
+ 2536
+ 10831
+ 15132
+  30454
+ 91515
+ r_PL
+ 4074
+ 10724
+ 1635
+ 115
+ 48 16596
+ 4171
+ 4589
+ 6020
+ 3937
+ 85 18802
+ 35398
+ GCA 69940 126292 74731 2841 10284 284088
+ 18110 14651 29723 91302 7179 160965
+ 445051 NSA
+ 54710 120288 71366 2311 24774 273449
+ 15036 12280 22310 94147 14953 158726
+ 432175 CI
+ 127.84
+ 104.99
+ 104.72
+ 122.92
+ 41.51
+ 103.89
+ 120.44
+ 119.31
+ 133.22
+ 96.98
+ 48.01
+ 101.41
+ 102.98
+ CLUI
+ 59.08
+ 44.44
+ 47.81
+ 55.98
+ 21.79
+ 45.82
+ 44.02
+ 42.20
+ 45.85
+ 40.99
+ 21.27
+ 38.87
+ 44.06
+ LWC
+ 25.27
+ 39.06
+ 43.88
+ 29.31
+ 37.26
+ 34.956
+ 66.35
+ 75.10
+ 70.42
+ 50.87
+ 80.84
+ 68.72
+ 45.34
+ HWC
+ 74.73
+ 60.94
+ 56.12
+ 70.69
+ 62.74
+ 65.044
+ 33.65
+ 24.90
+ 29.58
+ 49.13
+ 19.16
+ 31.28
+ 54.66
+ COM
+ 55.42
+ 48.40
+ 73.31
+ 57.63
+ 82.08
+ 63.368
+ 50.15
+ 48.18
+ 38.67
+ 64.77
+ 86.93
+ 57.74
+ 57.92
+ ir_Sh
+ 48.02
+ 33.73
+ 47.97
+ 60.10
+ 62.91
+ 50.546
+ 63.98
+ 47.60
+ 18.76
+ 46.65
+ 97.18
+ 54.83
+ 43.57
+ r_Sh
+ 51.98
+ 66.27
+ 52.03
+ 39.90
+ 37.09
+ 49.454
+ 36.02
+ 52.40
+ 81.24
+ 53.35
+ 2.82
+ 45.17
+ 56.43
+ veg_Sh
+ 1.25
+ 2.54
+ 1.75
+ 1.36
+ 0.95
+ 1.57
+ 3.61
+ 1.40
+ 3.10
+ 1.60
+ 2.95
+ 2.532
+ 2.02
+ Irrigated crops:  
+PADk: Kharif paddy; PADr:Rabi Paddy; RAG:Rafi; MAZ:Maize; PUL:Pulses; GNT:Groundnut; GIN:Gingelly; 
+COT:Cotton; SCN:Sugarcane; TUR:Turmeric; TOB:Tobaco; TAP:Tabioca; ONI:Onion; BAN:banana;SFL:Sunflower; 
+BRJ:
+brinjal; TOM:Tomato;  CHI:Chillies; 
+ Rainfed crops
+: r_GN:groundnut; r_GI:gingelly; r_CO:Cotton; r_MZ:Maize;  r_FC:fodder cholam; r_CH:cholam; r_PL:pulses
+ 14  Efficiency indicators
+: CI: Cropping intensity; CLUI: Cumulative land utilization index; LWC: Low water
+ consuming crops; 
+HWC: High water consuming crop
+ (Paddy, 
+Sugarcane, Turmeric, Tobaco and Banana)
+s; COM: Commercial crops; Ir_Sh: 
+share of irrigated crops; r_Sh: Share of rainfed crops; veg_Sh: share of vegetables.
+ (indicate what are HWC and LWC crops, 
+also
+ add 2 columns 
+- total for non
+-ayacut and total for ayacut
+-also give %)
+ The 
+analysis of
+ HLU
+ wise cropping pattern clearly 
+revealed the fact 
+that the current cropping pattern is 
+ground water exploit
+ative in
+ nature
+, particularly 
+in ground water deficit 
+HLUs 
+(0CA, 0OA, 1CA,1CG, 1OA)
+, 
+more specifically in the non
+-ayacut areas where the high water consuming crops dominated and alternately 
+in the ayacut areas
+ with higher cropping intensity ranging f
+rom 110 to 133 per cent
+. This warrant
+s optimizing 
+the current cro
+pping plan for simultaneous increase in net income 
+while reducing
+ the pressure on ground 
+water use.
+ 3.6. 
+Optimal (
+Alternative
+) Cropping Pattern
+ The alternative crops set 
+was identified using the static land use model and the same presented in Table 
+5. The
+ percentage change in area and income over the current plan for each crop activity w
+as estimated and 
+presented in Table 
+6.  Table 
+5. Optimal (
+Alternative
+) cropping pattern in Western zone in ha
+       Crops
+ Non ayacut land units
+ Ayacut land units
+ WZ 0CA
+ 0OA
+ 0RA
+ 0RG
+ 0SA
+ All
+ 1CA
+ 1CG
+ 1OA
+ 1RA
+ 1SA
+ All
+ PADk
+ 3039
+ 6683
+ 3965
+ 128 1376
+ 15191
+ 835 682 1239
+ 5230
+ 831 8817
+ 24010
+ PADr
+ 2188
+ 4812
+ 2855
+ 92 991 10938
+ 601 491 892 3766
+ 598 6348
+ 17287
+ RAG
+ 3647
+ 8019
+ 4758   16424
+ 1002
+   6276
+  7278
+ 23703
+ MAZ
+ 3218
+ 7076
+ 4198
+ 231 1304
+ 16027
+ 884 1228
+ 2231
+ 5538
+ 1495
+ 11376
+ 27404
+ PUL
+ 5471
+ 12029
+ 7137
+ 122  24759
+ 1504
+ 646 1174
+ 9415
+ 787 13526
+ 38284
+ GNT
+ 2879
+ 6331
+ 3756
+ 122 1077
+ 14165
+ 791 251 1174
+ 4955
+ 787 7958
+ 22124
+ GIN
+ 2879
+ 6331
+ 3756
+ 100 506 13572
+   970 4955
+ 650 6575
+ 20148
+ COT
+ 2379
+ 5230
+ 3103
+ 47 563 11322
+ 654  455 4093
+ 305 5507
+ 16829
+ SCN
+ 1117
+ 2455
+ 1456
+ 53 1304
+ 6385
+ 307 614 507 1921
+ 340 3689
+ 10073
+ TUR
+ 1243
+ 2734
+ 1622
+ 51 551 6201
+ 342  1174
+ 2140
+ 787 4443
+ 10644
+ TOB
+ 2879
+ 6331
+ 3756
+  991 13957
+   496 4955
+ 332 5783
+ 19741
+ TA
+P 1216
+ 2673
+ 1586
+  476 5951
+   892 2092
+ 598 3582
+ 9534
+ ONI 2188
+ 4812
+ 2855
+ 122 1304
+ 11281
+ 601  429 3766
+ 288 5084
+ 16364
+ BAN
+ 1052
+ 2313
+ 1372
+ 122 1239
+ 6098
+ 289  1174
+ 1811
+ 787 4061
+ 10159
+ SFL 2879
+  3756
+ 116  6751
+ 791   4955
+ 787 6533
+ 13285
+ BRJ 2879
+ 6014
+ 3756
+ 116 1304
+ 14069
+ 791  1116
+ 4955
+ 748 7610
+ 21679
+ TOM
+ 2735
+ 6014
+ 3568
+ 122  12439
+ 752  1174
+ 4707
+ 748 7381
+ 19821
+ CHI
+ 2735
+ 6331
+ 3568
+ 128  12762
+ 752  1239
+ 4707
+ 787 7485
+ 20249
+ r_GN
+ 2879
+ 6683
+ 3756
+   13318
+ 791   4955
+ 831 6577
+ 19895
+ r_GI
+ 3039
+  3965
+   7004
+ 835   5230
+  6065
+ 13070
+ r_CO
+ 2735
+ 6014
+ 3568
+  1239
+ 13556
+   1116
+ 4707
+ 748 6571
+ 20127
+ r_MZ
+ 2879
+ 6331
+ 3756
+ 122  13088
+ 791 646 1174
+ 4955
+ 787 8353
+ 21442
+ r_FC
+  6331
+ 3756
+   10087
+   1174
+ 4955
+  6129
+ 16216
+ r_CH
+ 5471
+ 6331
+ 3756
+ 231  15789
+   1174
+ 4955
+  6129
+ 21918
+ r_PL
+  12029
+ 7137
+   19166
+   2231
+ 9415
+  11646
+ 30811
+ GCA
+ 63633
+ 139905
+ 90517
+ 2024
+ 14224
+ 310303
+ 13316
+ 4559
+ 23208
+ 119412
+ 14020
+ 174515
+ 484817
+ NSA
+ 54710
+ 120288
+ 71366
+ 2311
+ 24774
+ 273449
+ 15036
+ 12280
+ 22310
+ 94147
+ 14953
+ 158726
+ 432175
+ CI 116.31
+ 116.31
+ 126.84
+ 87.57
+ 57.41
+ 113.5
+ 88.56
+ 37.12
+ 104.02
+ 126.84
+ 93.76
+ 109.9
+ 115 CLUI
+ 46.44
+ 44.85
+ 48.56
+ 38.28
+ 30.25
+ 41.7 35.10
+ 15.51
+ 45.74
+ 48.56
+ 43.68
+ 37.7
+ 43.95
+ 15  LWC
+ 81.47
+ 80.25
+ 81.47
+ 73.29
+ 57.95
+ 74.9
+ 78.21
+ 54.31
+ 69.47
+ 81.47
+ 71.32
+ 71.0
+ 79.39
+ HWC
+ 18.53
+ 19.75
+ 18.53
+ 26.71
+ 42.05
+ 25.1
+ 21.79
+ 45.69
+ 30.53
+ 18.53
+ 28.68
+ 29.0
+ 20.61
+ COM
+ 68.86
+ 64.33
+ 67.29
+ 71.66
+ 83.36
+ 71.1
+ 70.39
+ 60.08
+ 71.08
+ 67.29
+ 84.20
+ 70.6
+ 65.95
+ ir_Sh
+ 73.28
+ 68.75
+ 67.20
+ 82.57
+ 91.29
+ 76.6
+ 81.84
+ 85.82
+ 70.40
+ 67.20
+ 83.13
+ 77.7
+ 66.21
+ r_Sh
+ 26.72
+ 31.25
+ 32.80
+ 17.43
+ 8.71
+ 23.4
+ 18.16
+ 14.18
+ 29.60
+ 32.80
+ 16.87
+ 22.3
+ 33.79
+ veg_Sh
+ 16.56
+ 16.56
+ 15.19
+ 24.07
+ 18.33
+ 18.1
+ 21.75
+ 0.00
+ 17.06
+ 15.19
+ 18.33
+ 14.5
+ 13.30
+ CI: Cr
+opping intensity; CLUI: Cumulative land utilization index; LWC: Low water consuming crops; HWC: High 
+water consuming crops; COM: Commercial crops; Ir_Sh: share of irrigated crops; r_Sh: Share of rainfed crops; 
+veg_Sh: share of vegetables.
+  Results presente
+d in table 
+5 table 
+6 would show 
+that the gross cropped area  increased 
+by 
+nine per cent over 
+current plan and generated the net income of 
+INR
+ 8.25 billion 
+in the alternate plan 
+compared to 
+INR
+ 6.14 
+billion under current plan
+.  Area under l
+ow water co
+nsuming crops such as ragi, brinjal, irrigated pulses  and 
+chillies increased more than 10 times while area under 
+high water consuming crops like; 
+rabi season paddy, 
+sugarcane and banana ha
+d reduced 
+by 
+more than 50 per cent over current plan
+. The increase 
+in net income
+  over current crop plan 
+was by 34 per cent.
+  Table 
+6. Changes in alternative plan over current cropping pattern and in Western Zone
+ Crops
+ Current cropping plan
+ Alternative crop plan
+ % increase over 
+current plan
+ Area
+ income
+ Area
+ income
+ Area
+  income
+ ha % L INR
+ %  ha % L INR
+ %  PADk
+ 13087
+ 2.94
+ 164
+ 2.67
+ 24010
+ 4.95
+ 304
+ 3.68
+ 83.46
+ 85.57
+ PADr
+ 44989
+ 10.11
+ 506
+ 8.25
+ 17287
+ 3.57
+ 205
+ 2.49
+ -61.58
+ -59.44
+ RAG
+ 191
+ 0.04
+ 2 0.04
+ 23703
+ 4.89
+ 274
+ 3.32
+ 12324
+ 11050
+ MAZ
+ 30281
+ 6.80
+ 378
+ 6.15
+ 27404
+ 5.65
+ 345
+ 4.18
+ -9.50
+ -8.70
+ PUL
+ 2110
+ 0.47
+ 42 0.68
+ 38284
+ 7.90
+ 800
+ 9.69
+ 1714.32
+ 1819.21
+ GNT
+ 16276
+ 3.66
+ 699
+ 11.39
+ 22124
+ 4.56
+ 955
+ 11.57
+ 35.93
+ 36.61
+ GIN
+ 14280
+ 3.21
+ 305
+ 4.97
+ 20148
+ 4.16
+ 476
+ 5.77
+ 41.09
+ 56.17
+ COT
+ 6610
+ 1.49
+ 118
+ 1.92
+ 16829
+ 3.47
+ 291
+ 3.53
+ 154.60
+ 146.97
+ SCN
+ 25831
+ 5.80
+ 1158
+ 18.86
+ 10073
+ 2.08
+ 407
+ 4.93
+ -61.00
+ -64.86
+ TUR
+ 9847
+ 2.21
+ 482
+ 7.85
+ 10644
+ 2.20
+ 493
+ 5.97
+ 8.09
+ 2.33
+ TOB
+ 3599
+ 0.81
+ 23 0.38
+ 19741
+ 4.07
+ 181
+ 2.19
+ 448.55
+ 671.02
+ TAP
+ 3687
+ 0.83
+ 37 0.61
+ 9534
+ 1.97
+ 81 0.98
+ 158.57
+ 117.51
+ ONI
+ 3212
+ 0.72
+ 79 1.29
+ 16364
+ 3.38
+ 417 5.06
+ 409.40
+ 428.92
+ BAN
+ 12236
+ 2.75
+ 604
+ 9.84
+ 10159
+ 2.10
+ 396
+ 4.80
+ -16.97
+ -34.45
+ SFL 1909
+ 0.43
+ 37 0.60
+ 13285
+ 2.74
+ 234
+ 2.84
+ 595.94
+ 538.08
+ BRJ
+ 878
+ 0.20
+ 25 0.41
+ 21679
+ 4.47
+ 652
+ 7.90
+ 2369.14
+ 2468.18
+ TOM
+ 3072
+ 0.69
+ 70 1.15
+ 19821
+ 4.09
+ 474
+ 5.75
+ 545.21
+ 574.86
+ CH
+I 1817
+ 0.41
+ 0 0.00
+ 20249
+ 4.18
+ 7 0.09
+ 1014.40
+ 3203.59
+ r_GN
+ 47530
+ 10.68
+ 634
+ 10.33
+ 19895
+ 4.10
+ 297
+ 3.60
+ -58.14
+ -53.10
+ r_GI
+ 3991
+ 0.90
+ 37 0.61
+ 13070
+ 2.70
+ 191
+ 2.31
+ 227.50
+ 411.84
+ r_CO
+ 10239
+ 2.30
+ 93 1.52
+ 20127
+ 4.15
+ 225
+ 2.73
+ 96.57
+ 141.37
+ r_MZ
+ 10164
+ 2.28
+ 45 0.73
+ 21442
+ 4.42
+ 100
+ 1.22
+ 110.96
+ 122.94
+ r_FC
+ 52302
+ 11.75
+ 58 0.94
+ 16216
+ 3.34
+ 20 0.24
+ -68.99
+ -65.14
+ r_CH
+ 91515
+ 20.56
+ 225
+ 3.67
+ 21918
+ 4.52
+ 47 0.57
+ -76.05
+ -79.27
+ r_PL
+ 35398
+ 7.95
+ 317
+ 5.16
+ 30811
+ 6.36
+ 378
+ 4.58
+ -12.96
+ 19.37
+ GCA
+ 445051
+ 100
+ 6139
+ 100
+ 484817
+ 100
+ 8251
+ 100
+.00
+ 8.93
+ 34.41
+ NSA
+ 432175
+    432175
+       16  It could
+ also
+ be 
+seen that
+ the 
+area under 
+rabi season paddy 
+decreased by about 62 per cent 
+while 
+a 83 per 
+cent increase 
+was noticed 
+in kharif season paddy over current plan but
+ overall
+, the 
+total 
+paddy area has 
+reduced from 0.58 
+lakh
+ ha to 0.42  
+lakh 
+ha. 
+The paddy area rather evened out between the kharif and rabi 
+seasons. The decline was more pronounced in the non
+-ayacut HLUs, particularly in the greater ground water 
+deficit ones. 
+Among the other HWC crops, area
+ under sugarcane and banana declined by 6
+1.00 and 
+16.97
+ per 
+cent respectively, while that of turmeric increased marginally by 
+8.09
+ per cent
+ which 
+may be due to higher 
+net benefits
+. Among the low 
+water consuming crops, there was a marginal reduction in area under maize by 
+9.50
+ per cent, 
+whereas
+ area under crops like, groundnut, gingelly, cotton
+ and tapioca increased considerably 
+ranging from
+ 35.93 per cent to 154.60 per cent. In the case of ragi, tobacco, onion, sunflower
+ and vegetables 
+namely, 
+brinjal, chilies and tomato, the increase was substan
+tial ranging from 409.40 to 2369.14 per cent.
+ Under rain fed conditions
+, area under groundnut, 
+grain sorghum, fodder sorghum,
+ and pulses declined in the 
+range of 12.96 to 76.05 per cent, whereas, area under gingelly, cotton and maize increased between 96.5
+7 and 110.96 per cent. 
+The inference is shift from high water consuming and rain fed crops to low water 
+consuming and commercial crops including vegetables. 
+A comparison of table 3 and table 4 would also show 
+that the cropping intensity declined in the cri
+tical, semi critical and over exploited HLUs
+, whereas it increased 
+in the safe HLUs. The CLUI also shown a decline in the critical and over exploited HLUs in terms of ground 
+water, while overall it showed a marginal increase. All these are sign of a crop s
+et that will sustain resource 
+base and simultaneously help to increase the farm income substantially. 
+ 4 Conclusion and policy implication 
+ The static land use model was developed with an intension to identify an alternative cropping plan which 
+
+would take 
+care of the land and water resource use sustainability besides maximizing net income from crop 
+
+enterprise in 
+the 
+Bavani basin of the 
+western zone of Tamil Nadu
+ in southern India
+. The land use model use
+d the spatial variation in biophysical and socio
+-economic variables of a region by incorporating spatial 
+attributes of land and water resources. The major biophysical factor considered are the land availability, 
+ground and surface water availability, crop suitability for the particular soil type, crop se
+quence and climatic 
+variations 
+in terms of the length of growing period, 
+and these factors were specified as the constrain
+ts in the 
+land use model. The input data for the model 
+were collected from 
+the delineated 
+HLUs
+. The 
+optimum 
+land 
+use model reveals tha
+t there is possibility of increasing the crop income 
+in the upper Bhavani basin of 
+western zone of Tamil Nadu 
+form current level of 
+INR
+ 6.14 billion to 
+INR
+ 8.25 b
+illion
+. This alternative crop 
+plan also helped to reduce the area under high water consumi
+ng crop
+s in water deficit area 
+without
+ affecting 
+the land and water resources base.
+ Thus
+, it could be revealed from the land and water resource efficiency 
+indicator
+s for the alternative crop plan
+, 
+resulted
+ sustai
+nable resource use with higher net income
+, 
+achie
+ved 
+through
+ the static bio
+-economic model.
+   17  Reference
+ Abrol, I.P. Land Degradation
+-A Challenge to Sustainability, In Salinity Management for Sustainable Agriculture 
+(Eds) D.L.N. Rao, N.T. Singh, Raj K. Gupta and N.
+T. Tyagi, (Karnal : Central Soil Salinity Research 
+Institute, 1994)
+ Central Water Commissions, 
+Water and Related Statistics,
+ New Delhi, 
+2000.
+ GAMS Development Corporation, 1998
+ Washington, DC, 2000
+7, USA Email. Sales@ games:
+ http//www
+/gams.com
+ Holden, Stein., Hans Lofgren and Bekele Shiferaw ﬁEconomic Policy Reforms and Soil Degradation: A Village 
+CGE Mode
+l for a high Agricultural potential area with good market access in the Ethiopian Highland, 
+2002.
+ Human Development Report 2000, p.38. 
+ Ittersum, M. K., Van R. Rabbinge and H.C.Van Latesteijn, ﬁExploratory Land Use Studies and their Role in 
+Strategic Polic
+y Makingﬂ, Agricultural System, 58:309
+-330, 1998.
+ Keulen, H.Van, M.K.Van Ittersum and N. De Ridder, ﬁNew approaches to land Use Planningﬂ in Eds 
+R.P.Roeter, H.Van Keulen, A.G.Laborte, C.T.Hoanh and H.H. Van Laar, ﬁ System Research for 
+Optimizing Future Lan
+d Use in South and South
+-East Asiaﬂ, SysNet Research Paper |Series No. 2, 
+International Rice Research Institute, Los Boños, Philippines , 2000, pp: 3
+-20. Subbian, P, K. Annadurai and S. P. Palaniappan. 
+Agriculture 
+- Facts and Figures
+ (Luthiyana : Kalyani 
+Publishers, 2000) pp 78
+-81.
+ Shiferaw Bekele and Stein T.Holden, ﬁFarm Level Benefits to Investments for Mitigating Land Degradation: 
+Empirical Evidence from Ethiopiaﬂ, Environment and Development Economics, 6:335
+-358, 2003
+ Swaminathan, M.S., ﬁ
+Agriculture an
+d Allied Sectors
+ﬂ Report of the Steering Group on for the Tenth Five Year 
+Plan 2002
+-2007, Tenth Five Year Plan / Steering Group Sr.No.13, 2002, p.14
+  

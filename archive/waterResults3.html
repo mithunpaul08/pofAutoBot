@@ -1,0 +1,574 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Farmer Portal facilitates a single window solution to the farmers and stakeholders to disseminate the information
+about the Seed, Farm Machinery, Fertilizers, Farm Dealers " />
+<meta name="keywords" content="Seed, Farm Machinery, Fertilizers, Soil Health, Pesticies, Market Price, Agromet Services, Crop information, Storage, Bank Credit for Farmers, Extension activities, MSP of Crop, Beneficiary List, NFSM, NHM, Seednet, Packages of Practices (POP)" />
+<title>Farmer Portal : Maize Pests And Diseases</title>
+<link href="css/inner.css" rel="stylesheet" type="text/css" />
+
+<link href="css/cssverticalmenu.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/cssverticalmenu.js"></script>
+<script type="text/javascript" src="lib/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="lib/jquery.jcarousel.js"></script>
+<link rel="stylesheet" type="text/css" href="skins/tango/skin.css" />
+<script type="text/javascript">
+function showDescription(msg)
+{
+	if(msg)
+		document.getElementById("description").innerHTML = msg;
+	else
+		document.getElementById("description").innerHTML = "Sample Image";
+}
+function removeDescription()
+{
+	document.getElementById("description").innerHTML = "";
+}
+
+function mycarousel_initCallback(carousel)
+{
+    // Disable autoscrolling if the user clicks the prev or next button.
+    carousel.buttonNext.bind('click', function() {
+        carousel.startAuto(0);
+    });
+
+    carousel.buttonPrev.bind('click', function() {
+        carousel.startAuto(0);
+    });
+
+    // Pause autoscrolling if the user moves with the cursor over the clip.
+    carousel.clip.hover(function() {
+        carousel.stopAuto();
+    }, function() {
+        carousel.startAuto();
+    });
+};
+
+jQuery(document).ready(function() {
+    jQuery('#mycarousel').jcarousel({
+        auto: 2,
+        wrap: 'last',
+        initCallback: mycarousel_initCallback
+    });
+});
+</script>
+    <script type="text/javascript">
+        $(document).ready(function () { setLanguageComboBox("CDACGISTWebLocalisationDIV"); });
+    </script>
+    <script type="TEXT/JAVASCRIPT" src="https://gistlangserver.in/Content/WSLToolbar/Scripts/Snippets/js/cdac-gist-translation-snippet.min.js"></script>
+</head>
+
+<body>
+<div id="main"> 
+  <div id="accessibility_pan">
+    <ul>
+      <li><a href="#skip" title="Skip to Main Content">Skip to Main Content</a></li>
+      <li><a href="screenreaderaccess.html" title="Screen Reader Access" target="_self">Screen Reader Access</a></li>
+      <li class="img"><a href="#" title="Decrease Text"><img src="imagedefault/a_decrease.png" width="20" height="16" border="0" alt="Decrease Text" /></a></li>
+      <li class="pic"><a href="#" title="Normal Text"><img src="imagedefault/normal_icon.png" width="20" height="16" border="0" alt="Normal Text" /></a></li>
+      <li><a href="#" title="Increase Text"><img src="imagedefault/a_increase.png" width="20" height="16" border="0" alt="Increase Text" /></a></li>
+      <li class="img"><a href="indexcontrast.html" title="High Contrast" target="_self"><img src="imagedefault/highcontrast.png" width="20" height="16" border="0" alt="High Contrast" /></a></li>
+      <li><a href="#" title="Normal contrast"><img src="imagedefault/normal_icon.png" width="20" height="16" border="0"  alt="Normal contrast" /></a></li>
+      <li><a href="index.html" title="Green Theme" target="_self"><img src="imagedefault/green.png" width="20" height="16" border="0"  alt="Green Theme" /></a></li>
+      <li><a href="indexblue.html" title="Blue Theme" target="_self"><img src="imagedefault/blue.png" width="20" height="16" border="0"  alt="Blue Theme" /></a></li>
+      <li><a href="indexbrown.html" title="Brown Theme" target="_self"><img src="imagedefault/brown.png" width="20" height="16" border="0"  alt="Brown Theme" /></a></li>
+      <li><a href="#" title="This Website in Hindi (External website that opens in a new window)">हिंदी में</a></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  
+  <div id="headertop">
+    <div id="header">
+      <div class="title"><a href="FarmerHome.aspx" title="Farmer Portal, Ministry of Agriculture,Government of India"><img src="imagedefault/title.png" width="513" height="79"  alt="Farmer Portal, Ministry of Agriculture,Government of India" border="0"/></a> <br />
+        <img alt="Farmer Portal" src="imagedefault/beta.png" /></div>
+      <p class="translateText">translate into :</p>
+      <div class="search1" title="Search">  
+          <div style="float:left;"><div id ="CDACGISTWebLocalisationDIV"></div></div>  
+        <script type="text/javascript">
+			(function () {
+				var cx = '017400244314664739846:eiuwsufseee';
+				var gcse = document.createElement('script');
+				gcse.type = 'text/javascript';
+				gcse.async = true;
+				gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(gcse, s);
+			})();
+		</script>
+        <div class="gcse-search"></div>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  
+  <div id="menu"><a id="skip" name="skip"></a>
+    <ul>
+      <li><a href="insurance.html" title="Insurance" target="_self">Insurance</a> </li>
+      <li><a href="#" title="Storage">Storage</a>
+        <ul>
+          <li><a href="CWC_Link.aspx" title="CWC" target="_blank">CWC</a></li>
+          <!--<li><a href="#" title="SWC" target="_blank">SWC</a></li>-->
+          <li><a href="COLD_STROAGE_Link.aspx" title="Cold Stores" target="_blank">Cold Stores </a></li>
+          <li><a href="NABARD_Link.aspx" title="Grameen Bhandaran" target="_blank">Grameen Bhandaran</a></li>
+        </ul>
+      </li>
+      <li><a href="#" title="Credit">Credit</a>
+        <ul>
+          <li><a href="http://dbie.rbi.org.in/InfoViewApp/MOFSelectParam.jsp" title="Branch Locator" target="_blank">Branch Locator</a></li>
+          <li><a href="debitrelief.html" title="Debt Relief" target="_self">Debt Relief </a></li>
+          <li><a href="shortloan.html" title="Short Term Credit" target="_self">Short Term Credit</a></li>
+          <li><a href="midlongloan.html" title="Medium/Long Term Loans" target="_self">Med./Long Term Loans </a></li>
+          <li><a href="bank.html" title="Agricultural Banking" target="_self">Agricultural Banking </a></li>
+          <li><a href="agriculturecredit.html" title="Agricultural Credit" target="_self">Agricultural Credit </a></li>
+        </ul>
+      </li>
+      <li><a href="#" title="Crops" target="_self">Crops</a>
+        <ul>
+          <li><a href="#" title="Wheat" target="_self">Wheat</a>
+            <ul>
+              <li><a href="cropstaticswheat.html" title="General Info Wheat" target="_self">General Info</a></li>
+              <li><a href="http://ppqs.gov.in/pack/ipmpackage/wheat.pdf" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28s54q5qz3lgayuzmh3g2yfyvp%29%29/Report/crvVarietyList.aspx?code=A0104" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Maize">Maize</a>
+            <ul>
+              <li><a href="cropstaticsmaize.html" title="General Info Maize" target="_self">General Info</a></li>
+              <li><a href="http://ppqs.gov.in/pack/ipmpackage/maize.pdf" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28s2ir4hsps1nvrmjihfwbi1hz%29%29/report/crvvarietyList.aspx?code=A0207" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Rice">Rice</a>
+            <ul>
+              <li><a href="cropstaticsrice.html" title="General Info Rice" target="_self">General Info</a></li>
+              <li><a href="http://ppqs.gov.in/pack/ipmpackage/rice.pdf" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%281pwga0pui21xmclq0joyqxcz%29%29/Report/crvVarietyList.aspx?code=A0102" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+              <li><a href="http://rkmp.co.in/diagnostic/" title="Diagnostic Tool" target="_blank">Diagnostic Tool</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Pulses">Pulses</a>
+            <ul>
+              <li><a href="cropstaticspulses.html" title="General Info Pulses" target="_self">General Info</a></li>
+              <li><a href="http://ppqs.gov.in/pack/ipmpackage/gram.pdf" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28sl04mcjsphwj2pjcc53auyws%29%29/Report/crvVarietyList.aspx?code=A03" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Jute">Jute</a>
+            <ul>
+              <li><a href="cropstaticsjute.html" title="General Info Jute" target="_self">General Info</a></li>
+              <li><a href="pestanddiseasjute.html" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28s54q5qz3lgayuzmh3g2yfyvp%29%29/Report/crvVarietyList.aspx?code=A0502" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Sugarcane">Sugarcane</a>
+            <ul>
+              <li><a href="cropstaticssugarcane.html" title="General Info Sugarcane" target="_self">General Info</a></li>
+              <li><a href="http://ppqs.gov.in/pack/ipmpackage/sugar.pdf" title="Pest &amp; Diseases" target="_blank">Pest &amp; Diseases</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28s54q5qz3lgayuzmh3g2yfyvp%29%29/Report/crvVarietyList.aspx?code=A0701" title="Seed Varieties" target="_blank">Seed Varieties</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Other Crops">Other Crops</a>
+            <ul>
+              <li><a href="IPMPackageofPractices.html" title="Pest &amp; Diseases" target="_self">Pest &amp; Diseases</a></li>
+              <!--<li><a href="http://smis.dacnet.nic.in/%28S%28eevbzoaxg033cmtja3clol2t%29%29/report/centralvariety.aspx">Seed Varieties</a></li>--> 
+              <!--<li><a href="#" title="Crop Facts" target="_blank">Crop Facts</a></li>-->
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#" title="Extension Activities">Extension Activities</a>
+        <ul>
+          <li><a href="http://extensionreforms.dacnet.nic.in/DataEntryfrmRDL.aspx?optRpt=demo&Dcod=1" title="Demonstrations" target="_blank">Demonstrations</a></li>
+          <li><a href="http://extensionreforms.dacnet.nic.in/DataEntryfrmRDL.aspx?optRpt=frnd&Dcod=1" title="Farmer Friend" target="_blank">Farmer Friend</a></li>
+          <li><a href="http://extensionreforms.dacnet.nic.in/DataEntryfrmRDL.aspx?optRpt=demo&Dcod=1" title="Farm School" target="_blank">Farm School</a></li>
+        </ul>
+      </li>
+      <li><a href="#" title="">Beneficiary List</a>
+        <ul>
+          <li><a href="http://midhwf.nic.in/Masters/Dash.aspx" title="NHM" target="_blank">NHM</a></li>
+          <li><a href="http://nfsm.gov.in/nfmis/rpt/total_beneficiaryCount.aspx" title="NFSM" target="_blank">NFSM</a></li>
+        </ul>
+      </li>
+      <li><a href="#" title="MSP">MSP</a>
+        <ul>
+          <li><a href="mspdet.html" target="_self" title="MSP Determination">MSP Determination</a></li>
+          <li><a href="http://cacp.dacnet.nic.in/" target="_blank" title="Questionnaire">Questionnaire</a>
+            <ul>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=47" target="_blank" title="Kharif">Kharif</a></li>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=48" target="_blank" title="Rabi">Rabi</a></li>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=49" target="_blank" title="Sugarcane">Sugarcane </a></li>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=45" target="_blank" title="Copra">Copra</a></li>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=46" target="_blank" title="Jute">Jute</a></li>
+              <li><a href="http://cacp.dacnet.nic.in/KeyBullets.aspx?pid=69" target="_blank" title="Palm Oil">Palm Oil</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="Notified MSP">Notified MSP</a>
+            <ul>
+              <li><a href="mspstatements.html" target="_self" title="Current">Current</a></li>
+              <li><a href="http://eands.dacnet.nic.in/MSP.htm" target="_blank" title="Archives">Archives</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="#" title="Animal Husbandry">Animal Husbandry</a>
+        <ul>
+          <li><a href="http://www.dahd.nic.in/dahd/schemes.aspx" target="_blank" title="Schemes">Schemes</a></li>
+          <li><a href="http://www.dahd.nic.in/dahd/guidelines.aspx"  target="_blank" title="Guidelines">Guidelines</a></li>
+          <li><a href="http://www.nadrs.gov.in/SitePages/SMS%20System.aspx"  target="_blank" title="Report Disease">Report Disease</a></li>
+        </ul>
+      </li>
+      <li><a href="#" title="Login">Login</a>
+        <ul>
+          <li><a href="NewPagewith.aspx" title="Booklets and Fliers">Booklets and Fliers</a></li>
+          <li><a href="#" title="Agromet">Agromet</a>
+            <ul>
+              <li><a href="http://farmer.gov.in/Negpa/login_negpa.aspx?masterlogin=AMFU" title="AFMU">AFMU</a></li>
+              <li><a href="http://farmer.gov.in/Negpa/login_negpa.aspx?masterlogin=MET" title="Met Center">Met Center</a></li>
+              <li><a href="http://farmer.gov.in/Negpa/login_negpa.aspx?masterlogin=REG" title="Regional Center">Regional Center</a></li>
+              <li><a href="http://farmer.gov.in/Negpa/login_negpa.aspx?masterlogin=IMD" title="IMD HQ">IMD HQ</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="State">State</a>
+            <ul>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28rpwindlqgqyywg420vp3cit4%29%29/LoginForm.aspx" title="Seed Dealer">Seed Dealer</a></li>
+              <li><a href="Dealer/LoginFertilizerPesticides.aspx?id=DealerS" title="Fertilizer/Pesticide Dealer">Fertilizer/Pesticide Dealer</a></li>
+              <li><a href="Dealer/LoginPop.aspx?id=pop" title="POP">POP</a></li>
+              <li><a href="State_Storage_Login.aspx" title="Storage" target="_blank">Storage</a></li>
+              <li><a href="MSPLogin.aspx" title="MSP" target="_blank">MSP</a></li>
+              <li><a href="Dealer/BookletLogin.aspx?id=BAF&Apid=15" title="Booklets and Fliers">Booklets and Fliers</a></li>
+            </ul>
+          </li>
+          <li><a href="#" title="District">District</a>
+            <ul>
+              <li><a href="http://smis.dacnet.nic.in/LoginDistrict.aspx" title="Seed Dealer">Seed Dealer</a></li>
+              <li><a href="http://farmer.gov.in/Dealer/LoginFertilizerPesticides.aspx?mxPUkh5/Z7rmMeF+iAPusw==" title="Fertilizer Dealer">Fertilizer Dealer</a></li>
+			  <li><a href="http://farmer.gov.in/Dealer/LoginFertilizerPesticides.aspx?mxPUkh5/Z7p02190W6hG+A==" title="Pesticide Dealer">Pesticide Dealer</a></li>
+              <!--<li><a href="Dealer/BookletLogin.aspx?id=BAFD&Apid=15" title="Booklets and Fliers">Booklets and Fliers</a></li>-->
+            </ul>
+          </li>
+          <!--<li><a href="#" class="hide">Krishi Vasant</a>
+                        <ul class="left">
+                            <li><a href="http://www.farmer.gov.in/kvregistration/login.aspx" target="_blank">Group</a></li>
+                            <li><a href="http://www.farmer.gov.in/kvregistration/kvindividual.aspx" target="_blank">Individual</a></li>
+                            <li><a href="http://farmer.gov.in/kvabs/login.aspx" target="_blank">Accommodation </a></li>           
+                        </ul>
+                	</li>--> 
+          <!--<li><a href="#" class="hide">Manufacturer</a>
+                        <ul class="left">
+                            <li><a href="Dealer/LoginMachinery.aspx?id=Equip">Dealers And Equipment</a></li>
+                            <li><a href="Dealer/RegistrationManufacturer.aspx?id=Reg">New Registration</a></li>
+                            <li><a href="Dealer/LoginManufacturer.aspx">Already Registered </a></li>
+                            <li><a href="Dealer/ApprovalLogin.aspx?id=App">Approval by Association</a></li>
+                            <li><a href="Dealer/ApprovalLogin.aspx?id=AppS">Approval by State</a></li>
+                        </ul>
+                    </li>-->
+          <li><a href="#" title="Farm Machinery">Farm Machinery</a>
+            <ul>
+              <li><a href="FarmMechanisation/Default.aspx" title="Manufacturer/Trader">Manufacturer/Trader</a>
+                <ul>
+                  <li><a href="FarmMechanisation/Login.aspx?id=Reg" title="New Registration">New Registration</a></li>
+                  <li><a href="FarmMechanisation/login.aspx?id=Equip" title="Registered">Registered</a></li>
+                </ul>
+              </li>
+              <li><a href="FarmMechanisation/Default.aspx" title="Authentication Authority">Authentication Authority</a>
+                <ul>
+                  <li><a href="FarmMechanisation/AssocationLogin.aspx" title="Association &amp; FMTTI ">Association &amp; FMTTI  </a></li>
+                  <li><a href="FarmMechanisation/login.aspx?id=AppS" title="State">State</a></li>
+         		  <!--<li><a href="FarmMechanisation/Login.aspx?id=App" title="Approval by Association">Approval by Association</a></li>-->
+                </ul>
+              </li>
+              <li><a href="FarmMechanisation/LoginDealer.aspx" title="Dealer">Dealer</a></li>
+              <li><a href="FarmMechanisation/Default.aspx" title="M &amp; T Division">M &amp; T Division</a></li>
+            </ul>
+          </li>
+          <li><a href="SeedAvailability/Login.aspx" title="Seed Avalibility">Seed Avalibility</a></li>
+          
+          <li><a href="http://farmer.gov.in/recais/login.aspx"  title="NeGP-A">NeGP-A</a></li>
+          <li><a href="#" title="Feedback">Feedback</a>
+            <ul>
+              <li><a href="feedback/FeedbackLogin.aspx" title="Admin">Admin</a></li>
+              <li><a href="feedback/FeedbackStats.aspx" title="Status">Status</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  
+  <div class="breadcrumb">
+    <ul>
+      <li><a href="FarmerHome.aspx" title="Home Page" target="_self">Home »</a></li>
+      <li>Maize Pests And Diseases</li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+
+  <div id="contentcontainer"> 
+    <div id="leftpnl">
+      <div class="top">
+        <h1 class="h1">Agriculture Corner</h1>
+      </div>
+      <div class="middle"> 
+        <div class="home">
+          <ul>
+            <li><a href="FarmerHome.aspx" title="Home Page" target="_self">Home Page </a></li>
+          </ul>
+        </div>
+        
+        <div class="aboutus">
+          <ul>
+            <li><a href="aboutus.html" title="About Us" target="_self">About Us</a></li>
+          </ul>
+        </div>
+        <div class="clear"></div>
+        
+        <ul id="seedmenu" class="seed">
+          <li><a href="#" title="Seeds">Seeds</a>
+            <ul>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28wexspd44ieauyxxmenc3txaz%29%29/dealers/searchmember.aspx" class="dealers" title="Dealers">Dealers</a></li>
+              <li><a href="http://smis.dacnet.nic.in/SQLReports/RptSeedAvailability.aspx" class="Availability" title="Availability">Availability</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%28k5qbir0ayjnfp0hmr3nnszxa%29%29/report/CentralVariety.aspx?CropCd=A0207" title="Central Varieties" target="_blank" class="statevarieties">Central Varieties</a></li>
+              <li><a href="http://smis.dacnet.nic.in/%28S%282paevpq0yp3fsah1glrkh5vk%29%29/Report/searchvarietyecology.aspx" title="Adaptable Varieties" target="_blank" class="adaptable">Adaptable Varieties</a></li>
+              <li><a href="http://seednet.ap.nic.in/" title="Quality Testing" target="_blank" class="testreport">Quality Testing</a></li>
+              <li><a href="http://seedcert.dacnet.nic.in/%28S%280aeh5dtmx0eq23bcqp3x5nsp%29%29/Login.aspx" title="Certification" target="_blank" class="certificate">Certification</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul id="pesticidemenu" class="pesticide">
+          <li><a href="#" title="Pesticide">Pesticide</a>
+            <ul>
+              <li><a href="http://farmer.gov.in/pesticide_dealers_search.aspx" title="Dealers" target="_self" class="pesticisedealers">Dealers </a></li>
+              <li><a href="http://www.ncipm.org.in/agroweb/index.aspx" title="Crop Pest Database" target="_blank" class="ipm">Crop Pest Database </a></li>
+              <li><a href="imagedefault/Pesticide ad.jpg" title="Precautions(Press Ad)" target="_blank" class="caution">Precautions(Press Ad) </a></li>
+              <li><a href="http://ppqs.gov.in/IpmDoDont.htm" title="Integrated Pest Management" target="_blank" class="report">IPM</a></li>
+              <li><a href="IPMPackageofPractices.html" title="Best IPM Practices" target="_self" class="report1">Best IPM Practices </a></li>
+              <li><a href="bestpackage.html" title="State Wise Best Practices" target="_self" class="report1">State Wise Best Practices </a></li>
+              <!--<li><a href="#" class="medicine">Generic Name of Medicines & Prices </a></li>-->
+              <li><a href="https://pesticides-registrationindia.nic.in/" title="Registration" target="_blank" class="registration">Producers Registration</a></li>
+              <!--<li><a href="#" class="testreport">Test reports </a></li>-->
+            </ul>
+          </li>
+        </ul>
+        <ul id="farmmachinarymenu" class="farmmachinary">
+          <li><a href="#" title="Farm Machinery">Farm Machinery</a>
+            <ul>
+              <li><a href="farmervideo/index.html" title="Video Clips" target="_blank" class="video">Video Clips </a></li>
+              <li><a href="farmerguide.html" title="Farmer Guide" target="_self" class="farmerguide">Farmer Guide </a></li>
+              <li><a href="dealer/SqlReports/Report2.aspx" title="Find A Machine" target="_blank" class="farmermachine">Find A Machine </a></li>
+              <li><a href="http://farmer.gov.in/dealer/SqlReports/Report3.aspx" title="Manufacturers" target="_blank" class="manufacturers">Manufacturers</a></li>
+              <li><a href="http://farmer.gov.in/dealer/SqlReports/Report1.aspx" title="Dealers" target="_blank" class="dealers">Dealers</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul id="fertilizermenu" class="fertilizer">
+          <li><a href="#" title="Fertiliser">Fertiliser</a>
+            <ul>
+              <li><a href="https://164.100.128.10/mfmsReports/GenDealerDashboardListing" title="Dealers" target="_blank" class="fertilizerdealers">Dealers </a></li>
+              <li><a href="https://164.100.128.10/mfmsReports/GenDealerStockDashboardListing" target="_blank" class="fertiliseravalibility">Availability Information </a></li>
+              <li><a href="http://wbagrisnet.gov.in/SHC/SHC_home.aspx" title="Soil Test Report" target="_blank" class="soiltest">Soil Test Report </a></li>
+              <li><a href="soilfertilitymaps.html" title="Soil Fertility Maps" target="_self" class="soilmap">Soil Fertility Maps </a></li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul id="agromethomemenu" class="agromet">
+          <li><a href="#" title="Agromet Advisory">Agromet Advisory</a>
+            <ul>
+              <li><a href="http://www.imdagrimet.gov.in/node/3498" title="Agromet Advisory" target="_blank" class="language">English</a></li>
+              <li><a href="http://www.imdagrimet.gov.in/node/3498" title="Agromet Advisory" target="_blank" class="reglanguage">Regional Language</a></li>
+            </ul>
+          </li>
+        </ul>
+        
+         <ul id="farmerfriendlymenu" class="booklet">
+          <li><a href="#" title="Farmer Friendly Material">Farmer Friendly Material</a>
+            <ul>
+              <li><a href="booklets.html" title="Booklets &amp; Flyers" target="_self" class="flyers">Booklets &amp; Flyers</a></li>
+              <li><a href="handbooks.html" title="Handbooks" target="_self" class="language">Handbooks </a></li>
+              <li><a href="successstories.html" title="Success Stories" target="_self" class="language">Success Stories </a></li>
+              <li><a href="videofilms.html" title="Video Film" target="_self" class="reglanguage">Video Films</a></li>
+              <li><a href="audiofilms.html" title="Audio Film" target="_self" class="reglanguage">Audio Clips</a></li>
+            </ul>
+          </li>
+        </ul>
+        
+        <ul id="marketpricehomemenu" class="marketprice">
+          <li><a href="#" title="Market Price">Market Price</a>
+            <ul>
+              <li><a href="marketprice.html" title="Other Agri Commodities" target="_self" >Other Agri Commodities </a></li>
+              <li><a href="http://www.trifed.in/trifed/(S(pfgb3bhr5lla4itmhzu1k2xx))/present_status.aspx" title="Minor Forest Produce" target="_blank" class="reglanguage">Minor Forest Produce</a></li>
+            </ul>
+          </li>
+        </ul>
+        
+         <ul id="export" class="exportimport">
+          <li><a href="#" title="Exports & Imports">Exports & Imports</a>
+            <ul>
+<li><a href="http://farmer.gov.in/AgriExportZone/AgriExportReport.aspx" title="Agri Export Zones" target="_blank" class="reglanguage">Agri Export Zones</a></li>
+              <li><a href="imagedefault/About_AEZ.pdf" title="Benifit of Agri Export Zones" target="_blank" >Benefit of Agri Export Zones </a></li>
+              
+            </ul>
+          </li>
+        </ul>
+        
+       
+       <div class="drought">
+          <ul>
+            <li><a href="http://farmer.gov.in/Drought/Droughtreport.aspx" title="Drought Management" target="_blank">Drought Management </a></li>
+          </ul>
+        </div>
+        
+        <div class="economics">
+          <ul>
+            <li><a href="http://eands.dacnet.nic.in/" title="Economics &amp; Statistics" target="_blank">Economics &amp; Statistics </a></li>
+          </ul>
+        </div>
+        <div class="clear"></div>
+        
+        <div class="package">
+          <ul>
+            <li><a href="packagestate.html" title="Package of Practices" target="_blank" >Package of Practices </a></li>
+          </ul>
+        </div>
+        <div class="clear"></div>
+        
+        <div class="programmeandschemes">
+          <ul>
+            <li><a href="schemes.html" title="Programmes and Schemes" target="_self">Programmes and Schemes </a></li>
+          </ul>
+        </div>
+        <div class="clear"></div>
+        <div class="cssvalidator">
+          <p> <a title="Valid CSS! : External website that opens in a new window" href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank"> 
+          	<img style="border:0;width:88px;height:31px"
+                        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                        alt="Valid CSS!" /> </a> </p>
+        </div>
+        <div class="img"><img src="imagedefault/farmerfriend1.jpg" width="255" height="265" alt="About Us" /></div>
+        <div class="clear"></div>
+      </div>
+      <div class="bottom"></div>
+    </div>
+    
+    <div id="middlepnl">
+      <div class="top">
+        <h1 class="h1">Maize Pests And Diseases</h1>
+      </div>
+      <div class="middle"> <span class="titleboldnew1">Insect-pest management</span>
+        <p class="titleboldnew">Pink Borer (Sesamia inference)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td colspan="3">Sesamia inference occurs during winter season particularly in peninsular India. The moth of the Sesamia is nocturnal and lays eggs on lower leaf sheath. The larvae of the Sesamia enter the plant near the base and cause damage to stem.</td>
+          </tr>
+          <tr>
+            <td><img src="imagedefault/pestmaize3.png" width="200" height="133" alt="Pest Maize" /></td>
+            <td><img src="imagedefault/pestmaize4.png" width="200" height="133" alt="Pest Maize" /></td>
+            <td>Control of Chilo and Sesamia: For control of Chilo and Sesamia, foliar spray of 0.1 % Endosulfan {700 ml (35 EC) in 250 litre water} 10 days after germination is very effective. The Chilo can also be controlled by release of 8 Trichocards (Trichogramma chilonis) per hectare at 10 days after germination. Intercropping of maize with suitable varieties of cowpea is an eco-friendly option for reducing the incidence of Chilo on maize. </td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Shoot fly (Atherigona sp.)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td colspan="3">In South India it is a serious pest but it also appears on spring and summer maize crop in North India. It attack mainly at seedling stage of the crop. The tiny maggots creep down under the leaf sheaths till they reach the base of the seedlings. After this they cut the growing point or central shoot which results in to dead heart formation.</td>
+          </tr>
+          <tr>
+            <td><strong>Control of Shootfly</strong><br />
+              <br />
+              Sowing must be completed before first
+              week of February so that the crop will
+              escape shootfly infestation.<br />
+              <br />
+              Spring sowing must be accompanied
+              with seed treatment with Imidacloprid
+              @ 6ml/kg seed. </td>
+            <td colspan="2"><img src="imagedefault/pestmaize5.png" width="200" height="133" alt="Pest Maize" /></td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Stem Borer (Chilo partellus)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td>Major pest of maize in India is Stalk borer. Chilo partellus, popularly known as stalk borer that occurs during monsoon season is a major pest throughout the country. Chilo lays eggs 10-25 days after germination on lower side of the leaves. The larva of the Chilo enters in the whorl and cause damage in the leaves </td>
+            <td><img src="imagedefault/pestmaize1.png" width="200" height="133" alt="Pest Maize" /></td>
+            <td><img src="imagedefault/pestmaize2.png" width="200" height="133" alt="Pest Maize" /></td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Termites (Odontotermes obesus)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td colspan="2"><img src="imagedefault/pestmaize6.png" width="200" height="133" alt="Pest Maize" />.</td>
+            <td>Termite is also an important pest in many areas. For control of termite fepronil granules should be applied @ 20 kg ha-1 followed by light irrigation. If the termite incidence is in patches, than spot application of fepronil @ 2-3 granuled/plant should be done. Clean cultivation delays termite attack.</td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Other emerging pests</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td>Recently some other non-traditional pests are also causing damage to maize crop viz. larvae of American Bollworm (Helicoverpa armigera) which causes damage to cob in Southern part of India while the Chaffer beetle (Chiloloba acuta) feeds on maize pollen which adversely affects pollination in northern part of India.</td>
+            <td><img src="imagedefault/pestmaize7.png" width="200" height="133" alt="Pest Maize" />
+              <p><strong>American bollworm</strong></p></td>
+            <td><img src="imagedefault/pestmaize8.png" width="200" height="133" alt="Pest Maize" />
+              <p><strong>Chaffer beetle</strong></p></td>
+          </tr>
+        </table>
+        <span class="titleboldnew1">Disease Management</span>
+        <p class="para">Across the country several diseases occurs during different seasons, if they are not managed at proper time than they leads to yield loss. BLSB, Pythium stalk rot, Bacterial stalk rot, PFSRs, Polysora rust and Downy mildews are the major constraints to be tackled for realizing genetic potential yield of the crop. Estimated losses due to major diseases of maize in India is about 13.2% of which foliar diseases (5 %), stalk rots, root rots, ear rots (5 %) cause major yield losses. The major diseases and their management practices are described as below:</p>
+        <p class="titleboldnew">Turcicum leaf blight (Exserohilum turcicum)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td colspan="3">The disease is prevalent in cooler condition with high humidity of Jammu &amp; Kashmir, Himachal Pradesh, Sikkim, West Bengal, Meghalaya, Tripura, Assam, Rajasthan, Uttar Pradesh, Uttarakhand, Bihar, Madhya Pradesh, Gujrat, Maharashtra, Andhra Pradesh, Karnataka and Tamil Nadu. Long, elliptical, grayish green or tan lesions (2.5-15 cm) appear on lower leaves progressing upward. Grow PEMH-5, Vivek 21, Vivek 23, Vivek 25, Pratap Kanchan 2, Nithyashree in the recommended areas followed by need based sprays of mancozeb @ 2.5 g/litre (with adjuant @ 0.05%) at 8-10 days interval.</td>
+          </tr>
+          <tr>
+            <td colspan="3"><img src="imagedefault/pestmaize9.png" width="200" height="133" alt="Pest Maize" /> &nbsp; &nbsp; <img src="imagedefault/pestmaize10.png" width="200" height="133" alt="Pest Maize" /> &nbsp; &nbsp; <img src="imagedefault/pestmaize11.png" width="200" height="133" alt="Pest Maize" /></td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Turcicum leaf blight (Exserohilum turcicum)</p>
+        <div class="clear"></div>
+        <table align="center" cellpadding="15" cellspacing="0" class="rounded-corners" >
+          <tr>
+            <td>It is a major disease in the states of Jammu &amp; Kashmir, Himachal Pradesh, Sikkim, Meghalaya, Punjab, Haryana, Rajasthan, Delhi, Uttar Pradesh, Bihar, Madhya Pradesh, Gujrat, Maharashtra, Andhra Pradesh, Karnataka and Tamil Nadu having warm humid temperate to tropical climate in the cropping period. Lesions on the leaves elongated between the veins, tan with buff to brown or dark reddish brown borders. Lesion size may vary in inbreds and hybrids due to different genetic backgrounds. Growing of HM 10, PAU 352, Malviya Hybrid Makka 2, EMH 1, HQPM 7, HQPM 5, HQPM 1, Shaktiman 3, Shaktiman 4, PEMH– 5, HQPM-4, and HSC-1 with need based sprays of mancozeb or zineb @ 2.5g/litre of water.</td>
+            <td><img src="imagedefault/pestmaize12.png" width="200" height="133" alt="Pest Maize" /></td>
+            <td><img src="imagedefault/pestmaize13.png" width="200" height="133" alt="Pest Maize" /></td>
+          </tr>
+        </table>
+        <p class="titleboldnew">Common rust (Puccinia sorghi)</p>
+        <p class="para">This rust attacks in the maize growing areas with subtropical temperate and high land environment of Jammu &amp; Kashmir, Himachal Pradesh, Sikkim, Meghalaya, West Bengal, Punjab (Rabi), Haryana (Rabi), Rajasthan, Uttar Pradesh, Bihar (Rabi), Madhya Pradesh, Maharashtra, Andhra Pradesh, Karnataka and Tamil Nadu. It appears at the time of tasseling. The circular to elongate, golden brown to cinnamon brown pustules are visible over both leaf surfaces changing to brownish black at plant maturity. Adopt promising hybrids/ varieties viz.; Buland, Sheetal, HHM 1, HHM 2 and HQPM 1, Nithyashree. Spray of mancozeb@ 2.5g/litre of water at first appearance of pustules. Prefer early maturing varieties.</p>
+        <div class="clear"></div>
+      </div>
+      <div class="bottom"></div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+<div id="footer">
+  <div id="footerlinks">
+    <ul class="footermargin">
+      <li><a href="FarmerHome.aspx" title="Home Page">Home</a></li>
+      <li><a href="aboutus.html" title="About Us">About Us</a></li>
+      <li><a href="help.html" title="Help">Help</a></li>
+      <li><a href="http://agricoop.nic.in/weather.html" title="Weather Forecast" target="_blank">Weather Forecast</a></li>
+      <!--<li><a href="#" title="Queries">Queries </a></li>-->
+      <li><a href="feedback/Default.aspx" title="Feedback">Feedback </a></li>
+      <li><a href="http://agricoop.nic.in/ecitizen.html" title="RTI" target="_self">RTI</a></li>
+      <li><a href="sitemap.html" title="Sitemap">Sitemap</a></li>
+      <li><a href="accessibility.html" title="Accessibility Statement">Accessibility Statement</a></li>
+      <li class="last"><a href="websitepolicy.html" title="Website Policy">Website Policy </a></li>
+    </ul>
+  </div>
+ <div id="owner">
+                This website belongs to Department of Agriculture &amp; Cooperation,<br />
+              Ministry of Agriculture & Farmers Welfare, Government of India<br />
+                <!-- #BeginDate format:Sw1 -->17 August, 2015<!-- #EndDate -->
+                
+                </div></div>
+
+</body>
+</html>
