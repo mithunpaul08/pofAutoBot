@@ -6,6 +6,8 @@
 import requests, bs4, sys, webbrowser, html2text, os , PyPDF2, urllib2, smtplib, re, json
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
+import mechanize
+import cookielib
 
 
 #uncomment these 2 lines of code if you get the below error. Some unicode encoding stuff
@@ -15,15 +17,15 @@ sys.setdefaultencoding('utf8')
 
 stubFilename='carIdHashTable.json'
 queryStringStubForTucson='http://tucson.craigslist.org/search/cto?'
-actualQueryString='http://tucson.craigslist.org/search/cto?sort=priceasc&min_price=1&max_price=6000&auto_make_model=honda+%7C+toyota&min_auto_year=2001&max_auto_year=2016&min_auto_miles=300&max_auto_miles=110000&auto_title_status=1&auto_transmission=2'
+firstQueryString='http://www.pof.com/'
 numberOfGoogleResults=1000
 startValue=1
 stubUrlForTucsonCLInnerpages='http://tucson.craigslist.org/'
 stubUrlForPhxCLInnerpages='http://phoenix.craigslist.org/'
-gmailUsername="mithunpaul08@gmail.com"
+username=""
 #the values can be manual, automatic, or both
 transmission="both"
-gmailPwd=""
+pwd=""
 fromaddr="mithunpaul08@gmail.com"
 toaddr="mithunpaul08@gmail.com"
 #toaddr="jchebet@email.arizona.edu"
@@ -31,7 +33,7 @@ subjectForEmail= "Today's details of the used cars in tucson/phoenix area you as
 carbonCopy = "mithunpaul08@gmail.com"
 #if on laptop dont switch path. This is required because cron runs as a separate process in a separate directory in chung
 #turn this to true, if pushing to run on chung.cs.arizona.edu
-isRunningOnServer=True;
+isRunningOnServer=False;
 firstTimeRun=False;
 
 
@@ -46,10 +48,12 @@ path = "/home/mithunpaul/allResearch/clscraper/main/src/"
 #path = "/home/mithunpaul/allResearch/clscraper/main/src/"
 
 #toget to:email id and my gmail password from command line
-if(len(sys.argv)>2):
-    gmailPwd=sys.argv[1]
-    if (sys.argv[2]) is not None:
-        toaddr = sys.argv[2]
+if(len(sys.argv)>1):
+    username=sys.argv[1]
+    pwd = sys.argv[2]
+    print("username:"+username)
+    print("pwd:" + pwd)
+
 else:
     print("not enough arguments in Command Line. Exiting.")
     sys.exit(1)
@@ -179,6 +183,51 @@ def writeToFileAsJson(myhashTable, filename):
 
 def parseGResults(myQS):
     try:
+        #code from http://stackoverflow.com/questions/20039643/how-to-scrape-a-website-that-requires-login-first-with-python
+        # Browser
+        br = mechanize.Browser()
+
+        # Cookie Jar
+        cj = cookielib.LWPCookieJar()
+        br.set_cookiejar(cj)
+
+        # Browser options
+        br.set_handle_equiv(True)
+        br.set_handle_gzip(True)
+        br.set_handle_redirect(True)
+        br.set_handle_referer(True)
+        br.set_handle_robots(False)
+        br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+
+        br.addheaders = [('User-agent', 'Chrome')]
+
+        # The site we will navigate into, handling it's session
+        br.open(myQS)
+
+        # View available forms
+        for f in br.forms():
+            print f
+
+        # Select the second (index one) form (the first form is a search query box)
+        br.select_form(nr=0)
+
+        # User credentials
+        br.form['username'] = username
+        br.form['password'] = pwd
+
+        # Login
+        br.submit()
+
+        print(br.open('http://www.pof.com/viewultramatches.aspx').read())
+
+
+
+
+
+
+
+
+
         #3. read from file to hashtable
         carIdHashTable = {}
         # 1. store to hash table- in first pass
@@ -191,7 +240,7 @@ def parseGResults(myQS):
         carIdHashTable=readFromJsonToHashtable(stubFilename)
         carObjectToBuildQuery = myCar()
         fillSearchQueryAttributes(carObjectToBuildQuery)
-        queryStringToSearch=createQueryObject(queryStringStubForTucson,carObjectToBuildQuery)
+        queryStringToSearch=firstQueryString
         #urrlib2 is a version of beautiful soup that raises a http request for you
         try:
             url = urllib2.urlopen(queryStringToSearch)
@@ -334,5 +383,5 @@ if(isRunningOnServer):
     os.chdir( path )
 
 
-parseGResults(actualQueryString)
+parseGResults(firstQueryString)
 
