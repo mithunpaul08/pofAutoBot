@@ -54,8 +54,8 @@ path = "/home/mithunpaul/allResearch/clscraper/main/src/"
 if(len(sys.argv)>1):
     username=sys.argv[1]
     pwd = sys.argv[2]
-    print("username:"+username)
-    print("pwd:" + pwd)
+    #print("username:"+username)
+   # print("pwd:" + pwd)
 
 else:
     print("not enough arguments in Command Line. Exiting.")
@@ -208,8 +208,8 @@ def parseGResults(myQS):
         br.open(myQS)
 
         # View available forms
-        for f in br.forms():
-            print f
+        # for f in br.forms():
+        #     print f
 
         # Select the second (index one) form (the first form is a search query box)
         br.select_form(nr=0)
@@ -253,14 +253,14 @@ def parseGResults(myQS):
                     if (linkToNextPage != None):
                         print("\n")
                         profilePageUrl = stubUrlForPof + linkToNextPage
-                        print(profilePageUrl)
+                        #print(profilePageUrl)
                         # once you get the link to the person'as profile, open and go into that page.
 
 
                         try:
                             br.open(profilePageUrl)
-                            for f in br.forms():
-                                print f
+                            #for f in br.forms():
+                                #print f
 
                             # Select the first form (the first form is the quick message form)
                             br.select_form(nr=0)
@@ -271,6 +271,7 @@ def parseGResults(myQS):
 
                             # submit the text
                             br.submit()
+                            print("sent message to "+profilePageUrl)
 
                         except urllib2.HTTPError, e:
                             print('HTTPError = ' + str(e.code))
