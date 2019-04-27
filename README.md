@@ -1,8 +1,8 @@
 # pre reqs
 
 python 2.7
-pip install requests
-pip install bs4
+# then do
+./pipinstalls.sh
 
 # This is how you should run this code from command line
 
