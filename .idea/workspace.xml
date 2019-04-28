@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7430fa6e-8ddf-4a60-99c1-32d31d19ee6b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/scraper.py" afterPath="$PROJECT_DIR$/main/src/scraper.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipInstalls.sh" beforeDir="false" afterPath="$PROJECT_DIR$/pipInstalls.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +14,26 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1361277316">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="pofAutoBot" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="scraper.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+            <state relative-caret-position="130">
+              <caret line="186" column="17" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="17" />
               <folding>
                 <element signature="e#134#223#0" expanded="true" />
               </folding>
@@ -32,66 +41,66 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dumpOfViewMatches.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/src/dumpOfViewMatches.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="567" column="80" lean-forward="false" selection-start-line="567" selection-start-column="64" selection-end-line="567" selection-end-column="80" />
+            <state relative-caret-position="8505">
+              <caret line="567" column="80" selection-start-line="567" selection-start-column="64" selection-end-line="567" selection-end-column="80" />
               <folding>
                 <element signature="e#3780#3787#0" expanded="true" />
                 <element signature="e#30878#30884#1" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-                <element signature="n#span#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#sup#0;n#span#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#sup#0;n#a#1;n#div#0;n#div#2;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+                <element signature="e#31123#31149#0" expanded="true" />
+                <element signature="e#33719#35078#0" />
+                <element signature="e#35157#35513#0" />
+                <element signature="e#35253#35280#0" expanded="true" />
+                <element signature="e#35660#35712#0" expanded="true" />
+                <element signature="e#35813#35847#0" expanded="true" />
+                <element signature="e#35954#35987#0" expanded="true" />
+                <element signature="e#36419#36445#0" expanded="true" />
+                <element signature="e#36526#38787#0" />
+                <element signature="e#36646#36666#0" expanded="true" />
+                <element signature="e#36932#36952#0" expanded="true" />
+                <element signature="e#37225#37245#0" expanded="true" />
+                <element signature="e#37494#37514#0" expanded="true" />
+                <element signature="e#37821#37841#0" expanded="true" />
+                <element signature="e#38090#38110#0" expanded="true" />
+                <element signature="e#38360#38380#0" expanded="true" />
+                <element signature="e#38621#38641#0" expanded="true" />
+                <element signature="e#38869#38889#0" expanded="true" />
+                <element signature="e#39135#39155#0" expanded="true" />
+                <element signature="e#39441#39461#0" expanded="true" />
+                <element signature="e#39709#39729#0" expanded="true" />
                 <element signature="e#39939#39945#0" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+                <element signature="e#40039#40059#0" expanded="true" />
                 <element signature="e#40274#40280#0" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+                <element signature="e#40316#40336#0" expanded="true" />
+                <element signature="e#40501#40521#0" expanded="true" />
+                <element signature="e#40750#40770#0" expanded="true" />
+                <element signature="e#41115#41135#0" expanded="true" />
+                <element signature="e#41376#41396#0" expanded="true" />
+                <element signature="e#41561#41581#0" expanded="true" />
+                <element signature="e#41867#41887#0" expanded="true" />
+                <element signature="e#42194#42214#0" expanded="true" />
+                <element signature="e#42463#42483#0" expanded="true" />
                 <element signature="e#42698#42704#0" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#6;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+                <element signature="e#42740#42760#0" expanded="true" />
+                <element signature="e#43011#43031#0" expanded="true" />
+                <element signature="e#43339#43359#0" expanded="true" />
+                <element signature="e#43608#43628#0" expanded="true" />
+                <element signature="e#43793#43813#0" expanded="true" />
+                <element signature="e#44062#44082#0" expanded="true" />
+                <element signature="e#44388#44408#0" expanded="true" />
+                <element signature="e#44657#44677#0" expanded="true" />
+                <element signature="e#44925#44945#0" expanded="true" />
+                <element signature="e#45117#45137#0" expanded="true" />
+                <element signature="e#45443#45463#0" expanded="true" />
+                <element signature="e#45712#45732#0" expanded="true" />
+                <element signature="e#45975#45995#0" expanded="true" />
+                <element signature="e#46245#46265#0" expanded="true" />
+                <element signature="e#46572#46592#0" expanded="true" />
+                <element signature="e#46840#46860#0" expanded="true" />
+                <element signature="e#47108#47128#0" expanded="true" />
+                <element signature="e#47377#47397#0" expanded="true" />
                 <element signature="e#48010#48016#0" expanded="true" />
                 <element signature="e#48016#48022#0" expanded="true" />
                 <element signature="e#48022#48028#0" expanded="true" />
@@ -111,61 +120,39 @@
                 <element signature="e#48294#48300#0" expanded="true" />
                 <element signature="e#48300#48306#0" expanded="true" />
                 <element signature="e#48868#48873#0" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#4;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#6;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#td#7;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#center#8;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+                <element signature="e#50154#50173#0" expanded="true" />
+                <element signature="e#50284#50303#0" expanded="true" />
+                <element signature="e#50384#50404#0" expanded="true" />
+                <element signature="e#53113#53136#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_mechanize.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/mechanize/_mechanize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="419" column="0" lean-forward="false" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pipInstalls.sh" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pipInstalls.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="element.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/bs4/element.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="1007" column="0" lean-forward="false" selection-start-line="1007" selection-start-column="0" selection-end-line="1007" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="httplib.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="8595">
+              <caret line="579" selection-start-line="579" selection-end-line="579" />
             </state>
           </provider>
         </entry>
@@ -193,6 +180,7 @@
       <find>inbox.asp</find>
       <find>viewmatches.aspx</find>
       <find>print</find>
+      <find>parseGResults</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -201,10 +189,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pipInstalls.sh" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/main/src/dumpOfViewMatches.html" />
         <option value="$PROJECT_DIR$/main/src/scraper.py" />
+        <option value="$PROJECT_DIR$/pipInstalls.sh" />
       </list>
     </option>
   </component>
@@ -217,89 +205,41 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pofAutoBot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pofAutoBot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="pof" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pof" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.scraper">
-    <configuration default="false" name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/src" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/src/scraper.py" />
-      <option name="PARAMETERS" value="mpaul588 Alohomora1" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,103 +259,35 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pofAutoBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/src" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/src/scraper.py" />
+      <option name="PARAMETERS" value="mpaul588 Alohomora1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pofAutoBot" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.scraper" />
-    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.scraper" />
+      <list>
+        <item itemvalue="Python.scraper" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -428,26 +300,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="735" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.51" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3993994" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.51" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32882884" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -481,6 +353,11 @@
           <line>287</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main/src/scraper.py</url>
+          <line>207</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -492,102 +369,80 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="29" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py">
+    <entry file="file:///Library/Python/2.7/site-packages/mechanize/_mechanize.py" />
+    <entry file="file:///Library/Python/2.7/site-packages/bs4/element.py" />
+    <entry file="file://$PROJECT_DIR$/main/src/scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="579" column="0" lean-forward="false" selection-start-line="579" selection-start-column="0" selection-end-line="579" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pipInstalls.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/mechanize/_mechanize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="419" column="0" lean-forward="false" selection-start-line="419" selection-start-column="0" selection-end-line="419" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="130">
+          <caret line="186" column="17" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="17" />
+          <folding>
+            <element signature="e#134#223#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/src/dumpOfViewMatches.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="567" column="80" lean-forward="false" selection-start-line="567" selection-start-column="64" selection-end-line="567" selection-end-column="80" />
+        <state relative-caret-position="8505">
+          <caret line="567" column="80" selection-start-line="567" selection-start-column="64" selection-end-line="567" selection-end-column="80" />
           <folding>
             <element signature="e#3780#3787#0" expanded="true" />
             <element signature="e#30878#30884#1" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-            <element signature="n#span#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#sup#0;n#span#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#sup#0;n#a#1;n#div#0;n#div#2;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#0;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#1;n#center#1;n#div#5;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+            <element signature="e#31123#31149#0" expanded="true" />
+            <element signature="e#33719#35078#0" />
+            <element signature="e#35157#35513#0" />
+            <element signature="e#35253#35280#0" expanded="true" />
+            <element signature="e#35660#35712#0" expanded="true" />
+            <element signature="e#35813#35847#0" expanded="true" />
+            <element signature="e#35954#35987#0" expanded="true" />
+            <element signature="e#36419#36445#0" expanded="true" />
+            <element signature="e#36526#38787#0" />
+            <element signature="e#36646#36666#0" expanded="true" />
+            <element signature="e#36932#36952#0" expanded="true" />
+            <element signature="e#37225#37245#0" expanded="true" />
+            <element signature="e#37494#37514#0" expanded="true" />
+            <element signature="e#37821#37841#0" expanded="true" />
+            <element signature="e#38090#38110#0" expanded="true" />
+            <element signature="e#38360#38380#0" expanded="true" />
+            <element signature="e#38621#38641#0" expanded="true" />
+            <element signature="e#38869#38889#0" expanded="true" />
+            <element signature="e#39135#39155#0" expanded="true" />
+            <element signature="e#39441#39461#0" expanded="true" />
+            <element signature="e#39709#39729#0" expanded="true" />
             <element signature="e#39939#39945#0" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+            <element signature="e#40039#40059#0" expanded="true" />
             <element signature="e#40274#40280#0" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#div#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+            <element signature="e#40316#40336#0" expanded="true" />
+            <element signature="e#40501#40521#0" expanded="true" />
+            <element signature="e#40750#40770#0" expanded="true" />
+            <element signature="e#41115#41135#0" expanded="true" />
+            <element signature="e#41376#41396#0" expanded="true" />
+            <element signature="e#41561#41581#0" expanded="true" />
+            <element signature="e#41867#41887#0" expanded="true" />
+            <element signature="e#42194#42214#0" expanded="true" />
+            <element signature="e#42463#42483#0" expanded="true" />
             <element signature="e#42698#42704#0" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#1;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#3;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#6;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#4;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#center#5;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+            <element signature="e#42740#42760#0" expanded="true" />
+            <element signature="e#43011#43031#0" expanded="true" />
+            <element signature="e#43339#43359#0" expanded="true" />
+            <element signature="e#43608#43628#0" expanded="true" />
+            <element signature="e#43793#43813#0" expanded="true" />
+            <element signature="e#44062#44082#0" expanded="true" />
+            <element signature="e#44388#44408#0" expanded="true" />
+            <element signature="e#44657#44677#0" expanded="true" />
+            <element signature="e#44925#44945#0" expanded="true" />
+            <element signature="e#45117#45137#0" expanded="true" />
+            <element signature="e#45443#45463#0" expanded="true" />
+            <element signature="e#45712#45732#0" expanded="true" />
+            <element signature="e#45975#45995#0" expanded="true" />
+            <element signature="e#46245#46265#0" expanded="true" />
+            <element signature="e#46572#46592#0" expanded="true" />
+            <element signature="e#46840#46860#0" expanded="true" />
+            <element signature="e#47108#47128#0" expanded="true" />
+            <element signature="e#47377#47397#0" expanded="true" />
             <element signature="e#48010#48016#0" expanded="true" />
             <element signature="e#48016#48022#0" expanded="true" />
             <element signature="e#48022#48028#0" expanded="true" />
@@ -607,29 +462,38 @@
             <element signature="e#48294#48300#0" expanded="true" />
             <element signature="e#48300#48306#0" expanded="true" />
             <element signature="e#48868#48873#0" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#4;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#6;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#td#7;n#tr#0;n#table#0;n#form#0;n#center#0;n#span#0;n#div#2;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#center#8;n#body#0;n#html#0;n#None#0;n#!!top" expanded="true" />
+            <element signature="e#50154#50173#0" expanded="true" />
+            <element signature="e#50284#50303#0" expanded="true" />
+            <element signature="e#50384#50404#0" expanded="true" />
+            <element signature="e#53113#53136#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="1007" column="0" lean-forward="false" selection-start-line="1007" selection-start-column="0" selection-end-line="1007" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/scraper.py">
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="273" column="0" lean-forward="false" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
-          <folding>
-            <element signature="e#134#223#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="8595">
+          <caret line="579" selection-start-line="579" selection-end-line="579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pipInstalls.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
