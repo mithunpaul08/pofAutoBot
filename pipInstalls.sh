@@ -4,4 +4,5 @@ pip install PyPDF2
 pip install html2text
 pip install mechanize
 pip install cookiejar
+pip install lxml
 

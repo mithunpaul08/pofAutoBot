@@ -21,7 +21,7 @@ queryStringStubForTucson='http://tucson.craigslist.org/search/cto?'
 queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=23&agehigh=99&miles=10&contacted=2&cmdSearch=Refine+Matches'
 firstQueryString='http://www.pof.com/'
 numberOfGoogleResults=1000
-stubMessage='Hey, nice profile. Must say you have a very nice smile. Are you from Tucson originally?'
+stubMessage='Hey, nice profile. You also have a very nice smile. Are you from Tucson originally?'
 startValue=1
 stubUrlForPof='http://www.pof.com/'
 stubUrlForTucsonCLInnerpages='http://tucson.craigslist.org/'
