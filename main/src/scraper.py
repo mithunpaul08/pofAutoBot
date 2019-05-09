@@ -8,6 +8,7 @@ from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 import mechanize
 import cookielib
+import ssl
 
 
 #uncomment these 2 lines of code if you get the below error. Some unicode encoding stuff
@@ -203,6 +204,15 @@ def parseGResults(myQS):
         br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 
         br.addheaders = [('User-agent', 'Chrome')]
+
+        try:
+            _create_unverified_https_context = ssl._create_unverified_context
+        except AttributeError:
+            # Legacy Python that doesn't verify HTTPS certificates by default
+            pass
+        else:
+            # Handle target environment that doesn't support HTTPS verification
+            ssl._create_default_https_context = _create_unverified_https_context
 
         # The site we will navigate into, handling it's session
         br.open(myQS)
