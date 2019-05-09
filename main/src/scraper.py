@@ -22,7 +22,7 @@ queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=25&agehigh
 queryStringForBasicSearchPage='https://www.pof.com/basicsearch.aspx'
 firstQueryString='http://www.pof.com/'
 numberOfGoogleResults=1000
-stubMessage='Hey, nice profile. You also have a very nice smile. Are you from Tucson originally?'
+stubMessage='Hey, nice profile. Love your smile. Are you from Tucson originally?'
 startValue=1
 stubUrlForPof='http://www.pof.com/'
 stubUrlForTucsonCLInnerpages='http://tucson.craigslist.org/'
