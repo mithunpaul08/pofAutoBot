@@ -18,7 +18,8 @@ sys.setdefaultencoding('utf8')
 
 stubFilename='carIdHashTable.json'
 queryStringStubForTucson='http://tucson.craigslist.org/search/cto?'
-queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=23&agehigh=99&miles=10&contacted=2&cmdSearch=Refine+Matches'
+queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=25&agehigh=35&miles=10&contacted=2&cmdSearch=Refine+Matches'
+queryStringForBasicSearchPage='https://www.pof.com/basicsearch.aspx'
 firstQueryString='http://www.pof.com/'
 numberOfGoogleResults=1000
 stubMessage='Hey, nice profile. You also have a very nice smile. Are you from Tucson originally?'
@@ -39,7 +40,7 @@ carbonCopy = "mithunpaul08@gmail.com"
 #turn this to true, if pushing to run on chung.cs.arizona.edu
 isRunningOnServer=False;
 firstTimeRun=False;
-
+useBasicSearchPage=False
 
 if(firstTimeRun):
     bodyOfEmail="Hi, \n Here is a list of all the cars found today in Craigslist. This is the very first email of craigslist scraping for used cars. Tomorrow onwards you will be shown only new hits that were not sent today. These are the parameters used for this query:\n\n"
@@ -234,7 +235,11 @@ def parseGResults(myQS):
         try:
             #note:queryStringForViewMatches already contains the clause: havent contacted before. You dont want to spam
             #someone you have already contacted and then get blocked
-            url=br.open(queryStringForViewMatches)
+            if(useBasicSearchPage):
+                url=br.open(queryStringForBasicSearchPage)
+            else:
+                url = br.open(queryStringForViewMatches)
+
             #url = urllib2.urlopen(queryStringToSearch)
         except urllib2.HTTPError, e:
             print('HTTPError = ' + str(e.code))
@@ -253,7 +258,9 @@ def parseGResults(myQS):
         # parse the content into a format that soup understands
         soup = bs4.BeautifulSoup(content, "lxml")
         # for each of the hyperlinks in the page
+        counter=0
         for link in soup.find_all('a'):
+
             #print(link)
             classResult = link.get('class')
             if (classResult != None):
@@ -281,6 +288,7 @@ def parseGResults(myQS):
 
                             # submit the text
                             br.submit()
+                            counter=counter+1
                             print("sent message to "+profilePageUrl)
 
                         except urllib2.HTTPError, e:
@@ -295,6 +303,7 @@ def parseGResults(myQS):
                         #else:
                             #profilePageDetails = profilePage.read()
 
+        print("done sending messages to "+str(counter) +"people")
         sys.exit(1)
 
 
