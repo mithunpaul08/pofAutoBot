@@ -25,6 +25,7 @@ numberOfGoogleResults=1000
 stubMessage='Hey, nice profile. Love your smile. Are you from Tucson originally?'
 startValue=1
 stubUrlForPof='http://www.pof.com/'
+stubUrlForBasicSearchPage='http://www.pof.com/'
 stubUrlForTucsonCLInnerpages='http://tucson.craigslist.org/'
 stubUrlForPhxCLInnerpages='http://phoenix.craigslist.org/'
 username=""
@@ -40,7 +41,7 @@ carbonCopy = "mithunpaul08@gmail.com"
 #turn this to true, if pushing to run on chung.cs.arizona.edu
 isRunningOnServer=False;
 firstTimeRun=False;
-useBasicSearchPage=False
+useBasicSearchPage=True
 
 if(firstTimeRun):
     bodyOfEmail="Hi, \n Here is a list of all the cars found today in Craigslist. This is the very first email of craigslist scraping for used cars. Tomorrow onwards you will be shown only new hits that were not sent today. These are the parameters used for this query:\n\n"
@@ -179,6 +180,142 @@ def readFromJsonToHashtable(filename):
             carIdHashTable = {}
     return htMyTable
 
+def send_from_basic_search_page(br,queryStringForViewMatches):
+        already_sent_today={'viewprofile.aspx?profile_id=82509149':1}
+        try:
+            url = br.open(queryStringForViewMatches)
+        except urllib2.HTTPError, e:
+            print('HTTPError = ' + str(e.code))
+        except urllib2.URLError, e:
+            print('URLError = ' + str(e.reason))
+        except httplib.HTTPException, e:
+            print('HTTPException')
+        except Exception:
+            import traceback
+            print('generic exception: ' + traceback.format_exc())
+        else:
+            content = url.read()
+
+        print("succesfully logged into pof")
+        # parse the content into a format that soup understands
+        soup = bs4.BeautifulSoup(content, "lxml")
+        # for each of the hyperlinks in the page
+        counter = 0
+        for link in soup.find_all('a'):
+            # print(link)
+            classResult = link.get('class')
+            if (classResult != None):
+                    # if the class exists, get the link, if its not null
+                    linkToNextPage = link.get('href')
+                    if (linkToNextPage != None):
+                        #check if this hyperlink has a profile id
+                        if("profile_id" in  linkToNextPage):
+                            #profile_id=74824023 is my own id
+                            if  not ("profile_id=74824023" in linkToNextPage):
+                                profilePageUrl = stubUrlForBasicSearchPage + linkToNextPage
+                            # print(profilePageUrl)
+                            # once you get the link to the person'as profile, open and go into that page.
+                            else:
+                                continue
+                        else:
+                            continue
+
+                        try:
+                            br.open(profilePageUrl)
+                            # for f in br.forms():
+                            # print f
+
+                            # Select the first form (the first form is the quick message form)
+                            br.select_form(nr=0)
+
+                            # User credentials
+                            br.form['message'] = stubMessage
+
+                            # submit the text
+                            if not(linkToNextPage in already_sent_today.keys()):
+                                br.submit()
+                                already_sent_today[linkToNextPage]=1
+                            else:
+                                continue
+
+                            counter = counter + 1
+                            print("sent message to " + profilePageUrl)
+
+                        except Exception:
+                            import traceback
+
+                            print('generic exception: ' + traceback.format_exc())
+                        # else:
+                        # profilePageDetails = profilePage.read()
+
+        print("done sending messages to " + str(counter) + "people")
+        sys.exit(1)
+
+
+def send_from_view_matches_page(br,queryStringForViewMatches):
+    try:
+        url = br.open(queryStringForViewMatches)
+    except urllib2.HTTPError, e:
+        print('HTTPError = ' + str(e.code))
+    except urllib2.URLError, e:
+        print('URLError = ' + str(e.reason))
+    except httplib.HTTPException, e:
+        print('HTTPException')
+    except Exception:
+        import traceback
+        print('generic exception: ' + traceback.format_exc())
+    else:
+        content = url.read()
+
+    print("succesfully logged into pof")
+    # parse the content into a format that soup understands
+    soup = bs4.BeautifulSoup(content, "lxml")
+    # for each of the hyperlinks in the page
+    counter = 0
+    for link in soup.find_all('a'):
+        # print(link)
+        classResult = link.get('class')
+        if (classResult != None):
+            if ("mi" in classResult):
+                # if the class exists, get the link, if its not null
+                linkToNextPage = link.get('href')
+                if (linkToNextPage != None):
+                    print("\n")
+                    profilePageUrl = stubUrlForPof + linkToNextPage
+                    # print(profilePageUrl)
+                    # once you get the link to the person'as profile, open and go into that page.
+
+                    try:
+                        br.open(profilePageUrl)
+                        # for f in br.forms():
+                        # print f
+
+                        # Select the first form (the first form is the quick message form)
+                        br.select_form(nr=0)
+
+                        # User credentials
+                        br.form['message'] = stubMessage
+
+                        # submit the text
+                        # br.submit()
+                        counter = counter + 1
+                        print("sent message to " + profilePageUrl)
+
+                    except urllib2.HTTPError, e:
+                        print('HTTPError = ' + str(e.code))
+                    except urllib2.URLError, e:
+                        print('URLError = ' + str(e.reason))
+                    except httplib.HTTPException, e:
+                        print('HTTPException')
+                    except Exception:
+                        import traceback
+
+                        print('generic exception: ' + traceback.format_exc())
+                    # else:
+                    # profilePageDetails = profilePage.read()
+
+    print("done sending messages to " + str(counter) + "people")
+    sys.exit(1)
 
 def writeToFileAsJson(myhashTable, filename):
     # save to file:
@@ -236,83 +373,17 @@ def parseGResults(myQS):
             #note:queryStringForViewMatches already contains the clause: havent contacted before. You dont want to spam
             #someone you have already contacted and then get blocked
             if(useBasicSearchPage):
-                url=br.open(queryStringForBasicSearchPage)
+                send_from_basic_search_page(br,queryStringForBasicSearchPage)
             else:
-                url = br.open(queryStringForViewMatches)
-
-            #url = urllib2.urlopen(queryStringToSearch)
-        except urllib2.HTTPError, e:
-            print('HTTPError = ' + str(e.code))
-        except urllib2.URLError, e:
-            print('URLError = ' + str(e.reason))
-        except httplib.HTTPException, e:
-            print('HTTPException')
-        except Exception:
+                send_from_view_matches_page(br,queryStringForViewMatches)
+        except:
             import traceback
             print('generic exception: ' + traceback.format_exc())
-        else:
-            content = url.read()
-
-
-        print("succesfully logged into pof")
-        # parse the content into a format that soup understands
-        soup = bs4.BeautifulSoup(content, "lxml")
-        # for each of the hyperlinks in the page
-        counter=0
-        for link in soup.find_all('a'):
-
-            #print(link)
-            classResult = link.get('class')
-            if (classResult != None):
-                if ("mi" in classResult):
-                    # if the class exists, get the link, if its not null
-                    linkToNextPage = link.get('href')
-                    if (linkToNextPage != None):
-                        print("\n")
-                        profilePageUrl = stubUrlForPof + linkToNextPage
-                        #print(profilePageUrl)
-                        # once you get the link to the person'as profile, open and go into that page.
-
-
-                        try:
-                            br.open(profilePageUrl)
-                            #for f in br.forms():
-                                #print f
-
-                            # Select the first form (the first form is the quick message form)
-                            br.select_form(nr=0)
-
-                            # User credentials
-                            br.form['message'] = stubMessage
-
-
-                            # submit the text
-                            br.submit()
-                            counter=counter+1
-                            print("sent message to "+profilePageUrl)
-
-                        except urllib2.HTTPError, e:
-                            print('HTTPError = ' + str(e.code))
-                        except urllib2.URLError, e:
-                            print('URLError = ' + str(e.reason))
-                        except httplib.HTTPException, e:
-                            print('HTTPException')
-                        except Exception:
-                            import traceback
-                            print('generic exception: ' + traceback.format_exc())
-                        #else:
-                            #profilePageDetails = profilePage.read()
-
-        print("done sending messages to "+str(counter) +"people")
-        sys.exit(1)
-
-
 
     except:
-        #print('generic exception: ')
         import traceback
         print('generic exception: ' + traceback.format_exc())
-        #+sys.exc_info()[0])
+
 
 
 
