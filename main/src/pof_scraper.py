@@ -3,7 +3,7 @@
 #todo
 #add ssh
 
-import  bs4, sys, html2text, os , json
+import  bs4, sys, html2text, os , json, urllib
 import mechanize
 import ssl
 from http.cookiejar import CookieJar
@@ -155,7 +155,10 @@ def send_from_basic_search_page(br,queryStringForViewMatches):
         sys.exit(1)
 
 
-def send_from_view_matches_page(br,queryStringForViewMatches):
+#from the landing page e.g. www.pof.com find the link to login page. Have to do it this
+#way because many sites have no form in landpage\login
+# #todo: make this a general function that will work for other sites also
+def find_login_page(br, queryStringForViewMatches):
     try:
         url = br.open(queryStringForViewMatches)
     except urllib2.HTTPError as e:
@@ -184,14 +187,14 @@ def send_from_view_matches_page(br,queryStringForViewMatches):
                 linkToNextPage = link.get('href')
                 if (linkToNextPage != None):
                     print("\n")
-                    profilePageUrl = stubUrlForPof + linkToNextPage
+                    loginPageUrl = stubUrlForPof + linkToNextPage
                     # print(profilePageUrl)
                     # once you get the link to the person'as profile, open and go into that page.
 
                     try:
-                        br.open(profilePageUrl)
-                        # for f in br.forms():
-                        # print f
+                        login_page_content = bs4.BeautifulSoup(br.open(loginPageUrl), "lxml")
+                        for form in login_page_content.find_all('form'):
+                            print(form)
 
                         # Select the first form (the first form is the quick message form)
                         br.select_form(nr=0)
@@ -204,13 +207,14 @@ def send_from_view_matches_page(br,queryStringForViewMatches):
                         counter = counter + 1
                         print("sent message to " + profilePageUrl)
 
-                    except urllib.HTTPError as e:
-                        print('HTTPError = ' + str(e.code))
-                    except urllib2.URLError as e:
-                        print('URLError = ' + str(e.reason))
-                    except httplib.HTTPException as e:
-                        print('HTTPException')
-                    except Exception:
+                    # except urllib.HTTPError as e:
+                    #     print('HTTPError = ' + str(e.code))
+                    # except urllib.URLError as e:
+                    #     print('URLError = ' + str(e.reason))
+                    # except httplib.HTTPException as e:
+                    #     print('HTTPException')
+                    except Exception as e:
+                        print(e)
                         import traceback
 
                         print('generic exception: ' + traceback.format_exc())
@@ -259,7 +263,7 @@ def parseGResults(myQS):
         response=br.open(myQS)
         print(response.read())
 
-        send_from_view_matches_page(br, firstQueryString)
+        find_login_page(br, firstQueryString)
 
         # View available forms
         for f in br.forms():
@@ -281,7 +285,7 @@ def parseGResults(myQS):
             if(useBasicSearchPage):
                 send_from_basic_search_page(br,queryStringForBasicSearchPage)
             else:
-                send_from_view_matches_page(br,queryStringForViewMatches)
+                find_login_page(br, queryStringForViewMatches)
         except:
             import traceback
             print('generic exception: ' + traceback.format_exc())
