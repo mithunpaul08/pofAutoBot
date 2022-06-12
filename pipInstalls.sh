@@ -5,4 +5,4 @@ pip install html2text
 pip install mechanize
 pip install cookiejar
 pip install lxml
-
+pip install urllib3

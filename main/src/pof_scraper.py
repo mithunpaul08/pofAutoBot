@@ -3,23 +3,21 @@
 #todo
 #add ssh
 
-import requests, bs4, sys, webbrowser, html2text, os , PyPDF2, urllib2, smtplib, re, json
-from email.MIMEMultipart import MIMEMultipart
-from email.MIMEText import MIMEText
+import  bs4, sys, html2text, os , json
 import mechanize
-import cookielib
 import ssl
+from http.cookiejar import CookieJar
 
 
 #uncomment these 2 lines of code if you get the below error. Some unicode encoding stuff
-#UnicodeEncodeError: 'ascii' codec can't encode character u'\ufeff' in position 0: ordinal not in range(128)
-reload(sys)
-sys.setdefaultencoding('utf8')
+#UnicodeEncodeError: 'ascii' codec can't encode character u'|ufeff' in position 0: ordinal not in range(128)
+#reload(sys)
+#sys.setdefaultencoding('utf8')
 
 stubFilename='carIdHashTable.json'
 queryStringForViewMatches='http://www.pof.com/viewmatches.aspx?agelow=25&agehigh=35&miles=10&contacted=2&cmdSearch=Refine+Matches'
 queryStringForBasicSearchPage='https://www.pof.com/basicsearch.aspx'
-firstQueryString='http://www.okcupid.com/'
+firstQueryString='https://www.pof.com/'
 numberOfGoogleResults=1000
 stubMessage='Hey, nice profile. Love your smile. Are you from Tucson originally?'
 startValue=1
@@ -179,9 +177,9 @@ def send_from_view_matches_page(br,queryStringForViewMatches):
     counter = 0
     for link in soup.find_all('a'):
         # print(link)
-        classResult = link.get('class')
-        if (classResult != None):
-            if ("mi" in classResult):
+        classResult = link.text.lower()
+        if (classResult != ""):
+            if ("sign" in classResult):
                 # if the class exists, get the link, if its not null
                 linkToNextPage = link.get('href')
                 if (linkToNextPage != None):
@@ -206,7 +204,7 @@ def send_from_view_matches_page(br,queryStringForViewMatches):
                         counter = counter + 1
                         print("sent message to " + profilePageUrl)
 
-                    except urllib2.HTTPError as e:
+                    except urllib.HTTPError as e:
                         print('HTTPError = ' + str(e.code))
                     except urllib2.URLError as e:
                         print('URLError = ' + str(e.reason))
@@ -235,7 +233,7 @@ def parseGResults(myQS):
         br = mechanize.Browser()
 
         # Cookie Jar
-        cj = cookielib.LWPCookieJar()
+        cj = CookieJar()
         br.set_cookiejar(cj)
 
         # Browser options
@@ -258,11 +256,14 @@ def parseGResults(myQS):
             ssl._create_default_https_context = _create_unverified_https_context
 
         # The site we will navigate into, handling it's session
-        br.open(myQS)
+        response=br.open(myQS)
+        print(response.read())
+
+        send_from_view_matches_page(br, firstQueryString)
 
         # View available forms
-        # for f in br.forms():
-        #     print f
+        for f in br.forms():
+            print(f)
 
         # Select the second (index one) form (the first form is a search query box)
         br.select_form(nr=0)
@@ -295,9 +296,12 @@ def parseGResults(myQS):
 cwd = os.getcwd()
 print("current directory is:"+cwd)
 # Now change the directory
-if(isRunningOnServer):
-    os.chdir( path )
+# if(isRunningOnServer):
+#     os.chdir( path )
 
-
+# import requests
+# #print(requests.get("https://www.pof.com/").content)
+# import sys
+# sys.exit()
 parseGResults(firstQueryString)
 
